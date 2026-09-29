@@ -4,6 +4,7 @@
   "useMarkdownLinks": false,
   "userIgnoreFilters": [
     "_tools/",
-    ".venv/"
+    ".venv/",
+    "Templates/"
   ]
 }
