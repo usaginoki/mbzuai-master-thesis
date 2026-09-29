@@ -1,11 +1,13 @@
 ---
 question: ""
 id: Qx
+topics: []
+updated: YYYY-MM-DD
 tags:
   - type/question
   - q/x
 ---
-# Qx — {{question}}
+# Qx: {{question}}
 
 > [!summary] Short answer
 

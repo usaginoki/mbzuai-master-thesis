@@ -12,6 +12,7 @@ code: https://github.com/redwoodresearch/alignment_faking_public
 pdf: "[[Greenblatt2024.pdf]]"
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
+topics: [stress-misalignment]
 tags:
   - type/paper
   - relevance/core

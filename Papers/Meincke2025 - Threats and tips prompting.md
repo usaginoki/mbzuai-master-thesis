@@ -11,6 +11,7 @@ arxiv: "2508.00614"
 pdf: "[[Meincke2025.pdf]]"
 questions: [Q2, Q3.1, Q4.1, Q4.2]
 relevance: adjacent
+topics: [stress-misalignment]
 tags:
   - type/paper
   - relevance/adjacent

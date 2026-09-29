@@ -3,6 +3,7 @@ title: "Session 2026-09-28: Stress and misalignment literature review"
 date: 2026-09-28
 session: literature-review
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
+topics: [stress-misalignment]
 tags:
   - type/session
   - q/1

@@ -12,6 +12,7 @@ code: https://github.com/akjagadish/gpt-trauma-induction
 pdf: "[[BenZion2025.pdf]]"
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1]
 relevance: adjacent
+topics: [stress-misalignment]
 tags:
   - type/paper
   - relevance/adjacent

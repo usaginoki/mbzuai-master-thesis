@@ -2,6 +2,7 @@
 question: "In what ways do researchers define stress for an LLM or an agent?"
 id: Q1
 updated: 2026-09-28
+topics: [stress-misalignment]
 tags:
   - type/question
   - q/1

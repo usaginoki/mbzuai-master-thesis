@@ -6,7 +6,7 @@ notes = {os.path.basename(p)[:-3] for p in glob.glob("**/*.md", recursive=True) 
 files = {os.path.basename(p) for p in glob.glob("**/*", recursive=True) if os.path.isfile(p)}
 REQ = ["title", "authors", "year", "published", "venue", "peer_reviewed", "url", "pdf", "questions", "relevance", "tags"]
 problems = []
-for p in sorted(glob.glob("Papers/*.md") + glob.glob("Questions/*.md") + glob.glob("Sessions/*.md")):
+for p in sorted(glob.glob("Papers/*.md") + glob.glob("Questions/*.md") + glob.glob("Sessions/*.md") + ["Backlog.md"]):
     if not os.path.exists(p): continue
     s = open(p).read()
     if p.startswith("Papers/"):
@@ -17,6 +17,7 @@ for p in sorted(glob.glob("Papers/*.md") + glob.glob("Questions/*.md") + glob.gl
         qs = {q.strip() for q in qs.group(1).split(",")} if qs else set()
         tags = {t.replace("-", ".").upper() for t in re.findall(r"q/([\d-]+)", fm)}
         if {q.upper() for q in qs} != {"Q" + t for t in tags}: problems.append(f"{p}: questions {sorted(qs)} vs q/ tags {sorted(tags)}")
+    s = re.sub(r"`[^`\n]*`", "", s)  # links inside inline code are not links
     for emb, tgt in re.findall(r"(!?)\[\[([^\]|#]+)", s):
         tgt = tgt.strip().rstrip("\\").strip()  # "\|" is an escaped alias pipe inside tables
         ok = tgt in notes or tgt in files or os.path.basename(tgt) in files or tgt + ".md" in files

@@ -12,6 +12,7 @@ code: https://transformer-circuits.pub/2026/emotions/index.html
 pdf: "[[Sofroniew2026.pdf]]"
 questions: [Q1, Q2, Q3.1, Q4.1, Q4.2]
 relevance: core
+topics: [stress-misalignment]
 tags:
   - type/paper
   - relevance/core

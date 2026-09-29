@@ -12,6 +12,7 @@ code: https://github.com/anthropic-experimental/agentic-misalignment
 pdf: "[[Lynch2025.pdf]]"
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
+topics: [stress-misalignment]
 tags:
   - type/paper
   - relevance/core

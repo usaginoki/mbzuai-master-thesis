@@ -12,6 +12,7 @@ code: https://github.com/maxf-zn/misalignment_monitoring
 pdf: "[[Fomin2026.pdf]]"
 questions: [Q2, Q3.1, Q4.1, Q4.2]
 relevance: core
+topics: [stress-misalignment]
 tags:
   - type/paper
   - relevance/core

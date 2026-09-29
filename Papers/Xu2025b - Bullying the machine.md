@@ -11,6 +11,7 @@ arxiv: "2505.12692"
 pdf: "[[Xu2025b.pdf]]"
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
+topics: [stress-misalignment]
 tags:
   - type/paper
   - relevance/core

@@ -11,6 +11,7 @@ arxiv: "2604.00005"
 pdf: "[[Sun2026.pdf]]"
 questions: [Q1, Q2, Q3.1, Q4.1, Q4.2]
 relevance: adjacent
+topics: [stress-misalignment]
 tags:
   - type/paper
   - relevance/adjacent

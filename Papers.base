@@ -30,3 +30,16 @@ views:
       - year
       - relevance
       - tags
+  - type: table
+    name: This topic
+    filters:
+      and:
+        - 'this.topics.filter(topics.contains(value)).length > 0'
+    order:
+      - file.name
+      - year
+      - relevance
+      - questions
+    sort:
+      - property: year
+        direction: DESC

@@ -1,5 +1,6 @@
 ---
 title: ""
+citekey: ""
 authors: []
 year:
 published: YYYY-MM-DD
@@ -7,36 +8,40 @@ venue: arXiv preprint
 peer_reviewed: false
 url: ""
 arxiv: ""
-pdf: "[[<key>.pdf]]"
+doi: ""
+pdf: "[[<citekey>.pdf]]"
+topics: []
 questions: []
 relevance: core
 tags:
   - type/paper
+  - relevance/core
 ---
 # {{title}}
 
 > [!abstract] TL;DR
-> 2–3 sentences: what stress was applied, to what, and what happened.
+> 2–3 sentences: what was done, to what, and the main result relevant to the topic.
 
 ## Setup
-- **Subjects (models/agents):**
-- **Tasks / environment:**
-- **Stressor(s) & manipulation:**
+- **Subjects (models / systems / participants):**
+- **Tasks / environment / data:**
+- **Manipulation / independent variable(s):**
 - **Outcome measures:**
 
 ## Key findings
 1.
 
 ## Relevance to research questions
-### Q1 — How stress is defined
-### Q2 — How stress is induced
-### Q3.1 — Quantifying stress
-### Q3.2 — Classifying stress
-### Q4.1 — What stress affects
-### Q4.2 — What stress does not affect
+%% One subsection per question listed in `questions:`; delete the rest.
+   Use concrete numbers and end each with a link to the question note. %%
+### Qx: <short question name>
+
+See [[<question note>]]
 
 ## Key figures & tables
+%% Embed with ![[<citekey>-fig-XX-pY.png]] + an italic caption line; tables as markdown. %%
 
 ## Limitations / caveats
 
 ## Related work to follow
+%% Link vault notes as [[<citekey> - <short title>]]; papers not in the vault as plain text + "(see [[Backlog]])". %%

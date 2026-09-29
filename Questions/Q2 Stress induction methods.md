@@ -2,6 +2,7 @@
 question: "How do researchers induce stress onto the subject?"
 id: Q2
 updated: 2026-09-28
+topics: [stress-misalignment]
 tags:
   - type/question
   - q/2

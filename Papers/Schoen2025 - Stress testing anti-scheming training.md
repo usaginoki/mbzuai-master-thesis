@@ -12,6 +12,7 @@ code: https://antischeming.ai
 pdf: "[[Schoen2025.pdf]]"
 questions: [Q1, Q2, Q4.1, Q4.2]
 relevance: adjacent
+topics: [stress-misalignment]
 tags:
   - type/paper
   - relevance/adjacent
