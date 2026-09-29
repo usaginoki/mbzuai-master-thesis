@@ -14,6 +14,27 @@ pdf_url: https://arxiv.org/pdf/2503.03750
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Campbell2023 - Localizing Lying in Llama]]"
+  - "[[Chern2024 - BeHonest Benchmarking Honesty in Large Language Models]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Mazeika2025 - Utility Engineering]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Pan2023 - Do the Rewards Justify the Means MACHIAVELLI Benchmark]]"
+  - "[[Park2023 - AI deception A survey of examples, risks, and potential]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Su2024 - AI-LieDar Examine the Trade-off Between Utility and]]"
+  - "[[Zou2023 - Representation Engineering]]"
+cited_by:
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+  - "[[Chen2026 - Chasing the public score user pressure]]"
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+  - "[[Okamoto2026b - PACT enterprise assistants under pressure]]"
+  - "[[Petrova2026 - Pressure reveals character]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+  - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
+  - "[[Xu2025a - LH-Deception long-horizon deception]]"
+cited_by_count: 8
 tags:
   - type/paper
   - relevance/core

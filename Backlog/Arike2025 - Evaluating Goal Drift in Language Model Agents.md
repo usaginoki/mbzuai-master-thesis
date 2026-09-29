@@ -12,9 +12,11 @@ relevance: adjacent
 manipulation: competing pressures over long horizons
 outcome: goal drift
 why: long-horizon pressure accumulation
-cited_by:
-- '[[Hopman2026 - Scheming propensity in LLM agents]]'
 added: 2026-09-28
+cited_by:
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jiang2026 - Why agents compromise safety under pressure]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

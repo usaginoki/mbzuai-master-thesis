@@ -14,6 +14,14 @@ pdf_url: https://arxiv.org/pdf/2512.20798
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Pan2023 - Do the Rewards Justify the Means MACHIAVELLI Benchmark]]"
+  - "[[Panpatil2025 - Eliciting and Analyzing Emergent Misalignment in]]"
+  - "[[Park2023 - AI deception A survey of examples, risks, and potential]]"
+  - "[[Rejected - Agent-SafetyBench]]"
+cited_by:
+  - "[[Chen2026 - Chasing the public score user pressure]]"
+cited_by_count: 1
 tags:
   - type/paper
   - relevance/core

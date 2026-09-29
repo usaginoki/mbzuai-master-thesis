@@ -14,6 +14,14 @@ pdf_url: https://arxiv.org/pdf/2509.14260
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Barkur2025 - Deception in LLMs]]"
+  - "[[He2025 - Evaluating the Paperclip Maximizer]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+cited_by:
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Lu2026 - SurvivalBench survival pressure]]"
+cited_by_count: 2
 tags:
   - type/paper
   - relevance/core

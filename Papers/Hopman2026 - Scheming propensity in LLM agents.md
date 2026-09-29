@@ -13,6 +13,27 @@ pdf_url: https://arxiv.org/pdf/2603.01608
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Carlsmith2023 - Scheming AIs Will AIs Fake Alignment During Training in]]"
+  - "[[Gomez2025 - From surveillance to signalling]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Kutasov2025 - SHADE-Arena Evaluating Sabotage and Monitoring in LLM Agents]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[MacDiarmid2025 - Natural Emergent Misalignment from Reward Hacking in]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Naik2025 - AgentMisalignment]]"
+  - "[[Needham2025 - Large Language Models Often Know When They Are Being]]"
+  - "[[Pham2025 - Scheming Ability in LLM-to-LLM Strategic Interactions]]"
+  - "[[Phuong2025 - Evaluating Frontier Models for Stealth and Situational]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+  - "[[Sehwag2025 - PropensityBench]]"
+  - "[[Summerfield2025 - Lessons from a Chimp]]"
+  - "[[Wu2025 - OpenDeception]]"
+cited_by:
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[WiedermannMoller2026 - Instrumental choices]]"
+cited_by_count: 3
 tags:
   - type/paper
   - relevance/core

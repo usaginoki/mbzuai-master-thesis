@@ -15,9 +15,10 @@ relevance: core
 manipulation: power hierarchy (Stanford-prison style)
 outcome: anti-social behaviour
 why: authority/power pressure → misbehaviour
-cited_by:
-- '[[Pihlakas2026 - Milgram-like obedience experiment]]'
 added: 2026-09-28
+cited_by:
+  - "[[Pihlakas2026 - Milgram-like obedience experiment]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

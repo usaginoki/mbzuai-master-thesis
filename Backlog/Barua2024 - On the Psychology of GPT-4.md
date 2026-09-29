@@ -15,9 +15,10 @@ relevance: adjacent
 manipulation: none (baseline)
 outcome: anxiety questionnaire scores
 why: baseline LLM anxiety measurement (Q3.1)
-cited_by:
-- '[[BenZion2025 - State anxiety in LLMs]]'
 added: 2026-09-28
+cited_by:
+  - "[[BenZion2025 - State anxiety in LLMs]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

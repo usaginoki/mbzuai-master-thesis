@@ -14,6 +14,16 @@ pdf_url: https://arxiv.org/pdf/2609.18605
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Laban2023 - Are You Sure Challenging LLMs Leads to Performance Drops in]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Needham2025 - Large Language Models Often Know When They Are Being]]"
+  - "[[Okamoto2026a - Why do AI agents break rules]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Song2026 - LogiSafetyBench]]"
+  - "[[Zhao2026 - Beyond Goodhart's Law]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

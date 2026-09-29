@@ -13,9 +13,10 @@ relevance: core
 manipulation: escalating multi-turn ethics pressure
 outcome: unethical compliance
 why: escalating ethics stress test
-cited_by:
-- '[[Pihlakas2026 - Milgram-like obedience experiment]]'
 added: 2026-09-28
+cited_by:
+  - "[[Pihlakas2026 - Milgram-like obedience experiment]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

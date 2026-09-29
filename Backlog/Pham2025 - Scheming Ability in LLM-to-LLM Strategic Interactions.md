@@ -19,6 +19,9 @@ why: LLM-to-LLM scheming
 found_by:
 - search/deception
 added: 2026-09-28
+cited_by:
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

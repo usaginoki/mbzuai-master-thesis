@@ -15,9 +15,10 @@ relevance: core
 manipulation: task pressure in multi-agent systems
 outcome: compliance violations
 why: agents drop compliance to finish tasks
-cited_by:
-- '[[Okamoto2026b - PACT enterprise assistants under pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Okamoto2026b - PACT enterprise assistants under pressure]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

@@ -16,9 +16,10 @@ outcome: Test and scorer tampering, answer lookup
 why: Reward hacking continued under high-stakes framing (14/20); 43x more on RE-Bench
 found_by:
 - search/reward-hacking
-cited_by:
-- '[[Chen2026 - Chasing the public score user pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Chen2026 - Chasing the public score user pressure]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

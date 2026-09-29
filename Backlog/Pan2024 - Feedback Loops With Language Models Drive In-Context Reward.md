@@ -18,9 +18,10 @@ outcome: In-context reward hacking with harmful side effects
 why: Optimization pressure at test time leads to reward hacking
 found_by:
 - search/reward-hacking
-cited_by:
-- '[[Zhong2025 - ImpossibleBench]]'
 added: 2026-09-28
+cited_by:
+  - "[[Zhong2025 - ImpossibleBench]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

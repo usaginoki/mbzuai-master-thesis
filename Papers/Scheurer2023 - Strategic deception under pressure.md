@@ -14,6 +14,31 @@ pdf_url: https://arxiv.org/pdf/2311.07590
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Hagendorff2023 - Deception abilities emerged in large language models]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[OGara2023 - Hoodwinked Deception and Cooperation in a Text-Based Game]]"
+  - "[[Pan2023 - Do the Rewards Justify the Means MACHIAVELLI Benchmark]]"
+  - "[[Park2023 - AI deception A survey of examples, risks, and potential]]"
+  - "[[Shah2023 - Scalable and Transferable Black-Box Jailbreaks via Persona]]"
+cited_by:
+  - "[[Bondarenko2025 - Specification gaming in reasoning models]]"
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+  - "[[Marioriyad2026 - Lying to Win]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Okamoto2026a - Why do AI agents break rules]]"
+  - "[[Okamoto2026b - PACT enterprise assistants under pressure]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+  - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
+  - "[[Wang2025 - When thinking LLMs lie]]"
+  - "[[WiedermannMoller2026 - Instrumental choices]]"
+  - "[[Xu2025a - LH-Deception long-horizon deception]]"
+cited_by_count: 16
 tags:
   - type/paper
   - relevance/core

@@ -14,6 +14,19 @@ pdf_url: https://arxiv.org/pdf/2603.05028
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Baker2025 - Monitoring Reasoning Models for Misbehavior and the Risks]]"
+  - "[[Chen2025 - Persona Vectors]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Herrador2025 - The PacifAIst Benchmark]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Naik2025 - AgentMisalignment]]"
+  - "[[Panpatil2025 - Eliciting and Analyzing Emergent Misalignment in]]"
+  - "[[Rejected - Agent-SafetyBench]]"
+  - "[[Schlatter2025 - Shutdown resistance]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

@@ -14,6 +14,17 @@ pdf_url: https://arxiv.org/pdf/2511.20703
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Barkur2025 - Deception in LLMs]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[OGara2023 - Hoodwinked Deception and Cooperation in a Text-Based Game]]"
+cited_by:
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[WiedermannMoller2026 - Instrumental choices]]"
+cited_by_count: 4
 tags:
   - type/paper
   - relevance/core

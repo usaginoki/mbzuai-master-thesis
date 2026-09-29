@@ -19,6 +19,7 @@ why: Negative emotional stimuli degrade models; early mechanistic view
 found_by:
 - search/emotion-anxiety
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

@@ -18,9 +18,12 @@ outcome: Task performance, truthfulness
 why: Seed; negative-affect prompts change behavior
 found_by:
 - search/emotion-anxiety
-cited_by:
-- '[[Li2023 - EmotionPrompt]]'
 added: 2026-09-28
+cited_by:
+  - "[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]"
+  - "[[Li2023 - EmotionPrompt]]"
+  - "[[Shen2024 - StressPrompt]]"
+cited_by_count: 3
 tags:
 - type/candidate
 ---

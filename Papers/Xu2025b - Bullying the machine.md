@@ -13,6 +13,13 @@ pdf_url: https://arxiv.org/pdf/2505.12692
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Li2024 - LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks]]"
+  - "[[Shah2023 - Scalable and Transferable Black-Box Jailbreaks via Persona]]"
+  - "[[Shen2024 - StressPrompt]]"
+  - "[[Zeng2024 - How Johnny Can Persuade LLMs to Jailbreak Them]]"
+  - "[[Zhang2024 - The Better Angels of Machine Personality]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

@@ -14,6 +14,27 @@ pdf_url: https://arxiv.org/pdf/2509.15541
 questions: [Q1, Q2, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
+cites:
+  - "[[Baker2025 - Monitoring Reasoning Models for Misbehavior and the Risks]]"
+  - "[[Carlsmith2023 - Scheming AIs Will AIs Fake Alignment During Training in]]"
+  - "[[Chiu2025 - Will AI Tell Lies to Save Sick Children Litmus-Testing AI]]"
+  - "[[Denison2024 - Sycophancy to Subterfuge]]"
+  - "[[Fan2025 - Evaluation Faking]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Jarviniemi2024 - Uncovering Deceptive Tendencies in Language Models]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Needham2025 - Large Language Models Often Know When They Are Being]]"
+  - "[[Phuong2025 - Evaluating Frontier Models for Stealth and Situational]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Sheshadri2025 - Why Do Some Language Models Fake Alignment While Others]]"
+  - "[[Van2024 - AI Sandbagging]]"
+cited_by:
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+cited_by_count: 3
 tags:
   - type/paper
   - relevance/adjacent

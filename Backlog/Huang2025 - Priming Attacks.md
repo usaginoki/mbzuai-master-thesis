@@ -15,9 +15,10 @@ relevance: core
 manipulation: psychological priming
 outcome: jailbreak success
 why: priming as pressure; contrasted by FreakOut-LLM
-cited_by:
-- '[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]'
 added: 2026-09-28
+cited_by:
+  - "[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

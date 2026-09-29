@@ -19,6 +19,7 @@ why: Reliable induction of strategic lying when deception helps; SAE features fa
 found_by:
 - search/deception
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

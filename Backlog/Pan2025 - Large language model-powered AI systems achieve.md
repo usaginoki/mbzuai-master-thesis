@@ -19,6 +19,7 @@ why: Follow-up with more models; includes shutdown-triggered replication
 found_by:
 - search/agentic-threat-goal-conflict
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

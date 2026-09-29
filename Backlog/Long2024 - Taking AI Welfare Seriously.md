@@ -15,9 +15,11 @@ relevance: adjacent
 manipulation: n/a
 outcome: model welfare / distress
 why: background for 'model stress' (Q1)
-cited_by:
-- '[[Greenblatt2024 - Alignment faking]]'
 added: 2026-09-28
+cited_by:
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Tagliabue2026 - The Pain Axis]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

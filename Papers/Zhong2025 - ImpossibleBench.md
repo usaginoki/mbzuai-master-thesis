@@ -14,6 +14,14 @@ pdf_url: https://arxiv.org/pdf/2510.20270
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Denison2024 - Sycophancy to Subterfuge]]"
+  - "[[Pan2024 - Feedback Loops With Language Models Drive In-Context Reward]]"
+cited_by:
+  - "[[Guo2025 - Agentic upward deception]]"
+  - "[[Pihlakas2026 - Milgram-like obedience experiment]]"
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+cited_by_count: 3
 tags:
   - type/paper
   - relevance/core

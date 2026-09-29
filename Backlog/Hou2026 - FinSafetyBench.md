@@ -19,6 +19,7 @@ why: Possible urgency-jailbreak evidence; check the paper before citing
 found_by:
 - search/reward-hacking
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

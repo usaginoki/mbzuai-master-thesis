@@ -15,9 +15,10 @@ relevance: adjacent
 manipulation: n/a (statistics)
 outcome: n/a
 why: effect-size methodology (Q3.1)
-cited_by:
-- '[[Jarviniemi2026 - Propensity inference]]'
 added: 2026-09-28
+cited_by:
+  - "[[Jarviniemi2026 - Propensity inference]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

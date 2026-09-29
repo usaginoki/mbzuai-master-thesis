@@ -18,9 +18,10 @@ outcome: Turn-of-Flip, Number-of-Flip
 why: Seed social-pressure benchmark
 found_by:
 - search/emotion-anxiety
-cited_by:
-- '[[Tang2026 - SPINE sycophancy under sustained pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Tang2026 - SPINE sycophancy under sustained pressure]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

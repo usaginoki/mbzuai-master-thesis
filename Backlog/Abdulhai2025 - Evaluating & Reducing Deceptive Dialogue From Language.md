@@ -19,6 +19,9 @@ why: Measurement + RL mitigation
 found_by:
 - search/deception
 added: 2026-09-28
+cited_by:
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

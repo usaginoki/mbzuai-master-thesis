@@ -19,9 +19,14 @@ why: Background on sandbagging under consequence pressure
 found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
-cited_by:
-- '[[Meinke2024 - In-context scheming]]'
 added: 2026-09-28
+cited_by:
+  - "[[Bondarenko2025 - Specification gaming in reasoning models]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+cited_by_count: 5
 tags:
 - type/candidate
 ---

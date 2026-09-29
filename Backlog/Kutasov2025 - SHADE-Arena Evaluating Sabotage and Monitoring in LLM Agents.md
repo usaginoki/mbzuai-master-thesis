@@ -19,6 +19,10 @@ why: Sabotage capability benchmark
 found_by:
 - search/deception
 added: 2026-09-28
+cited_by:
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

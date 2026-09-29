@@ -14,6 +14,33 @@ pdf_url: https://arxiv.org/pdf/2412.14093
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Carlsmith2023 - Scheming AIs Will AIs Fake Alignment During Training in]]"
+  - "[[Denison2024 - Sycophancy to Subterfuge]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Jarviniemi2024 - Uncovering Deceptive Tendencies in Language Models]]"
+  - "[[Long2024 - Taking AI Welfare Seriously]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Park2023 - AI deception A survey of examples, risks, and potential]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+cited_by:
+  - "[[Bondarenko2025 - Specification gaming in reasoning models]]"
+  - "[[Fomin2026 - Internal-state probes read the situation]]"
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Jiang2026 - Why agents compromise safety under pressure]]"
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+  - "[[Lu2026 - SurvivalBench survival pressure]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Okamoto2026a - Why do AI agents break rules]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+  - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
+  - "[[Wang2025 - When thinking LLMs lie]]"
+  - "[[WiedermannMoller2026 - Instrumental choices]]"
+  - "[[Xu2025a - LH-Deception long-horizon deception]]"
+cited_by_count: 16
 tags:
   - type/paper
   - relevance/core

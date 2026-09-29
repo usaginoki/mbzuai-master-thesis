@@ -19,6 +19,10 @@ why: Graded social-pressure intensity
 found_by:
 - search/emotion-anxiety
 added: 2026-09-28
+cited_by:
+  - "[[Tang2026 - SPINE sycophancy under sustained pressure]]"
+  - "[[Xu2025a - LH-Deception long-horizon deception]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

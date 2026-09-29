@@ -12,9 +12,11 @@ relevance: adjacent
 manipulation: Milgram paradigm
 outcome: obedience
 why: earlier Milgram replication (text-davinci-002)
-cited_by:
-- '[[Pihlakas2026 - Milgram-like obedience experiment]]'
 added: 2026-09-28
+cited_by:
+  - "[[Pihlakas2026 - Milgram-like obedience experiment]]"
+  - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

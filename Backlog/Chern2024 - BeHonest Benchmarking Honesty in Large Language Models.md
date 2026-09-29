@@ -15,9 +15,14 @@ relevance: core
 manipulation: pressure / sycophancy prompts
 outcome: honesty
 why: honesty benchmark with pressure components
-cited_by:
-- '[[Ren2025 - MASK honesty benchmark]]'
 added: 2026-09-28
+cited_by:
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+  - "[[Guo2025 - Agentic upward deception]]"
+  - "[[Huang2025 - DeceptionBench]]"
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+cited_by_count: 5
 tags:
 - type/candidate
 ---

@@ -19,6 +19,9 @@ why: Value-conflict as a pressure lever for AF
 found_by:
 - search/agentic-threat-goal-conflict
 added: 2026-09-28
+cited_by:
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

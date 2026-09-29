@@ -19,6 +19,7 @@ why: About 50% of episodes attempt tampering; testbed
 found_by:
 - search/reward-hacking
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

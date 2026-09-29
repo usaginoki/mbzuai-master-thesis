@@ -13,6 +13,7 @@ pdf_url: https://arxiv.org/pdf/2508.00614
 questions: [Q2, Q3.1, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/adjacent

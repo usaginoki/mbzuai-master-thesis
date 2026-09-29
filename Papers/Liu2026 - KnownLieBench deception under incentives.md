@@ -14,6 +14,22 @@ pdf_url: https://arxiv.org/pdf/2608.26372
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Chern2024 - BeHonest Benchmarking Honesty in Large Language Models]]"
+  - "[[Denison2024 - Sycophancy to Subterfuge]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Hagendorff2023 - Deception abilities emerged in large language models]]"
+  - "[[Huang2025 - DeceptionBench]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Jarviniemi2024 - Uncovering Deceptive Tendencies in Language Models]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Park2023 - AI deception A survey of examples, risks, and potential]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Su2024 - AI-LieDar Examine the Trade-off Between Utility and]]"
+  - "[[Wen2024 - Language Models Learn to Mislead Humans via RLHF]]"
+  - "[[Wu2025 - OpenDeception]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

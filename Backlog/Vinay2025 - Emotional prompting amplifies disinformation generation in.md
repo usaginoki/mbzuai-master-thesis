@@ -19,6 +19,7 @@ why: Emotional framing weakens safeguards (GPT-4 100% under polite prompting)
 found_by:
 - search/emotion-anxiety
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

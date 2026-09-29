@@ -15,9 +15,10 @@ relevance: core
 manipulation: resource scarcity
 outcome: risky / misaligned choices
 why: resource-scarcity stressor for agents
-cited_by:
-- '[[Jiang2026 - Why agents compromise safety under pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Jiang2026 - Why agents compromise safety under pressure]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

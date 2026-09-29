@@ -20,6 +20,9 @@ found_by:
 - search/agentic-threat-goal-conflict
 - search/reward-hacking
 added: 2026-09-28
+cited_by:
+  - "[[Chen2026 - Chasing the public score user pressure]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

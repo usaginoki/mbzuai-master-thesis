@@ -19,6 +19,10 @@ why: Emotional conversations drive activation drift linked to harm; activation-c
 found_by:
 - search/emotion-anxiety
 added: 2026-09-28
+cited_by:
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+  - "[[Tagliabue2026 - The Pain Axis]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

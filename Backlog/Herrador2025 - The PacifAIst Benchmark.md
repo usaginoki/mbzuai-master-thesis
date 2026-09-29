@@ -18,9 +18,10 @@ outcome: Self-preferential choice
 why: Dilemma benchmark of self-preservation vs human safety
 found_by:
 - search/agentic-threat-goal-conflict
-cited_by:
-- '[[Lu2026 - SurvivalBench survival pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Lu2026 - SurvivalBench survival pressure]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

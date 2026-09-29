@@ -12,9 +12,10 @@ relevance: adjacent
 manipulation: '''LLM pressure'' prompts (urgency, emergencies)'
 outcome: decision quality
 why: the exogenous-pressure paradigm Jiang 2026 contrasts itself with
-cited_by:
-- '[[Jiang2026 - Why agents compromise safety under pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Jiang2026 - Why agents compromise safety under pressure]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

@@ -9,6 +9,9 @@ reason: no pressure manipulation
 found_by:
 - agent-notes
 added: 2026-09-28
+cited_by:
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

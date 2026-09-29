@@ -12,3 +12,6 @@ Attachments/**/*.pdf
 .obsidian/workspace*.json
 .obsidian/cache
 .trash/
+
+# secrets (e.g. S2_API_KEY)
+.env

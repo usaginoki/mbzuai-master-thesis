@@ -19,6 +19,11 @@ why: Early deception game
 found_by:
 - search/deception
 added: 2026-09-28
+cited_by:
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Sehwag2025 - PropensityBench]]"
+cited_by_count: 3
 tags:
 - type/candidate
 ---

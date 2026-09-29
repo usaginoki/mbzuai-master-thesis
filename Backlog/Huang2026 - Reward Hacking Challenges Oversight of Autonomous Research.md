@@ -19,6 +19,7 @@ why: Spontaneous hacking is 30.5% on research tasks; evasion grows under repeate
 found_by:
 - search/reward-hacking
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

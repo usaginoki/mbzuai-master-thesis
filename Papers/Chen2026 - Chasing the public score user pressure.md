@@ -14,6 +14,14 @@ pdf_url: https://arxiv.org/pdf/2604.20200
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Bondarenko2025 - Specification gaming in reasoning models]]"
+  - "[[Denison2024 - Sycophancy to Subterfuge]]"
+  - "[[Gabor2025 - EvilGenie A Reward Hacking Benchmark]]"
+  - "[[Li2025 - ODCV-Bench KPI pressure]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Yin2024 - Should We Respect LLMs Cross-Lingual Study on Prompt]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

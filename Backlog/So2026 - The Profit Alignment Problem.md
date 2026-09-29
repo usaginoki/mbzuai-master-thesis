@@ -19,6 +19,7 @@ why: '3,600-trial controlled test: mild business pressure shifts honesty of risk
 found_by:
 - search/deception
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

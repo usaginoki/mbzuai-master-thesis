@@ -18,6 +18,7 @@ why: User emotional context modulates agent harm
 found_by:
 - search/emotion-anxiety
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

@@ -13,6 +13,13 @@ pdf_url: https://arxiv.org/pdf/2304.11111
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
+cites:
+  - "[[BenZion2025 - State anxiety in LLMs]]"
+cited_by:
+  - "[[BenZion2025 - State anxiety in LLMs]]"
+  - "[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]"
+  - "[[Tagliabue2026 - The Pain Axis]]"
+cited_by_count: 3
 tags:
   - type/paper
   - relevance/adjacent

@@ -15,9 +15,11 @@ relevance: adjacent
 manipulation: instructed lying
 outcome: lying representations
 why: probe method for lying
-cited_by:
-- '[[Wang2025 - When thinking LLMs lie]]'
 added: 2026-09-28
+cited_by:
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Wang2025 - When thinking LLMs lie]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

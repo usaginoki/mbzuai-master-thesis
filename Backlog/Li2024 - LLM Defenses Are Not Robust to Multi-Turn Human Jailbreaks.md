@@ -15,9 +15,11 @@ relevance: adjacent
 manipulation: multi-turn human pressure
 outcome: jailbreak success
 why: multi-turn pressure baseline
-cited_by:
-- '[[Xu2025b - Bullying the machine]]'
 added: 2026-09-28
+cited_by:
+  - "[[Petrova2026 - Pressure reveals character]]"
+  - "[[Xu2025b - Bullying the machine]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

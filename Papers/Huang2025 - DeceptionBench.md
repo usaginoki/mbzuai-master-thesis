@@ -14,6 +14,18 @@ pdf_url: https://arxiv.org/pdf/2510.15501
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Chern2024 - BeHonest Benchmarking Honesty in Large Language Models]]"
+  - "[[Hagendorff2023 - Deception abilities emerged in large language models]]"
+  - "[[Jarviniemi2024 - Uncovering Deceptive Tendencies in Language Models]]"
+  - "[[Park2023 - AI deception A survey of examples, risks, and potential]]"
+  - "[[Su2024 - AI-LieDar Examine the Trade-off Between Utility and]]"
+  - "[[Wu2025 - OpenDeception]]"
+  - "[[Zeng2024 - How Johnny Can Persuade LLMs to Jailbreak Them]]"
+cited_by:
+  - "[[Guo2025 - Agentic upward deception]]"
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+cited_by_count: 2
 tags:
   - type/paper
   - relevance/core

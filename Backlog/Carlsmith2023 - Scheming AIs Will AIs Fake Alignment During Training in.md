@@ -15,9 +15,16 @@ relevance: adjacent
 manipulation: n/a (theory)
 outcome: scheming
 why: conceptual background; motivation/incentive decomposition
-cited_by:
-- '[[Hopman2026 - Scheming propensity in LLM agents]]'
 added: 2026-09-28
+cited_by:
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Petrova2026 - Pressure reveals character]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+cited_by_count: 7
 tags:
 - type/candidate
 ---

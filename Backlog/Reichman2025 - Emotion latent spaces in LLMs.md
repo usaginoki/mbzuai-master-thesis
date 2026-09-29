@@ -15,9 +15,11 @@ relevance: adjacent
 manipulation: n/a
 outcome: emotion representations
 why: internal emotion geometry (Q3.1)
-cited_by:
-- '[[Sofroniew2026 - Emotion concepts and their function]]'
 added: 2026-09-28
+cited_by:
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+  - "[[Sun2026 - E-STEER emotion shapes agent behavior]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

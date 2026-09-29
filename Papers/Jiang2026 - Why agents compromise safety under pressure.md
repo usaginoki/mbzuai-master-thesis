@@ -13,6 +13,14 @@ pdf_url: https://arxiv.org/pdf/2603.14975
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Arike2025 - Evaluating Goal Drift in Language Model Agents]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Kim2024 - Will LLMs Sink or Swim Exploring Decision-Making Under]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Ornia2025 - Emergent Risk Awareness in Rational Agents under Resource]]"
+  - "[[Pan2023 - Do the Rewards Justify the Means MACHIAVELLI Benchmark]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

@@ -13,6 +13,18 @@ pdf_url: https://arxiv.org/pdf/2506.04909
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Campbell2023 - Localizing Lying in Llama]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Hagendorff2023 - Deception abilities emerged in large language models]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Park2023 - AI deception A survey of examples, risks, and potential]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Zou2023 - Representation Engineering]]"
+cited_by:
+  - "[[Xu2025a - LH-Deception long-horizon deception]]"
+cited_by_count: 1
 tags:
   - type/paper
   - relevance/core

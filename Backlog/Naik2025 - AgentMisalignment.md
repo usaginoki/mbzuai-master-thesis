@@ -20,6 +20,10 @@ found_by:
 - search/agentic-threat-goal-conflict
 - search/reward-hacking
 added: 2026-09-28
+cited_by:
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Lu2026 - SurvivalBench survival pressure]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

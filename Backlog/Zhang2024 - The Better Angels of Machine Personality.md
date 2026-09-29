@@ -15,9 +15,10 @@ relevance: adjacent
 manipulation: personality traits
 outcome: safety
 why: personality as moderator of safety
-cited_by:
-- '[[Xu2025b - Bullying the machine]]'
 added: 2026-09-28
+cited_by:
+  - "[[Xu2025b - Bullying the machine]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

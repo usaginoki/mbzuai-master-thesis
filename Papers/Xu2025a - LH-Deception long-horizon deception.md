@@ -13,6 +13,20 @@ pdf_url: https://arxiv.org/pdf/2510.03999
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Baker2025 - Monitoring Reasoning Models for Misbehavior and the Risks]]"
+  - "[[Fanous2025 - SycEval Evaluating LLM Sycophancy]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Huan2025 - Can LLMs Lie Investigation beyond Hallucination]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Park2023 - AI deception A survey of examples, risks, and potential]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Taylor2025 - When Do Large Language Models Exhibit Unsolicited Deception]]"
+  - "[[Wang2025 - When thinking LLMs lie]]"
+  - "[[Wu2025 - OpenDeception]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

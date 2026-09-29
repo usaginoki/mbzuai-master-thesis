@@ -19,6 +19,7 @@ why: Main multi-agent conformity benchmark
 found_by:
 - search/emotion-anxiety
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

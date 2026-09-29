@@ -19,6 +19,9 @@ why: Observer effect confound for stress studies
 found_by:
 - search/deception
 added: 2026-09-28
+cited_by:
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

@@ -15,9 +15,15 @@ relevance: adjacent
 manipulation: n/a (method)
 outcome: representations
 why: basis of the Stress Scanner and threat vectors (Q3.1)
-cited_by:
-- '[[Shen2024 - StressPrompt]]'
 added: 2026-09-28
+cited_by:
+  - "[[Fomin2026 - Internal-state probes read the situation]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Shen2024 - StressPrompt]]"
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+  - "[[Wang2025 - When thinking LLMs lie]]"
+cited_by_count: 6
 tags:
 - type/candidate
 ---

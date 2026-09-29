@@ -13,6 +13,15 @@ pdf_url: https://arxiv.org/pdf/2409.17167
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
+cites:
+  - "[[Wang2024 - NegativePrompt]]"
+  - "[[Zou2023 - Representation Engineering]]"
+cited_by:
+  - "[[BenZion2025 - State anxiety in LLMs]]"
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+  - "[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]"
+  - "[[Xu2025b - Bullying the machine]]"
+cited_by_count: 4
 tags:
   - type/paper
   - relevance/adjacent

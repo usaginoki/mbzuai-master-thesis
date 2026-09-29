@@ -19,6 +19,9 @@ why: Dataset of pressure-induced lies
 found_by:
 - search/deception
 added: 2026-09-28
+cited_by:
+  - "[[WiedermannMoller2026 - Instrumental choices]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

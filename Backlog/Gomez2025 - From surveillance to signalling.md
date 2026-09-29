@@ -20,6 +20,9 @@ found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
 added: 2026-09-28
+cited_by:
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

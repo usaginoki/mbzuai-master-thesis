@@ -15,9 +15,10 @@ relevance: adjacent
 manipulation: aversive conversations
 outcome: leaving the conversation
 why: avoidance under aversive input
-cited_by:
-- '[[Tagliabue2026 - The Pain Axis]]'
 added: 2026-09-28
+cited_by:
+  - "[[Tagliabue2026 - The Pain Axis]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

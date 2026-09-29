@@ -19,9 +19,11 @@ why: Links stake-laden dilemmas to risky behaviours
 found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
-cited_by:
-- '[[Huang2025 - DeceptionBench]]'
 added: 2026-09-28
+cited_by:
+  - "[[Huang2025 - DeceptionBench]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

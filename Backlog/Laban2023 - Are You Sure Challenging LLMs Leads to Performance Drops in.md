@@ -18,9 +18,11 @@ outcome: Answer flipping (46%), accuracy drop
 why: Seed "are you sure" pressure paradigm
 found_by:
 - search/emotion-anxiety
-cited_by:
-- '[[Tang2026 - SPINE sycophancy under sustained pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Okamoto2026b - PACT enterprise assistants under pressure]]"
+  - "[[Tang2026 - SPINE sycophancy under sustained pressure]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

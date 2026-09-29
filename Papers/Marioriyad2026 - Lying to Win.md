@@ -13,6 +13,12 @@ pdf_url: https://arxiv.org/pdf/2603.07202
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Park2023 - AI deception A survey of examples, risks, and potential]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Wu2025 - OpenDeception]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

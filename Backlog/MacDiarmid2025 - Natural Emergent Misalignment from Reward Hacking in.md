@@ -18,9 +18,13 @@ outcome: Reward hacking leading to sabotage and alignment faking
 why: Background on the consequences of reward hacking
 found_by:
 - search/reward-hacking
-cited_by:
-- '[[Guo2025 - Agentic upward deception]]'
 added: 2026-09-28
+cited_by:
+  - "[[Guo2025 - Agentic upward deception]]"
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+cited_by_count: 4
 tags:
 - type/candidate
 ---

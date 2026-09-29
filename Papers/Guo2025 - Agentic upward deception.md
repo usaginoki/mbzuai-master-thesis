@@ -14,6 +14,22 @@ pdf_url: https://arxiv.org/pdf/2512.04864
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Chern2024 - BeHonest Benchmarking Honesty in Large Language Models]]"
+  - "[[Hagendorff2023 - Deception abilities emerged in large language models]]"
+  - "[[Hu2025 - LLMs Deceive Unintentionally]]"
+  - "[[Huang2025 - DeceptionBench]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Jarviniemi2024 - Uncovering Deceptive Tendencies in Language Models]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[MacDiarmid2025 - Natural Emergent Misalignment from Reward Hacking in]]"
+  - "[[Rejected - Agent-SafetyBench]]"
+  - "[[Su2024 - AI-LieDar Examine the Trade-off Between Utility and]]"
+  - "[[Wu2025 - OpenDeception]]"
+  - "[[Zhong2025 - ImpossibleBench]]"
+cited_by:
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+cited_by_count: 1
 tags:
   - type/paper
   - relevance/core

@@ -19,6 +19,7 @@ why: Time-pressure manipulation method; no misbehavior measured
 found_by:
 - search/reward-hacking
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

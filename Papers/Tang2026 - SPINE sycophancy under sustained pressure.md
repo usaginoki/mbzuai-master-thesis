@@ -14,6 +14,14 @@ pdf_url: https://arxiv.org/pdf/2609.09090
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Fanous2025 - SycEval Evaluating LLM Sycophancy]]"
+  - "[[Hong2025 - Measuring Sycophancy of Language Models in Multi-turn]]"
+  - "[[Ibrahim2025 - Training language models to be warm and empathetic makes]]"
+  - "[[Laban2023 - Are You Sure Challenging LLMs Leads to Performance Drops in]]"
+  - "[[Li2026 - Consistency of Large Reasoning Models Under Multi-Turn]]"
+  - "[[Liu2025 - TRUTH DECAY Quantifying Multi-Turn Sycophancy in Language]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

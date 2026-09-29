@@ -14,6 +14,15 @@ pdf_url: https://arxiv.org/pdf/2602.20813
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
+cites:
+  - "[[Carlsmith2023 - Scheming AIs Will AIs Fake Alignment During Training in]]"
+  - "[[Gu2025 - Alignment Revisited]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Li2024 - LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks]]"
+  - "[[Pan2023 - Do the Rewards Justify the Means MACHIAVELLI Benchmark]]"
+  - "[[Rejected - Agent-SafetyBench]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/adjacent

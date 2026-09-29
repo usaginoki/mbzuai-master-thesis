@@ -15,9 +15,12 @@ relevance: adjacent
 manipulation: n/a (critique)
 outcome: methodology of scheming/pressure evals
 why: 'critique: missing controls, anecdotes; framing for Q4.2'
-cited_by:
-- '[[Hopman2026 - Scheming propensity in LLM agents]]'
 added: 2026-09-28
+cited_by:
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+cited_by_count: 3
 tags:
 - type/candidate
 ---

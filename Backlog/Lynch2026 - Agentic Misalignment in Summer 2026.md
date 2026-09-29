@@ -17,6 +17,7 @@ why: Update on newer frontier models; consequence framing shown causal (74%→3%
 found_by:
 - search/agentic-threat-goal-conflict
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

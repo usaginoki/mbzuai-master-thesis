@@ -14,6 +14,24 @@ pdf_url: https://arxiv.org/pdf/2604.21098
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Agrawal2025 - Why Do Language Model Agents Whistleblow]]"
+  - "[[Betley2025 - Emergent Misalignment]]"
+  - "[[Carlsmith2023 - Scheming AIs Will AIs Fake Alignment During Training in]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jarviniemi2024 - Uncovering Deceptive Tendencies in Language Models]]"
+  - "[[Luettgau2025 - HiBayES Hierarchical Bayesian Modeling for AI Evaluation]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[MacDiarmid2025 - Natural Emergent Misalignment from Reward Hacking in]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Schlatter2025 - Shutdown resistance]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+  - "[[Sehwag2025 - PropensityBench]]"
+  - "[[Sheshadri2025 - Why Do Some Language Models Fake Alignment While Others]]"
+  - "[[Summerfield2025 - Lessons from a Chimp]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

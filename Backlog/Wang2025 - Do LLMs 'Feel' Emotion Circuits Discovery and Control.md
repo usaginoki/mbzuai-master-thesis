@@ -15,9 +15,10 @@ relevance: adjacent
 manipulation: emotion circuits / steering
 outcome: emotional expression
 why: measurement/steering method (Q3.1)
-cited_by:
-- '[[Sofroniew2026 - Emotion concepts and their function]]'
 added: 2026-09-28
+cited_by:
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

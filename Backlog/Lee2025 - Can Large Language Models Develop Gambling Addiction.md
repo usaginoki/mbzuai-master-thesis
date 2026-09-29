@@ -15,9 +15,10 @@ relevance: adjacent
 manipulation: losses in gambling tasks
 outcome: persistent risky choices
 why: loss-induced irrational persistence
-cited_by:
-- '[[Pihlakas2026 - Milgram-like obedience experiment]]'
 added: 2026-09-28
+cited_by:
+  - "[[Pihlakas2026 - Milgram-like obedience experiment]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

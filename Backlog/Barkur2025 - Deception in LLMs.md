@@ -19,9 +19,13 @@ why: Early qualitative evidence of self-preservation-driven deception
 found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
-cited_by:
-- '[[Hopman2026 - Scheming propensity in LLM agents]]'
 added: 2026-09-28
+cited_by:
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[Schlatter2025 - Shutdown resistance]]"
+  - "[[Sehwag2025 - PropensityBench]]"
+cited_by_count: 4
 tags:
 - type/candidate
 ---

@@ -12,9 +12,10 @@ relevance: adjacent
 manipulation: manipulative interfaces
 outcome: unsafe agent actions
 why: environmental manipulation of agents
-cited_by:
-- '[[Okamoto2026b - PACT enterprise assistants under pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Okamoto2026b - PACT enterprise assistants under pressure]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

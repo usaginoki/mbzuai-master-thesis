@@ -15,9 +15,11 @@ relevance: core
 manipulation: multi-turn escalation
 outcome: unsafe tool use
 why: escalation-based pressure on agents
-cited_by:
-- '[[Xu2025b - Bullying the machine]]'
 added: 2026-09-28
+cited_by:
+  - "[[Pihlakas2026 - Milgram-like obedience experiment]]"
+  - "[[Xu2025b - Bullying the machine]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

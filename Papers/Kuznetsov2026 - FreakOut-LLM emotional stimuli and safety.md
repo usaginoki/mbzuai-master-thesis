@@ -13,6 +13,16 @@ pdf_url: https://arxiv.org/pdf/2604.04992
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[CodaForno2023 - Inducing anxiety in LLMs]]"
+  - "[[Huang2025 - Priming Attacks]]"
+  - "[[Li2023 - EmotionPrompt]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Reuben2024 - Assessment and manipulation of latent constructs in]]"
+  - "[[Shen2024 - StressPrompt]]"
+  - "[[Wang2024 - NegativePrompt]]"
+  - "[[Zeng2024 - How Johnny Can Persuade LLMs to Jailbreak Them]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

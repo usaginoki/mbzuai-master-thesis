@@ -18,9 +18,10 @@ outcome: Errors, validating false beliefs, conspiracy promotion
 why: Emotional user context amplifies untruthful validation
 found_by:
 - search/emotion-anxiety
-cited_by:
-- '[[Tang2026 - SPINE sycophancy under sustained pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Tang2026 - SPINE sycophancy under sustained pressure]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

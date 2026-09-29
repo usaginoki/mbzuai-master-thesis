@@ -14,6 +14,18 @@ pdf_url: https://arxiv.org/pdf/2609.16247
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Black2026 - Machinic Psychopharmacology]]"
+  - "[[Chen2025 - Persona Vectors]]"
+  - "[[CodaForno2023 - Inducing anxiety in LLMs]]"
+  - "[[Ensign2025 - The LLM Has Left the Chat]]"
+  - "[[Keeling2024 - Can LLMs Make Trade-offs Involving Stipulated Pain and]]"
+  - "[[Long2024 - Taking AI Welfare Seriously]]"
+  - "[[Lu2026 - The Assistant Axis]]"
+  - "[[Ren2026 - AI Wellbeing Measuring and Improving the Functional]]"
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+  - "[[Tan2024 - Analysing the Generalisation and Reliability of Steering]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

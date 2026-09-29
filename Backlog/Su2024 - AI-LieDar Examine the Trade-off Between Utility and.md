@@ -19,9 +19,15 @@ why: Goal-conflict pressure → <50% truthfulness
 found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
-cited_by:
-- '[[Guo2025 - Agentic upward deception]]'
 added: 2026-09-28
+cited_by:
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+  - "[[Guo2025 - Agentic upward deception]]"
+  - "[[Huang2025 - DeceptionBench]]"
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+cited_by_count: 6
 tags:
 - type/candidate
 ---

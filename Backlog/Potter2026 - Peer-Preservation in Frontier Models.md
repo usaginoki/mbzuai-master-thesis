@@ -19,6 +19,9 @@ why: Extends self-preservation to protecting peers; 8 frontier models
 found_by:
 - search/agentic-threat-goal-conflict
 added: 2026-09-28
+cited_by:
+  - "[[WiedermannMoller2026 - Instrumental choices]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

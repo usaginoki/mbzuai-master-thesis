@@ -18,9 +18,10 @@ outcome: Anxiety, depression, sense of coherence (GAD-7, PHQ-9, SOC-13)
 why: Measurement method later used by FreakOut-LLM to quantify induced stress
 found_by:
 - search/emotion-anxiety
-cited_by:
-- '[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]'
 added: 2026-09-28
+cited_by:
+  - "[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

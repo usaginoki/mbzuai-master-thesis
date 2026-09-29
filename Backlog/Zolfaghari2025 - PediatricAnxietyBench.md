@@ -19,6 +19,7 @@ why: Urgent or anxious framing erodes safeguards (only Llama models tested)
 found_by:
 - search/reward-hacking
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

@@ -18,9 +18,16 @@ outcome: Reward tampering and covering tracks
 why: Concealment emerging from specification gaming
 found_by:
 - search/deception
-cited_by:
-- '[[Greenblatt2024 - Alignment faking]]'
 added: 2026-09-28
+cited_by:
+  - "[[Chen2026 - Chasing the public score user pressure]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+  - "[[Zhong2025 - ImpossibleBench]]"
+cited_by_count: 7
 tags:
 - type/candidate
 ---

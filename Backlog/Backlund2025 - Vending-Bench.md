@@ -19,6 +19,9 @@ why: Stress-induced erratic behaviour; basis of 2608.14825
 found_by:
 - search/agentic-threat-goal-conflict
 added: 2026-09-28
+cited_by:
+  - "[[Pihlakas2026 - Milgram-like obedience experiment]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

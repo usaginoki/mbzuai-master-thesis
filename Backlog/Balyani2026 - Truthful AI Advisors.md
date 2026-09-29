@@ -19,6 +19,7 @@ why: Graded incentive strength with exact honesty oracle
 found_by:
 - search/deception
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

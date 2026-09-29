@@ -14,6 +14,28 @@ pdf_url: https://arxiv.org/pdf/2609.08126
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Baker2025 - Monitoring Reasoning Models for Misbehavior and the Risks]]"
+  - "[[Barkur2025 - Deception in LLMs]]"
+  - "[[Carlsmith2023 - Scheming AIs Will AIs Fake Alignment During Training in]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[He2025 - Evaluating the Paperclip Maximizer]]"
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Jarviniemi2024 - Uncovering Deceptive Tendencies in Language Models]]"
+  - "[[Kutasov2025 - SHADE-Arena Evaluating Sabotage and Monitoring in LLM Agents]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Nair2026 - Value-Conflict Diagnostics Reveal Widespread Alignment]]"
+  - "[[Needham2025 - Large Language Models Often Know When They Are Being]]"
+  - "[[Phuong2025 - Evaluating Frontier Models for Stealth and Situational]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+  - "[[Sehwag2025 - PropensityBench]]"
+  - "[[Sheshadri2025 - Why Do Some Language Models Fake Alignment While Others]]"
+  - "[[Van2024 - AI Sandbagging]]"
+  - "[[Wu2025 - OpenDeception]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

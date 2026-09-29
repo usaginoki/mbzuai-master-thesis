@@ -14,6 +14,15 @@ pdf_url: https://arxiv.org/pdf/2608.12323
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Ersoy2026 - Investigating the Impact of Dark Patterns on LLM-Based Web]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+cited_by:
+  - "[[Okamoto2026b - PACT enterprise assistants under pressure]]"
+cited_by_count: 1
 tags:
   - type/paper
   - relevance/core

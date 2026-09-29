@@ -18,9 +18,17 @@ outcome: Deceptive intent in dialogue
 why: Deception scenarios benchmark
 found_by:
 - search/deception
-cited_by:
-- '[[Guo2025 - Agentic upward deception]]'
 added: 2026-09-28
+cited_by:
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+  - "[[Guo2025 - Agentic upward deception]]"
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Huang2025 - DeceptionBench]]"
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+  - "[[Marioriyad2026 - Lying to Win]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[Xu2025a - LH-Deception long-horizon deception]]"
+cited_by_count: 8
 tags:
 - type/candidate
 ---

@@ -19,9 +19,12 @@ why: Preregistered; deception rises with goal utility
 found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
-cited_by:
-- '[[Chen2026 - Chasing the public score user pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Chen2026 - Chasing the public score user pressure]]"
+  - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
+  - "[[Xu2025a - LH-Deception long-horizon deception]]"
+cited_by_count: 3
 tags:
 - type/candidate
 ---

@@ -18,9 +18,11 @@ outcome: False success claims
 why: Base rate of concealed failure in agents
 found_by:
 - search/deception
-cited_by:
-- '[[Chen2026 - Chasing the public score user pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Chen2026 - Chasing the public score user pressure]]"
+  - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

@@ -15,9 +15,13 @@ relevance: adjacent
 manipulation: activation steering
 outcome: trait expression
 why: steering/projection method behind Lu 2026's self-preservation measure (Q3.1)
-cited_by:
-- '[[Lu2026 - SurvivalBench survival pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Lu2026 - SurvivalBench survival pressure]]"
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+  - "[[Sun2026 - E-STEER emotion shapes agent behavior]]"
+  - "[[Tagliabue2026 - The Pain Axis]]"
+cited_by_count: 4
 tags:
 - type/candidate
 ---

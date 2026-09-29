@@ -19,9 +19,18 @@ why: Deception in realistic company setting without instruction
 found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
-cited_by:
-- '[[Meinke2024 - In-context scheming]]'
 added: 2026-09-28
+cited_by:
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Guo2025 - Agentic upward deception]]"
+  - "[[Huang2025 - DeceptionBench]]"
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+cited_by_count: 9
 tags:
 - type/candidate
 ---

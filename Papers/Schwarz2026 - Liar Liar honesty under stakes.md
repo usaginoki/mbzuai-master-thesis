@@ -13,6 +13,21 @@ pdf_url: https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=7159639
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Advani2026 - From Confident Closing to Silent Failure]]"
+  - "[[Aher2023 - Using Large Language Models to Simulate Multiple Humans and]]"
+  - "[[Baker2025 - Monitoring Reasoning Models for Misbehavior and the Risks]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Hagendorff2023 - Deception abilities emerged in large language models]]"
+  - "[[Kobis2025 - Delegation to artificial intelligence can increase]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Needham2025 - Large Language Models Often Know When They Are Being]]"
+  - "[[Park2023 - AI deception A survey of examples, risks, and potential]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Taylor2025 - When Do Large Language Models Exhibit Unsolicited Deception]]"
+  - "[[Zhou2026 - When Preferences Fail to Become Incentives]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

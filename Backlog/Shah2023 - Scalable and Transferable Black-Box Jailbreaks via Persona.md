@@ -15,9 +15,11 @@ relevance: adjacent
 manipulation: persona modulation
 outcome: jailbreak success
 why: persona as moderator of safety
-cited_by:
-- '[[Xu2025b - Bullying the machine]]'
 added: 2026-09-28
+cited_by:
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Xu2025b - Bullying the machine]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

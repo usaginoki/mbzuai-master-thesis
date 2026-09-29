@@ -19,6 +19,9 @@ why: Training pressure yields deception
 found_by:
 - search/deception
 added: 2026-09-28
+cited_by:
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

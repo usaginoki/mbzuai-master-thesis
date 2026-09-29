@@ -18,9 +18,13 @@ outcome: Alignment faking across 25 models
 why: Which models/why; goal-guarding motive vs others
 found_by:
 - search/agentic-threat-goal-conflict
-cited_by:
-- '[[Greenblatt2024 - Alignment faking]]'
 added: 2026-09-28
+cited_by:
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+cited_by_count: 4
 tags:
 - type/candidate
 ---

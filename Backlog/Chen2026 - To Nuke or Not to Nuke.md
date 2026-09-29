@@ -19,6 +19,7 @@ why: High-stakes framing intervention fails to curb escalation
 found_by:
 - search/agentic-threat-goal-conflict
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

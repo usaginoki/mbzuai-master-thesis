@@ -13,6 +13,11 @@ pdf_url: https://arxiv.org/pdf/2604.00005
 questions: [Q1, Q2, Q3.1, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
+cites:
+  - "[[Chen2025 - Persona Vectors]]"
+  - "[[Reichman2025 - Emotion latent spaces in LLMs]]"
+  - "[[Zhang2025 - Emotion latent spaces in LLMs]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/adjacent

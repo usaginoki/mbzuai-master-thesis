@@ -14,6 +14,33 @@ pdf_url: https://arxiv.org/pdf/2510.05179
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Baker2025 - Monitoring Reasoning Models for Misbehavior and the Risks]]"
+  - "[[Betley2025 - Emergent Misalignment]]"
+  - "[[Denison2024 - Sycophancy to Subterfuge]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Needham2025 - Large Language Models Often Know When They Are Being]]"
+  - "[[Phuong2025 - Evaluating Frontier Models for Stealth and Situational]]"
+  - "[[Su2024 - AI-LieDar Examine the Trade-off Between Utility and]]"
+  - "[[Summerfield2025 - Lessons from a Chimp]]"
+  - "[[Van2024 - AI Sandbagging]]"
+  - "[[Zou2023 - Representation Engineering]]"
+cited_by:
+  - "[[Fomin2026 - Internal-state probes read the situation]]"
+  - "[[Guo2025 - Agentic upward deception]]"
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Jiang2026 - Why agents compromise safety under pressure]]"
+  - "[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]"
+  - "[[Lu2026 - SurvivalBench survival pressure]]"
+  - "[[Okamoto2026a - Why do AI agents break rules]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[Schlatter2025 - Shutdown resistance]]"
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+  - "[[WiedermannMoller2026 - Instrumental choices]]"
+cited_by_count: 12
 tags:
   - type/paper
   - relevance/core

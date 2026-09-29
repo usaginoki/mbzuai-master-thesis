@@ -15,9 +15,11 @@ relevance: adjacent
 manipulation: activation steering
 outcome: steering reliability
 why: needed to judge steering-based stress studies
-cited_by:
-- '[[Fomin2026 - Internal-state probes read the situation]]'
 added: 2026-09-28
+cited_by:
+  - "[[Fomin2026 - Internal-state probes read the situation]]"
+  - "[[Tagliabue2026 - The Pain Axis]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

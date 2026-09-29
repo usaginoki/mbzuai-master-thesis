@@ -16,9 +16,10 @@ outcome: Machine-agent compliance with cheating (die-roll misreporting)
 why: Classic human cheating paradigms applied to LLM agents; LLMs comply with unethical instructions more than humans do
 found_by:
 - search/reward-hacking
-cited_by:
-- '[[Schwarz2026 - Liar Liar honesty under stakes]]'
 added: 2026-09-28
+cited_by:
+  - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

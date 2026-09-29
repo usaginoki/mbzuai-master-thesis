@@ -18,9 +18,10 @@ outcome: Performance, bias
 why: Social-tone pressure baseline
 found_by:
 - search/emotion-anxiety
-cited_by:
-- '[[Chen2026 - Chasing the public score user pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Chen2026 - Chasing the public score user pressure]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

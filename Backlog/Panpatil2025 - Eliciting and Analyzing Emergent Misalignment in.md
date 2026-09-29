@@ -15,9 +15,11 @@ relevance: core
 manipulation: multi-turn adversarial / survival pressure
 outcome: deception, self-preservation
 why: pressure → misalignment in frontier models
-cited_by:
-- '[[Lu2026 - SurvivalBench survival pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Li2025 - ODCV-Bench KPI pressure]]"
+  - "[[Lu2026 - SurvivalBench survival pressure]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

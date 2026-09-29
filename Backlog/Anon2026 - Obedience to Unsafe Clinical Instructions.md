@@ -15,6 +15,7 @@ why: 'unverified: likely core; verify DOI'
 found_by:
 - agent-notes-unverified
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

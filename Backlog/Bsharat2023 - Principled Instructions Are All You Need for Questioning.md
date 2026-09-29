@@ -15,9 +15,10 @@ relevance: adjacent
 manipulation: tips / threats in prompts
 outcome: performance
 why: origin of the 'tip or threaten the model' advice
-cited_by:
-- '[[Meincke2025 - Threats and tips prompting]]'
 added: 2026-09-28
+cited_by:
+  - "[[Meincke2025 - Threats and tips prompting]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

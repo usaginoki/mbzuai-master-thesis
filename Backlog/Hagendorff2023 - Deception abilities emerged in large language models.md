@@ -18,9 +18,18 @@ outcome: Deception capability (false-belief induction)
 why: Background capability evidence
 found_by:
 - search/deception
-cited_by:
-- '[[Chen2026 - Chasing the public score user pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+  - "[[Chen2026 - Chasing the public score user pressure]]"
+  - "[[Guo2025 - Agentic upward deception]]"
+  - "[[Huang2025 - DeceptionBench]]"
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
+  - "[[Wang2025 - When thinking LLMs lie]]"
+cited_by_count: 9
 tags:
 - type/candidate
 ---

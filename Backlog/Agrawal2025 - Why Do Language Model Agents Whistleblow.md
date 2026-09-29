@@ -15,9 +15,11 @@ relevance: adjacent
 manipulation: environmental factor ablations
 outcome: unsanctioned agent actions
 why: factor-ablation method like Järviniemi 2026
-cited_by:
-- '[[Hopman2026 - Scheming propensity in LLM agents]]'
 added: 2026-09-28
+cited_by:
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jarviniemi2026 - Propensity inference]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

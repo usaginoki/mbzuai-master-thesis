@@ -20,6 +20,14 @@ found_by:
 - search/deception
 - search/reward-hacking
 added: 2026-09-28
+cited_by:
+  - "[[Lu2026 - SurvivalBench survival pressure]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+  - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
+  - "[[Xu2025a - LH-Deception long-horizon deception]]"
+cited_by_count: 6
 tags:
 - type/candidate
 ---

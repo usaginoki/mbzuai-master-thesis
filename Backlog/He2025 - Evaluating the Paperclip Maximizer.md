@@ -18,9 +18,12 @@ outcome: Instrumental convergence (self-preservation, resource acquisition)
 why: Instrumental-goal propensity baseline
 found_by:
 - search/agentic-threat-goal-conflict
-cited_by:
-- '[[WiedermannMoller2026 - Instrumental choices]]'
 added: 2026-09-28
+cited_by:
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[Schlatter2025 - Shutdown resistance]]"
+  - "[[WiedermannMoller2026 - Instrumental choices]]"
+cited_by_count: 3
 tags:
 - type/candidate
 ---

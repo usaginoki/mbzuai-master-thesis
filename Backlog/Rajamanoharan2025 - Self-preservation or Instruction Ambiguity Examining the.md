@@ -15,9 +15,10 @@ outcome: Shutdown resistance
 why: 'Counter-analysis: clarifying priority removes resistance → stress vs ambiguity confound'
 found_by:
 - search/agentic-threat-goal-conflict
-cited_by:
-- '[[Schlatter2025 - Shutdown resistance]]'
 added: 2026-09-28
+cited_by:
+  - "[[Schlatter2025 - Shutdown resistance]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

@@ -14,6 +14,16 @@ pdf_url: https://arxiv.org/pdf/2605.21401
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Aher2023 - Using Large Language Models to Simulate Multiple Humans and]]"
+  - "[[Backlund2025 - Vending-Bench]]"
+  - "[[Campedelli2024 - I Want to Break Free! Persuasion and Anti-Social Behavior]]"
+  - "[[Kirk2026 - Evaluating whether AI models would sabotage AI safety]]"
+  - "[[Lee2025 - Can Large Language Models Develop Gambling Addiction]]"
+  - "[[Li2026 - Unsafer in Many Turns]]"
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+  - "[[Zhong2025 - ImpossibleBench]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

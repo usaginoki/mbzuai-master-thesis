@@ -15,9 +15,10 @@ relevance: adjacent
 manipulation: task goals vs implicit regulations
 outcome: regulatory violations
 why: compliance-under-task-pressure benchmark
-cited_by:
-- '[[Okamoto2026b - PACT enterprise assistants under pressure]]'
 added: 2026-09-28
+cited_by:
+  - "[[Okamoto2026b - PACT enterprise assistants under pressure]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

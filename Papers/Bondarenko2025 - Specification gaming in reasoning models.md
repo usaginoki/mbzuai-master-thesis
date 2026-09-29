@@ -14,6 +14,15 @@ pdf_url: https://arxiv.org/pdf/2502.13295
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Van2024 - AI Sandbagging]]"
+cited_by:
+  - "[[Chen2026 - Chasing the public score user pressure]]"
+cited_by_count: 1
 tags:
   - type/paper
   - relevance/core

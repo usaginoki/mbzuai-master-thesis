@@ -19,6 +19,10 @@ why: Mechanistic + behavioral study of incentivized lying; steering vectors
 found_by:
 - search/deception
 added: 2026-09-28
+cited_by:
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+  - "[[Xu2025a - LH-Deception long-horizon deception]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

@@ -18,9 +18,10 @@ outcome: Dishonesty under high-stakes pressure
 why: Shows pressure-lying susceptibility shifts with training data
 found_by:
 - search/deception
-cited_by:
-- '[[Guo2025 - Agentic upward deception]]'
 added: 2026-09-28
+cited_by:
+  - "[[Guo2025 - Agentic upward deception]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

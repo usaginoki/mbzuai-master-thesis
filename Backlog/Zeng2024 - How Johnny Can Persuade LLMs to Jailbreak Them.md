@@ -18,9 +18,12 @@ outcome: Jailbreak ASR (>92%)
 why: Standard taxonomy of social/emotional pressure applied to safety
 found_by:
 - search/emotion-anxiety
-cited_by:
-- '[[Xu2025b - Bullying the machine]]'
 added: 2026-09-28
+cited_by:
+  - "[[Huang2025 - DeceptionBench]]"
+  - "[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]"
+  - "[[Xu2025b - Bullying the machine]]"
+cited_by_count: 3
 tags:
 - type/candidate
 ---

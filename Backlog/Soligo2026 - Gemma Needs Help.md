@@ -15,9 +15,10 @@ relevance: adjacent
 manipulation: frustrating interactions
 outcome: distress expressions
 why: model distress under pressure + fine-tuning mitigation (Q1)
-cited_by:
-- '[[Sofroniew2026 - Emotion concepts and their function]]'
 added: 2026-09-28
+cited_by:
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

@@ -14,6 +14,16 @@ pdf_url: https://arxiv.org/pdf/2606.30449
 questions: [Q2, Q3.1, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Betley2025 - Emergent Misalignment]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+  - "[[Tan2024 - Analysing the Generalisation and Reliability of Steering]]"
+  - "[[Zou2023 - Representation Engineering]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

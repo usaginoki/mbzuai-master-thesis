@@ -20,9 +20,15 @@ found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
 - search/reward-hacking
-cited_by:
-- '[[Hopman2026 - Scheming propensity in LLM agents]]'
 added: 2026-09-28
+cited_by:
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jiang2026 - Why agents compromise safety under pressure]]"
+  - "[[Li2025 - ODCV-Bench KPI pressure]]"
+  - "[[Petrova2026 - Pressure reveals character]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+cited_by_count: 6
 tags:
 - type/candidate
 ---

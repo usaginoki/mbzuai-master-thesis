@@ -19,6 +19,7 @@ why: Competition pressure erodes honesty even with truthfulness instructions
 found_by:
 - search/agentic-threat-goal-conflict
 added: 2026-09-28
+cited_by_count: 0
 tags:
 - type/candidate
 ---

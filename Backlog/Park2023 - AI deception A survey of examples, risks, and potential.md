@@ -19,6 +19,19 @@ why: Seed survey; defines deception and catalogs pressure-driven cases
 found_by:
 - search/deception
 added: 2026-09-28
+cited_by:
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Huang2025 - DeceptionBench]]"
+  - "[[Li2025 - ODCV-Bench KPI pressure]]"
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+  - "[[Marioriyad2026 - Lying to Win]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
+  - "[[Wang2025 - When thinking LLMs lie]]"
+  - "[[Xu2025a - LH-Deception long-horizon deception]]"
+cited_by_count: 11
 tags:
 - type/candidate
 ---

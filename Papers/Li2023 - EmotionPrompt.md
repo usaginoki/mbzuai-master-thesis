@@ -14,6 +14,10 @@ pdf_url: https://arxiv.org/pdf/2307.11760
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
+cited_by:
+  - "[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]"
+  - "[[Sofroniew2026 - Emotion concepts and their function]]"
+cited_by_count: 2
 tags:
   - type/paper
   - relevance/adjacent

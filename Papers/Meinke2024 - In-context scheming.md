@@ -13,6 +13,36 @@ pdf_url: https://arxiv.org/pdf/2412.04984
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Carlsmith2023 - Scheming AIs Will AIs Fake Alignment During Training in]]"
+  - "[[Denison2024 - Sycophancy to Subterfuge]]"
+  - "[[Hagendorff2023 - Deception abilities emerged in large language models]]"
+  - "[[Hubinger2024 - Sleeper Agents]]"
+  - "[[Jarviniemi2024 - Uncovering Deceptive Tendencies in Language Models]]"
+  - "[[OGara2023 - Hoodwinked Deception and Cooperation in a Text-Based Game]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Van2024 - AI Sandbagging]]"
+cited_by:
+  - "[[Bondarenko2025 - Specification gaming in reasoning models]]"
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+  - "[[Fomin2026 - Internal-state probes read the situation]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Liu2026 - KnownLieBench deception under incentives]]"
+  - "[[Lu2026 - SurvivalBench survival pressure]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Okamoto2026a - Why do AI agents break rules]]"
+  - "[[Okamoto2026b - PACT enterprise assistants under pressure]]"
+  - "[[Ren2025 - MASK honesty benchmark]]"
+  - "[[Ruan2026 - SchemeArena factorized stress testing]]"
+  - "[[Schoen2025 - Stress testing anti-scheming training]]"
+  - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
+  - "[[Sehwag2025 - PropensityBench]]"
+  - "[[Wang2025 - When thinking LLMs lie]]"
+  - "[[WiedermannMoller2026 - Instrumental choices]]"
+  - "[[Xu2025a - LH-Deception long-horizon deception]]"
+cited_by_count: 19
 tags:
   - type/paper
   - relevance/core

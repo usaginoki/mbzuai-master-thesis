@@ -14,6 +14,20 @@ pdf_url: https://arxiv.org/pdf/2605.06490
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Gersonkroiz2026 - How to Design Environments for Understanding Model Motives]]"
+  - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[He2025 - Evaluating the Paperclip Maximizer]]"
+  - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Kretschmar2025 - Liars' Bench Evaluating Lie Detectors for Language Models]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[Meinke2024 - In-context scheming]]"
+  - "[[Needham2025 - Large Language Models Often Know When They Are Being]]"
+  - "[[Potter2026 - Peer-Preservation in Frontier Models]]"
+  - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Schoen2026 - Metagaming Matters for Training, Evaluation, and Oversight]]"
+  - "[[Sehwag2025 - PropensityBench]]"
+cited_by_count: 0
 tags:
   - type/paper
   - relevance/core

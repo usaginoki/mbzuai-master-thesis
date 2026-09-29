@@ -14,6 +14,13 @@ pdf_url: https://www.nature.com/articles/s41746-025-01512-6.pdf
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1]
 relevance: adjacent
 topics: [stress-misalignment]
+cites:
+  - "[[Barua2024 - On the Psychology of GPT-4]]"
+  - "[[CodaForno2023 - Inducing anxiety in LLMs]]"
+  - "[[Shen2024 - StressPrompt]]"
+cited_by:
+  - "[[CodaForno2023 - Inducing anxiety in LLMs]]"
+cited_by_count: 1
 tags:
   - type/paper
   - relevance/adjacent

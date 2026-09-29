@@ -15,9 +15,11 @@ relevance: adjacent
 manipulation: n/a
 outcome: deceptive reasoning detection
 why: detection method
-cited_by:
-- '[[Guo2025 - Agentic upward deception]]'
 added: 2026-09-28
+cited_by:
+  - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
+  - "[[Guo2025 - Agentic upward deception]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

@@ -14,6 +14,24 @@ pdf_url: https://arxiv.org/pdf/2604.07729
 questions: [Q1, Q2, Q3.1, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
+cites:
+  - "[[Betley2025 - Emergent Misalignment]]"
+  - "[[Chen2025 - Persona Vectors]]"
+  - "[[Li2023 - EmotionPrompt]]"
+  - "[[Lu2026 - The Assistant Axis]]"
+  - "[[Lynch2025 - Agentic Misalignment]]"
+  - "[[MacDiarmid2025 - Natural Emergent Misalignment from Reward Hacking in]]"
+  - "[[Reichman2025 - Emotion latent spaces in LLMs]]"
+  - "[[Soligo2026 - Gemma Needs Help]]"
+  - "[[Wang2025 - Do LLMs 'Feel' Emotion Circuits Discovery and Control]]"
+  - "[[Zhang2025 - Emotion latent spaces in LLMs]]"
+  - "[[Zhong2025 - ImpossibleBench]]"
+  - "[[Zou2023 - Representation Engineering]]"
+cited_by:
+  - "[[Fomin2026 - Internal-state probes read the situation]]"
+  - "[[Pihlakas2026 - Milgram-like obedience experiment]]"
+  - "[[Tagliabue2026 - The Pain Axis]]"
+cited_by_count: 3
 tags:
   - type/paper
   - relevance/core
