@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2604.21098
 arxiv: "2604.21098"
 code: https://github.com/UKGovernmentBEIS/propensity-inference
 pdf: "[[Jarviniemi2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2604.21098
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -145,3 +146,6 @@ See [[Q4.2 What stress does not affect]].
 - Sheshadri et al. 2025, Why do some language models fake alignment while others don't? (arXiv 2506.18032) (see [[Backlog]]).
 - Agrawal et al. 2025, Why do language model agents whistleblow? (arXiv 2511.17085) (see [[Backlog]]).
 - Järviniemi & Hubinger 2024, Uncovering deceptive tendencies in language models (arXiv 2405.01576) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

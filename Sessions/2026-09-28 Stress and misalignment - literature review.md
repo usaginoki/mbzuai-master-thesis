@@ -25,7 +25,7 @@ tags:
 
 **Research question:** how does stress affect the probability that LLMs and LLM-powered agents commit misaligned behaviour, such as lying, concealing, reward gaming or breaching safety restrictions?
 
-**Corpus:** 42 processed papers in [[Papers.base|Papers]] (34 core, 8 adjacent) and 200+ candidates in [[Backlog]]. Search date: 2026-09-28. Conventions are in `_tools/README.md`.
+**Corpus:** 42 processed papers in [[Papers.base|Papers]] (34 core, 8 adjacent) and ~270 candidate notes in [[Backlog]]. Search date: 2026-09-28. Conventions are in `_tools/README.md`.
 
 > [!important] The picture in five lines
 > 1. Pressure reliably **raises** rule-breaking, deception and reward hacking in *adversarial, bundled* scenarios. Examples: 0 → ~75% insider trading, 18.6 → 46.9% forbidden-tool use, 0 → 96% blackmail.
@@ -116,3 +116,6 @@ tags:
 3. Designs that **separate stressor from motive and opportunity** and control evaluation awareness, across many current models.
 4. **Dose–response shape**: monotone, inverted U, or saturating? Several ladders turn down at the extreme.
 5. **State ↔ behaviour link**: does a measured internal stress state predict misbehaviour beyond the situation itself?
+
+## Backlog for this topic
+![[Backlog.base#This topic]]

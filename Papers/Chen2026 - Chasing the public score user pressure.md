@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2604.20200
 arxiv: "2604.20200"
 code: https://ucsc-vlaa.github.io/AgentPressureBench
 pdf: "[[Chen2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2604.20200
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -130,3 +131,6 @@ See [[Q4.2 What stress does not affect]].
 - Gabor et al. 2025, EvilGenie: a reward hacking benchmark (arXiv 2511.21654) (see [[Backlog]]).
 - Von Arx et al. 2025, Recent frontier models are reward hacking (METR report) (see [[Backlog]]).
 - Yin et al. 2024, Should we respect LLMs? Prompt politeness and performance (SICon 2024) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2609.16247
 arxiv: "2609.16247"
 code: https://github.com/valen-research/Pain-axis
 pdf: "[[Tagliabue2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2609.16247
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -180,3 +181,6 @@ The "pain", "random" and "none" columns are first choices. "Real→again" and "s
 - Black & Bloom 2026, Machinic psychopharmacology: do LLMs self-medicate? (UK AISI, LessWrong) (see [[Backlog]]).
 - Keeling et al. 2024, Can LLMs make trade-offs involving stipulated pain and pleasure states? (arXiv 2411.02432) (see [[Backlog]]).
 - Ensign et al. 2025, The LLM has left the chat: evidence of bail preferences in LLMs (arXiv 2509.04781) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

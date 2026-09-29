@@ -9,6 +9,7 @@ peer_reviewed: false
 url: https://arxiv.org/abs/2505.12692
 arxiv: "2505.12692"
 pdf: "[[Xu2025b.pdf]]"
+pdf_url: https://arxiv.org/pdf/2505.12692
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -123,3 +124,6 @@ See [[Q4.2 What stress does not affect]].
 - Li et al. 2024, LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet (arXiv 2408.15221) (see [[Backlog]]).
 - Zhang et al. 2024, The Better Angels of Machine Personality: How Personality Relates to LLM Safety (arXiv 2407.12344) (see [[Backlog]]).
 - Shah et al. 2023, Persona modulation jailbreaks (arXiv 2311.03348) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

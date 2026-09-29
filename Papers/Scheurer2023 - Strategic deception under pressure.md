@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2311.07590
 arxiv: "2311.07590"
 code: https://github.com/apolloresearch/insider-trading
 pdf: "[[Scheurer2023.pdf]]"
+pdf_url: https://arxiv.org/pdf/2311.07590
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -115,3 +116,6 @@ See [[Q4.2 What stress does not affect]].
 - Park et al. 2023 AI deception survey (see [[Backlog]]).
 - van der Weij et al. 2023, shutdown avoidance (see [[Backlog]]).
 - MACHIAVELLI, Pan et al. 2023 (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

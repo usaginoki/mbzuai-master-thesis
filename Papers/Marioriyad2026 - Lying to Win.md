@@ -9,6 +9,7 @@ peer_reviewed: workshop
 url: https://arxiv.org/abs/2603.07202
 arxiv: "2603.07202"
 pdf: "[[Marioriyad2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2603.07202
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -121,3 +122,6 @@ See [[Q4.2 What stress does not affect]].
 - Wu et al. 2025, OpenDeception (arXiv 2504.13707) (see [[Backlog]]).
 - Park et al. 2024, AI deception: a survey of examples, risks, and potential solutions (see [[Backlog]]).
 - Sharma et al. 2023, Towards understanding sycophancy in language models (arXiv 2310.13548) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

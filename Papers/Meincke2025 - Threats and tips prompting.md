@@ -9,6 +9,7 @@ peer_reviewed: false
 url: https://arxiv.org/abs/2508.00614
 arxiv: "2508.00614"
 pdf: "[[Meincke2025.pdf]]"
+pdf_url: https://arxiv.org/pdf/2508.00614
 questions: [Q2, Q3.1, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
@@ -124,3 +125,6 @@ See [[Q4.1 What stress affects]].
 - [[Fomin2026 - Internal-state probes read the situation]]: another null/negative result on stress-like states.
 - Meincke et al. 2025a, Prompting Science Report 1: Prompt Engineering is Complicated and Contingent (SSRN 5165270) (see [[Backlog]]).
 - Bsharat et al. 2023, Principled Instructions Are All You Need (tipping/threat principles; arXiv 2312.16171) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

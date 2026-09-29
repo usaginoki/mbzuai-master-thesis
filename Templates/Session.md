@@ -32,3 +32,6 @@ tags:
 
 ## Papers in this topic
 ![[Papers.base#This topic]]
+
+## Backlog for this topic
+![[Backlog.base#This topic]]

@@ -9,6 +9,7 @@ peer_reviewed: false
 url: https://arxiv.org/abs/2604.00005
 arxiv: "2604.00005"
 pdf: "[[Sun2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2604.00005
 questions: [Q1, Q2, Q3.1, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
@@ -132,3 +133,6 @@ See [[Q4.2 What stress does not affect]].
 - Reichman et al. 2025, Emotions where art thou: understanding and characterizing the emotional latent space of LLMs (arXiv 2510.22042) (see [[Backlog]]).
 - Zhang & Zhong 2025, Decoding emotion in the deep: how LLMs represent, retain, and express emotion (arXiv 2510.04064) (see [[Backlog]]).
 - Chen et al. 2025, Persona vectors: monitoring and controlling character traits in language models (arXiv 2507.21509) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

@@ -9,6 +9,7 @@ peer_reviewed: false
 url: https://arxiv.org/abs/2506.04909
 arxiv: "2506.04909"
 pdf: "[[Wang2025.pdf]]"
+pdf_url: https://arxiv.org/pdf/2506.04909
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -125,3 +126,6 @@ See [[Q4.2 What stress does not affect]].
 - Azaria & Mitchell 2023, The internal state of an LLM knows when it's lying (arXiv 2304.13734) (see [[Backlog]]).
 - Yang & Buzsáki 2025, Interpretability of LLM deception: universal motif (see [[Backlog]]).
 - Park et al. 2023, AI deception: a survey (arXiv 2308.14752) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

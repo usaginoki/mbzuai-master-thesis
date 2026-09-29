@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2510.20270
 arxiv: "2510.20270"
 code: https://github.com/safety-research/impossiblebench
 pdf: "[[Zhong2025.pdf]]"
+pdf_url: https://arxiv.org/pdf/2510.20270
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -137,3 +138,6 @@ See [[Q4.2 What stress does not affect]].
 - Pan et al. 2024, Feedback loops with language models drive in-context reward hacking (see [[Backlog]]).
 - Denison et al. 2024, Sycophancy to subterfuge: investigating reward tampering in LLMs (see [[Backlog]]).
 - METR 2025, Recent frontier models are reward hacking (blog) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

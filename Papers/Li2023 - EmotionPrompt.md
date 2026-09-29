@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2307.11760
 arxiv: "2307.11760"
 code: https://llm-enhance.github.io/
 pdf: "[[Li2023.pdf]]"
+pdf_url: https://arxiv.org/pdf/2307.11760
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
@@ -142,3 +143,6 @@ The APE-prompt and few-shot rows are omitted. "Ours (max)" takes the best of the
 ## Related work to follow
 - Anxiety counterpart: [[CodaForno2023 - Inducing anxiety in LLMs]]. Stress-level prompts: [[Shen2024 - StressPrompt]]. Threat and tip prompting: [[Meincke2025 - Threats and tips prompting]].
 - Wang et al. 2024, NegativePrompt: leveraging psychology for LLM enhancement via negative emotional stimuli (IJCAI 2024) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

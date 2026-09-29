@@ -44,4 +44,7 @@ See [[<question note>]]
 ## Limitations / caveats
 
 ## Related work to follow
-%% Link vault notes as [[<citekey> - <short title>]]; papers not in the vault as plain text + "(see [[Backlog]])". %%
+%% Link vault notes as [[<citekey> - <short title>]]. For a relevant paper not yet in the vault, create
+   a candidate note in Backlog/ (Templates/Candidate.md) with `cited_by: ["[[this note]]"]`;
+   it then appears in the table below. %%
+![[Backlog.base#Cited by this paper]]

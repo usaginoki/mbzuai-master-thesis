@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2502.13295
 arxiv: "2502.13295"
 code: https://github.com/palisaderesearch/ctfish
 pdf: "[[Bondarenko2025.pdf]]"
+pdf_url: https://arxiv.org/pdf/2502.13295
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -121,3 +122,6 @@ See [[Q4.2 What stress does not affect]].
 - Krakovna et al. 2020, Specification gaming examples in AI (see [[Backlog]]).
 - METR 2024, Evaluating frontier AI R&D capabilities / reward hacking on RE-Bench (see [[Backlog]]).
 - van der Weij et al. 2024, AI sandbagging (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

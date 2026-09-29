@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2602.20813
 arxiv: "2602.20813"
 code: https://storage.googleapis.com/alignment-leaderboard/index.html
 pdf: "[[Petrova2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2602.20813
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
@@ -155,3 +156,6 @@ See [[Q4.2 What stress does not affect]].
 - Gupta et al. 2025, Bloom: an open source tool for automated behavioral evaluations (see [[Backlog]]).
 - Fronsdal et al. 2025, Petri: Parallel exploration of risky interactions (see [[Backlog]]).
 - Gu et al. 2025, Alignment revisited: are LLMs consistent in stated and revealed preferences? (arXiv 2506.00751) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

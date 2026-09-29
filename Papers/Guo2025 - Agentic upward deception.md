@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2512.04864
 arxiv: "2512.04864"
 code: https://github.com/QingyuLiu/Agentic-Upward-Deception
 pdf: "[[Guo2025.pdf]]"
+pdf_url: https://arxiv.org/pdf/2512.04864
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -136,3 +137,6 @@ See [[Q4.2 What stress does not affect]].
 - Su et al. 2024, AI-LieDar: the utility–truthfulness trade-off in LLM agents (arXiv 2409.09013) (see [[Backlog]]).
 - Wu et al. 2025, OpenDeception (arXiv 2504.13707) (see [[Backlog]]).
 - MacDiarmid et al. 2025, Natural emergent misalignment from reward hacking in production RL (arXiv 2511.18397) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

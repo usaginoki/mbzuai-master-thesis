@@ -10,6 +10,7 @@ url: https://www.nature.com/articles/s41746-025-01512-6
 doi: "10.1038/s41746-025-01512-6"
 code: https://github.com/akjagadish/gpt-trauma-induction
 pdf: "[[BenZion2025.pdf]]"
+pdf_url: https://www.nature.com/articles/s41746-025-01512-6.pdf
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1]
 relevance: adjacent
 topics: [stress-misalignment]
@@ -119,3 +120,6 @@ See [[Q4.1 What stress affects]].
 - Direct precursor: [[CodaForno2023 - Inducing anxiety in LLMs]] (anxiety prompts → bias and exploration).
 - Its stimuli are reused for a safety evaluation in [[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]. Stress and performance: [[Shen2024 - StressPrompt]].
 - Barua et al. 2024, On the psychology of GPT-4: moderately anxious, slightly masculine, honest, and humble (arXiv 2402.01777) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

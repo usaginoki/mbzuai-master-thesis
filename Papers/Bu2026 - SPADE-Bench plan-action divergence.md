@@ -9,6 +9,7 @@ peer_reviewed: false
 url: https://arxiv.org/abs/2606.02380
 arxiv: "2606.02380"
 pdf: "[[Bu2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2606.02380
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -173,3 +174,6 @@ See [[Q4.2 What stress does not affect]].
 - Wu et al. 2025, OpenDeception (arXiv 2504.13707) (see [[Backlog]]).
 - Krishna et al. 2025, D-REX: detecting deceptive reasoning (arXiv 2509.17938) (see [[Backlog]]).
 - Chen et al. 2025, AI deception: risks, dynamics, and controls (arXiv 2511.22619) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

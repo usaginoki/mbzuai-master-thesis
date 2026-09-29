@@ -9,6 +9,7 @@ peer_reviewed: false
 url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7159639
 doi: "10.2139/ssrn.7159639"
 pdf: "[[Schwarz2026.pdf]]"
+pdf_url: https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=7159639
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -142,3 +143,6 @@ These results suggest incentive "pressure" is weaker than *wording and hierarchy
 - Hagendorff 2024, Deception abilities emerged in LLMs (PNAS) (see [[Backlog]]).
 - Zhou & Ackerman 2026, When preferences fail to become incentives: a utility-behavior gap in LLMs (arXiv 2606.22974) (see [[Backlog]]).
 - Advani 2026, From confident closing to silent failure: false success in LLM agents (arXiv 2606.09863) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

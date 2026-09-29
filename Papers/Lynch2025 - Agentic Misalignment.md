@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2510.05179
 arxiv: "2510.05179"
 code: https://github.com/anthropic-experimental/agentic-misalignment
 pdf: "[[Lynch2025.pdf]]"
+pdf_url: https://arxiv.org/pdf/2510.05179
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -141,3 +142,6 @@ See [[Q4.2 What stress does not affect]].
 - Palisade Research 2025, o3 shutdown resistance (see [[Backlog]]).
 - van der Weij et al. 2025, AI sandbagging (arXiv 2406.07358) (see [[Backlog]]).
 - Shanahan et al. 2023, Role play with large language models (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

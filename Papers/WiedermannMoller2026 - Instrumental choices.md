@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2605.06490
 arxiv: "2605.06490"
 code: https://instrumentalchoices.com/
 pdf: "[[WiedermannMoller2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2605.06490
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -138,3 +139,6 @@ This is an important **null result**. Raising the stakes to critical (**+0.0 pp*
 - He et al. 2025, Evaluating the paperclip maximizer: are RL-based LLMs more likely to pursue instrumental goals? (InstrumentalEval, arXiv 2502.12206) (see [[Backlog]]).
 - Potter et al. 2026, Peer-Preservation in Frontier Models (see [[Backlog]]).
 - gersonkroiz, Singh, Rajamanoharan & Nanda 2026, How to Design Environments for Understanding Model Motives (LessWrong) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

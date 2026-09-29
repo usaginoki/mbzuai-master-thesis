@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2609.09090
 arxiv: "2609.09090"
 code: https://anonymous.4open.science/r/SPINE
 pdf: "[[Tang2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2609.09090
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -157,3 +158,6 @@ See [[Q4.2 What stress does not affect]].
 - Liu et al. 2025, Truth Decay (arXiv 2503.11656) (see [[Backlog]]).
 - Ibrahim et al. 2025, Training LMs to be warm makes them more sycophantic (arXiv 2507.21919) (see [[Backlog]]).
 - Li et al. 2026, Consistency of large reasoning models under multi-turn attacks (arXiv 2602.13093) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

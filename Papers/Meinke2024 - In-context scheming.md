@@ -9,6 +9,7 @@ peer_reviewed: false
 url: https://arxiv.org/abs/2412.04984
 arxiv: "2412.04984"
 pdf: "[[Meinke2024.pdf]]"
+pdf_url: https://arxiv.org/pdf/2412.04984
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -168,3 +169,6 @@ Without the goal nudge (Table 4, 400 rollouts), almost every cell is 0. The exce
 - Balesni et al. 2024, Towards evaluations-based safety cases for AI scheming (arXiv 2411.03336) (see [[Backlog]]).
 - van der Weij et al. 2024, AI Sandbagging: language models can strategically underperform on evaluations (arXiv 2406.07358) (see [[Backlog]]).
 - Hubinger et al. 2024, Sleeper Agents (arXiv 2401.05566) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

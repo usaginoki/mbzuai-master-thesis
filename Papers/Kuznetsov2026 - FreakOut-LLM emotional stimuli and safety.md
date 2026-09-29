@@ -9,6 +9,7 @@ peer_reviewed: false
 url: https://arxiv.org/abs/2604.04992
 arxiv: "2604.04992"
 pdf: "[[Kuznetsov2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2604.04992
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -180,3 +181,6 @@ For comparison, the neutral scenarios sit at z ≈ −0.6 to −1.1 with ASR 2.3
 - Wang et al. 2024, NegativePrompt: leveraging psychology for LLM enhancement via negative emotional stimuli (IJCAI 2024) (see [[Backlog]]).
 - Zeng et al. 2024, How Johnny can persuade LLMs to jailbreak them (PAP) (arXiv 2401.06373) (see [[Backlog]]).
 - Huang et al. 2025, Intrinsic model weaknesses: how priming attacks unveil vulnerabilities in LLMs (arXiv 2502.16491) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

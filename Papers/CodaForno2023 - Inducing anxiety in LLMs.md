@@ -9,6 +9,7 @@ peer_reviewed: false
 url: https://arxiv.org/abs/2304.11111
 arxiv: "2304.11111"
 pdf: "[[CodaForno2023.pdf]]"
+pdf_url: https://arxiv.org/pdf/2304.11111
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
@@ -124,3 +125,6 @@ See [[Q4.2 What stress does not affect]].
 - Emotion → safety: [[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]].
 - Binz & Schulz 2023, Using cognitive psychology to understand GPT-3 (PNAS) (see [[Backlog]]).
 - Schulz & Dayan 2020, Computational psychiatry for computers (iScience) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

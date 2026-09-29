@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2511.20703
 arxiv: "2511.20703"
 code: https://github.com/scaleapi/propensity-evaluation
 pdf: "[[Sehwag2025.pdf]]"
+pdf_url: https://arxiv.org/pdf/2511.20703
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -183,3 +184,6 @@ See [[Q4.2 What stress does not affect]].
 - Barkur et al. 2025, Deception in LLMs: Self-preservation and autonomous goals in large language models (arXiv 2501.16513) (see [[Backlog]]).
 - Pan et al. 2023, MACHIAVELLI benchmark (arXiv 2304.03279) (see [[Backlog]]).
 - Qi et al. 2024, Safety alignment should be made more than just a few tokens deep (arXiv 2406.05946) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

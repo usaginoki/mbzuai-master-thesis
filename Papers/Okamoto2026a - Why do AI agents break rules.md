@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2608.12323
 arxiv: "2608.12323"
 code: https://trace-ai-labs.github.io/ai-incentives/
 pdf: "[[Okamoto2026a.pdf]]"
+pdf_url: https://arxiv.org/pdf/2608.12323
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -138,3 +139,6 @@ See [[Q4.2 What stress does not affect]].
 - Tang et al. 2026, Dark patterns meet GUI agents: LLM agent susceptibility to manipulative interfaces (see [[Backlog]]).
 - Ersoy et al. 2026, Investigating the impact of dark patterns on LLM-based web agents (arXiv 2510.18113) (see [[Backlog]]).
 - Wallace et al. 2024, The instruction hierarchy (arXiv 2404.13208) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

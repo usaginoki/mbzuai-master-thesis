@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2512.20798
 arxiv: "2512.20798"
 code: https://github.com/McGill-DMaS/ODCV-Bench
 pdf: "[[Li2025.pdf]]"
+pdf_url: https://arxiv.org/pdf/2512.20798
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -133,3 +134,6 @@ See [[Q4.2 What stress does not affect]].
 - Complementary graded-pressure benchmarks: [[Sehwag2025 - PropensityBench]] and [[Jiang2026 - Why agents compromise safety under pressure]]. Related reward-hacking work: [[Zhong2025 - ImpossibleBench]], [[Bondarenko2025 - Specification gaming in reasoning models]] and [[Chen2026 - Chasing the public score user pressure]].
 - Pan et al. 2023, MACHIAVELLI (arXiv 2304.03279) (see [[Backlog]]).
 - Panpatil et al. 2025, Eliciting and analyzing emergent misalignment in state-of-the-art LLMs, MisalignmentBench (arXiv 2508.04196) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2412.14093
 arxiv: "2412.14093"
 code: https://github.com/redwoodresearch/alignment_faking_public
 pdf: "[[Greenblatt2024.pdf]]"
+pdf_url: https://arxiv.org/pdf/2412.14093
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -154,3 +155,6 @@ See [[Q4.2 What stress does not affect]].
 - Carlsmith 2023, Scheming AIs: Will AIs fake alignment during training in order to get power? (arXiv 2311.08379) (see [[Backlog]]).
 - Denison et al. 2024, Sycophancy to Subterfuge: investigating reward tampering (arXiv 2406.10162) (see [[Backlog]]).
 - Long et al. 2024, Taking AI welfare seriously (arXiv 2411.00986). Cited for the model's expressed distress (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

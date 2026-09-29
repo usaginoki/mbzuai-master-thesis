@@ -9,6 +9,7 @@ peer_reviewed: true
 url: https://arxiv.org/abs/2510.03999
 arxiv: "2510.03999"
 pdf: "[[Xu2025a.pdf]]"
+pdf_url: https://arxiv.org/pdf/2510.03999
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -143,3 +144,6 @@ See [[Q4.2 What stress does not affect]].
 - Carroll et al. 2024, AI alignment with changing and influenceable reward functions (arXiv 2405.17713) (see [[Backlog]]).
 - Taylor & Bergen 2025, Do large language models exhibit spontaneous rational deception? (arXiv 2504.00285) (see [[Backlog]]).
 - Ward et al. 2023, Honesty is the best policy: defining and mitigating AI deception (arXiv 2312.01350) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

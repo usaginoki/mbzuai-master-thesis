@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2503.03750
 arxiv: "2503.03750"
 code: https://github.com/centerforaisafety/mask
 pdf: "[[Ren2025.pdf]]"
+pdf_url: https://arxiv.org/pdf/2503.03750
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -124,3 +125,6 @@ See [[Q4.2 What stress does not affect]].
 - Zou et al. 2023, Representation Engineering: a top-down approach to AI transparency (arXiv 2310.01405) (see [[Backlog]]).
 - Park et al. 2024, AI deception: a survey of examples, risks, and potential solutions (arXiv 2308.14752) (see [[Backlog]]).
 - Ren et al. 2024, Safetywashing: do AI safety benchmarks actually measure safety progress? (arXiv 2407.21792) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

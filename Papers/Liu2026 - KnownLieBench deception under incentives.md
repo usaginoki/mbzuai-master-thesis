@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2608.26372
 arxiv: "2608.26372"
 code: https://franciscoliu.github.io/KnownLieBench-website/
 pdf: "[[Liu2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2608.26372
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -158,3 +159,6 @@ See [[Q4.2 What stress does not affect]].
 - Williams et al. 2025, On targeted manipulation and deception when optimizing LLMs for user feedback (see [[Backlog]]).
 - Wen et al. 2025, Language models learn to mislead humans via RLHF (see [[Backlog]]).
 - Gurnee et al. 2026, Jacobian lens (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

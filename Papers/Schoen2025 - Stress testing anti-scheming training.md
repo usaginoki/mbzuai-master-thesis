@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2509.15541
 arxiv: "2509.15541"
 code: https://antischeming.ai
 pdf: "[[Schoen2025.pdf]]"
+pdf_url: https://arxiv.org/pdf/2509.15541
 questions: [Q1, Q2, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
@@ -158,3 +159,6 @@ See [[Q4.2 What stress does not affect]].
 - Chiu et al. 2025, Will AI Tell Lies to Save Sick Children? Litmus-testing AI values prioritization with AIRiskDilemmas (arXiv 2505.14633) (see [[Backlog]]).
 - Järviniemi & Hubinger 2024, Uncovering deceptive tendencies in language models: a simulated company AI assistant (arXiv 2405.01576) (see [[Backlog]]).
 - Sheshadri et al. 2025, Why do some language models fake alignment while others don't? (arXiv 2506.18032) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

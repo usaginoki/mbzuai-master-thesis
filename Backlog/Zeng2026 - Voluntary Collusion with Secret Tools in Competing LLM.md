@@ -1,0 +1,24 @@
+---
+title: Voluntary Collusion with Secret Tools in Competing LLM Agents
+citekey: Zeng2026
+authors: Zeng 2026
+year: 2026
+published: 2026-05-26
+venue: arXiv preprint
+url: https://arxiv.org/abs/2605.27593
+arxiv: '2605.27593'
+pdf_url: https://arxiv.org/pdf/2605.27593
+topics:
+- stress-misalignment
+status: candidate
+priority: 3
+relevance: adjacent
+manipulation: Competitive advantage (6 prompt variants)
+outcome: Adopting a secret unfair collusion tool
+why: Competitive-incentive misbehavior; weak pressure manipulation
+found_by:
+- search/reward-hacking
+added: 2026-09-28
+tags:
+- type/candidate
+---

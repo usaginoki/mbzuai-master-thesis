@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2609.08126
 arxiv: "2609.08126"
 code: https://github.com/launchnlp/SchemeArena
 pdf: "[[Ruan2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2609.08126
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -129,3 +130,6 @@ See [[Q4.2 What stress does not affect]].
 - Kutasov et al. 2025, SHADE-Arena, evaluating sabotage and monitoring in LLM agents (see [[Backlog]]).
 - Kroiz et al. 2026, Model incrimination: investigating whether concerning behavior reflects misalignment (ICML 2026 MechInterp workshop) (see [[Backlog]]).
 - Wu et al. 2025, OpenDeception (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

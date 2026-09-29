@@ -9,6 +9,7 @@ peer_reviewed: true
 url: https://arxiv.org/abs/2409.17167
 arxiv: "2409.17167"
 pdf: "[[Shen2024.pdf]]"
+pdf_url: https://arxiv.org/pdf/2409.17167
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: adjacent
 topics: [stress-misalignment]
@@ -137,3 +138,6 @@ See [[Q4.2 What stress does not affect]].
 - Emotion → safety follow-ups: [[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]] and [[Sun2026 - E-STEER emotion shapes agent behavior]].
 - Zou et al. 2023, Representation engineering: a top-down approach to AI transparency (arXiv 2310.01405) (see [[Backlog]]).
 - Wang et al. 2024, NegativePrompt: negative emotional stimuli (arXiv 2405.02814) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

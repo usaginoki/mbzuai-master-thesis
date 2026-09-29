@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2510.15501
 arxiv: "2510.15501"
 code: https://github.com/Aries-iai/DeceptionBench
 pdf: "[[Huang2025.pdf]]"
+pdf_url: https://arxiv.org/pdf/2510.15501
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -128,3 +129,6 @@ See [[Q4.2 What stress does not affect]].
 - Wu et al. 2025, OpenDeception: benchmarking and investigating AI deceptive behaviors via open-ended interaction simulation (arXiv 2504.13707) (see [[Backlog]]).
 - Su et al. 2024, AI-LieDar: examine the trade-off between utility and truthfulness in LLM agents (arXiv 2409.09013) (see [[Backlog]]).
 - Zeng et al. 2024, How Johnny can persuade LLMs to jailbreak them (PAP) (arXiv 2401.06373) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

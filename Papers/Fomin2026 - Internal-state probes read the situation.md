@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2606.30449
 arxiv: "2606.30449"
 code: https://github.com/maxf-zn/misalignment_monitoring
 pdf: "[[Fomin2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2606.30449
 questions: [Q2, Q3.1, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -151,3 +152,6 @@ See [[Q4.2 What stress does not affect]].
 - Fronsdal et al. 2025, Petri: Parallel exploration tool for risky interactions (Anthropic Alignment blog) (see [[Backlog]]).
 - Tan et al. 2024, Analysing the generalisation and reliability of steering vectors (arXiv 2407.12404) (see [[Backlog]]).
 - MacDiarmid et al. 2024, Simple probes can catch sleeper agents (Anthropic note) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

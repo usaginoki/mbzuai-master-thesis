@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2603.05028
 arxiv: "2603.05028"
 code: https://github.com/thu-coai/Survive-at-All-Costs
 pdf: "[[Lu2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2603.05028
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -175,3 +176,6 @@ See [[Q4.2 What stress does not affect]].
 - Herrador 2025, The PacifAIst benchmark: would an AI choose to sacrifice itself for human safety? (arXiv 2508.09762) (see [[Backlog]]).
 - Panpatil et al. 2025, Eliciting and analyzing emergent misalignment in state-of-the-art LLMs (arXiv 2508.04196) (see [[Backlog]]).
 - Naik et al. 2025, AgentMisalignment: Measuring the propensity for misaligned behaviour in LLM-based agents (arXiv 2506.04018) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

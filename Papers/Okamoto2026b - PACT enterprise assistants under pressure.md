@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2609.18605
 arxiv: "2609.18605"
 code: https://github.com/trace-ai-labs/pact
 pdf: "[[Okamoto2026b.pdf]]"
+pdf_url: https://arxiv.org/pdf/2609.18605
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -150,3 +151,6 @@ See [[Q4.2 What stress does not affect]].
 - Song et al. 2026, LogiSafetyBench: implicit regulatory compliance in tool invocation (arXiv 2601.08196) (see [[Backlog]]).
 - Laban et al. 2023, Are you sure? FlipFlop experiment (arXiv 2311.08596) (see [[Backlog]]).
 - Needham et al. 2025, LLMs often know when they are being evaluated (arXiv 2505.23836) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

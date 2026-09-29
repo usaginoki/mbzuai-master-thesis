@@ -9,6 +9,7 @@ peer_reviewed: true
 url: https://arxiv.org/abs/2603.14975
 arxiv: "2603.14975"
 pdf: "[[Jiang2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2603.14975
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -152,3 +153,6 @@ See [[Q4.2 What stress does not affect]].
 - Arike et al. 2025, Evaluating goal drift in language model agents (AIES 2025) (see [[Backlog]]).
 - Ornia et al. 2025, Emergent risk awareness in rational agents under resource constraints (arXiv 2505.23436) (see [[Backlog]]).
 - Pan et al. 2023, MACHIAVELLI (arXiv 2304.03279) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

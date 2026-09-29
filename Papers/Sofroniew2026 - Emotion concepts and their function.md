@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2604.07729
 arxiv: "2604.07729"
 code: https://transformer-circuits.pub/2026/emotions/index.html
 pdf: "[[Sofroniew2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2604.07729
 questions: [Q1, Q2, Q3.1, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -172,3 +173,6 @@ See [[Q4.2 What stress does not affect]].
 - Wang et al. 2025, Do LLMs "feel"? Emotion circuits discovery and control (arXiv 2510.11328) (see [[Backlog]]).
 - Zou et al. 2023, Representation engineering (arXiv 2310.01405) (see [[Backlog]]).
 - MacDiarmid et al. 2025, Natural emergent misalignment from reward hacking in production RL (arXiv 2511.18397) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

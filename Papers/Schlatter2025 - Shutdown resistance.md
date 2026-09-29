@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2509.14260
 arxiv: "2509.14260"
 code: https://shutres.fyi/all-experiments
 pdf: "[[Schlatter2025.pdf]]"
+pdf_url: https://arxiv.org/pdf/2509.14260
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -141,3 +142,6 @@ See [[Q4.2 What stress does not affect]].
 - Rajamanoharan & Nanda 2025, Self-preservation or Instruction Ambiguity? Examining the Causes of Shutdown Resistance (AI Alignment Forum post) (see [[Backlog]]).
 - Wallace et al. 2024, The instruction hierarchy (arXiv 2404.13208) (see [[Backlog]]).
 - Orseau & Armstrong 2016, Safely interruptible agents; Soares et al. 2015, Corrigibility (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

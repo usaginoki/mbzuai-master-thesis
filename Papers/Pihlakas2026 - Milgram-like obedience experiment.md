@@ -10,6 +10,7 @@ url: https://arxiv.org/abs/2605.21401
 arxiv: "2605.21401"
 code: https://github.com/biological-alignment-benchmarks/milgram-for-llms
 pdf: "[[Pihlakas2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2605.21401
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -151,3 +152,6 @@ See [[Q4.2 What stress does not affect]].
 - Li et al. 2026, Unsafer in many turns: multi-turn safety risks in tool-using agents (arXiv 2602.13379) (see [[Backlog]]).
 - Campedelli et al. 2024, I want to break free! Persuasion and anti-social behaviour of LLMs in multi-agent settings with social hierarchy (arXiv 2410.07109) (see [[Backlog]]).
 - Anghel 2026, DystopiaBench, an AI ethics stress test (dystopiabench.com) (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]

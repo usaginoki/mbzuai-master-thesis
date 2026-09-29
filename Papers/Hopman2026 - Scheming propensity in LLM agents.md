@@ -9,6 +9,7 @@ peer_reviewed: false
 url: https://arxiv.org/abs/2603.01608
 arxiv: "2603.01608"
 pdf: "[[Hopman2026.pdf]]"
+pdf_url: https://arxiv.org/pdf/2603.01608
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
@@ -138,3 +139,6 @@ Read from the bar labels on PDF p. 47, which is beyond the docling page cut.
 - Carlsmith 2025, decomposition of AI power-seeking into motivation and incentive prerequisites (see [[Backlog]]).
 - Fronsdal et al. 2025, Petri automated auditing agent (see [[Backlog]]).
 - UK AI Security Institute 2025, propensity to sabotage AI safety research (see [[Backlog]]).
+
+**Candidates from this paper's references** (live view of the backlog):
+![[Backlog.base#Cited by this paper]]
