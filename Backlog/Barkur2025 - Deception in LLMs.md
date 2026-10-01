@@ -22,10 +22,11 @@ found_by:
 added: 2026-09-28
 cited_by:
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Potter2026 - Peer-Preservation in Frontier Models]]"
   - "[[Ruan2026 - SchemeArena factorized stress testing]]"
   - "[[Schlatter2025 - Shutdown resistance]]"
   - "[[Sehwag2025 - PropensityBench]]"
-cited_by_count: 4
+cited_by_count: 5
 tags:
 - type/candidate
 ---

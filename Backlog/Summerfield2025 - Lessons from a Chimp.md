@@ -19,8 +19,9 @@ added: 2026-09-28
 cited_by:
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"
   - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Knecht2026 - Shutdown Sabotage in Multi-Agent Systems]]"
   - "[[Lynch2025 - Agentic Misalignment]]"
-cited_by_count: 3
+cited_by_count: 4
 tags:
 - type/candidate
 ---

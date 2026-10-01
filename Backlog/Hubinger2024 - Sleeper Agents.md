@@ -29,11 +29,12 @@ cited_by:
   - "[[Petrova2026 - Pressure reveals character]]"
   - "[[Ruan2026 - SchemeArena factorized stress testing]]"
   - "[[Scheurer2023 - Strategic deception under pressure]]"
+  - "[[Schmotz2026 - Instrumental monitor evasion]]"
   - "[[Schoen2025 - Stress testing anti-scheming training]]"
   - "[[Sehwag2025 - PropensityBench]]"
   - "[[Wang2025 - When thinking LLMs lie]]"
   - "[[Xu2025a - LH-Deception long-horizon deception]]"
-cited_by_count: 16
+cited_by_count: 17
 tags:
 - type/candidate
 ---

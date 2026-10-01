@@ -20,7 +20,9 @@ found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
 added: 2026-09-28
-cited_by_count: 0
+cited_by:
+  - "[[Schmotz2026 - Instrumental monitor evasion]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

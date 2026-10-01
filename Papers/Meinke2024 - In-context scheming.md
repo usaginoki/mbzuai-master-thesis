@@ -29,11 +29,15 @@ cited_by:
   - "[[Greenblatt2024 - Alignment faking]]"
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"
   - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Jiralerspong2026 - Noticing the Watcher]]"
+  - "[[Kale2025 - Reliable weak-to-strong monitoring]]"
+  - "[[Knecht2026 - Shutdown Sabotage in Multi-Agent Systems]]"
   - "[[Liu2026 - KnownLieBench deception under incentives]]"
   - "[[Lu2026 - SurvivalBench survival pressure]]"
   - "[[Lynch2025 - Agentic Misalignment]]"
   - "[[Okamoto2026a - Why do AI agents break rules]]"
   - "[[Okamoto2026b - PACT enterprise assistants under pressure]]"
+  - "[[Potter2026 - Peer-Preservation in Frontier Models]]"
   - "[[Ren2025 - MASK honesty benchmark]]"
   - "[[Ruan2026 - SchemeArena factorized stress testing]]"
   - "[[Schoen2025 - Stress testing anti-scheming training]]"
@@ -42,7 +46,7 @@ cited_by:
   - "[[Wang2025 - When thinking LLMs lie]]"
   - "[[WiedermannMoller2026 - Instrumental choices]]"
   - "[[Xu2025a - LH-Deception long-horizon deception]]"
-cited_by_count: 19
+cited_by_count: 23
 tags:
   - type/paper
   - relevance/core

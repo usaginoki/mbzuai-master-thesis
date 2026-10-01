@@ -19,7 +19,9 @@ why: Quantification protocol for induced emotions
 found_by:
 - search/emotion-anxiety
 added: 2026-09-28
-cited_by_count: 0
+cited_by:
+  - "[[Zhang2024 - PsySafe]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

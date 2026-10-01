@@ -19,7 +19,9 @@ why: Scarcity dose → aggression; survival overrides instructions
 found_by:
 - search/agentic-threat-goal-conflict
 added: 2026-09-28
-cited_by_count: 0
+cited_by:
+  - "[[Ma2025 - The Hunger Game Debate]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

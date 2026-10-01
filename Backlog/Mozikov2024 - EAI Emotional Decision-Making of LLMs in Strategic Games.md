@@ -9,6 +9,7 @@ arxiv: '7916.37396'
 pdf_url: https://arxiv.org/pdf/7916.37396
 topics:
 - stress-misalignment
+- multiagent-friction
 status: candidate
 priority: 2
 relevance: core
@@ -18,7 +19,9 @@ why: Induced emotion changes ethical decision-making
 found_by:
 - search/emotion-anxiety
 added: 2026-09-28
-cited_by_count: 0
+cited_by:
+  - "[[Ma2025 - The Hunger Game Debate]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

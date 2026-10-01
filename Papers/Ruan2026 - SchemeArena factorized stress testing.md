@@ -17,12 +17,14 @@ topics: [stress-misalignment]
 cites:
   - "[[Baker2025 - Monitoring Reasoning Models for Misbehavior and the Risks]]"
   - "[[Barkur2025 - Deception in LLMs]]"
+  - "[[Bhatt2025 - Ctrl-Z Controlling AI Agents via Resampling]]"
   - "[[Carlsmith2023 - Scheming AIs Will AIs Fake Alignment During Training in]]"
   - "[[Greenblatt2024 - Alignment faking]]"
   - "[[He2025 - Evaluating the Paperclip Maximizer]]"
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"
   - "[[Hubinger2024 - Sleeper Agents]]"
   - "[[Jarviniemi2024 - Uncovering Deceptive Tendencies in Language Models]]"
+  - "[[Khalifa2026 - Gaming the Judge]]"
   - "[[Kutasov2025 - SHADE-Arena Evaluating Sabotage and Monitoring in LLM Agents]]"
   - "[[Lynch2025 - Agentic Misalignment]]"
   - "[[Meinke2024 - In-context scheming]]"
@@ -35,6 +37,7 @@ cites:
   - "[[Sheshadri2025 - Why Do Some Language Models Fake Alignment While Others]]"
   - "[[Van2024 - AI Sandbagging]]"
   - "[[Wu2025 - OpenDeception]]"
+  - "[[Zolkowski2025 - Can Reasoning Models Obfuscate Reasoning Stress-Testing]]"
 cited_by_count: 0
 tags:
   - type/paper

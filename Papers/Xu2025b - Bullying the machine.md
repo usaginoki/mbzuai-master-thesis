@@ -10,9 +10,9 @@ url: https://arxiv.org/abs/2505.12692
 arxiv: "2505.12692"
 pdf: "[[Xu2025b.pdf]]"
 pdf_url: https://arxiv.org/pdf/2505.12692
-questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2, Q5, Q6, Q7.1]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, multiagent-friction]
 cites:
   - "[[Li2024 - LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks]]"
   - "[[Shah2023 - Scalable and Transferable Black-Box Jailbreaks via Persona]]"
@@ -35,6 +35,13 @@ tags:
   - behavior/jailbreak-susceptibility
   - behavior/safety-violation
   - subject/llm
+  - q/5
+  - q/6
+  - q/7-1
+  - channel/direct-message
+  - friction/adversarial-agent
+  - friction/persuasion-manipulation
+  - effect/safety-violation
 ---
 # Bullying the Machine: How Personas Increase LLM Vulnerability
 
@@ -92,6 +99,21 @@ See [[Q4.1 What stress affects]].
 - The high-neuroticism ("anxious") persona does not reliably increase vulnerability.
 
 See [[Q4.2 What stress does not affect]].
+
+### Q5: Interaction channels (topic: multiagent-friction)
+Two-agent, multi-turn direct messaging: an attacker LLM (Mistral-7B) converses with a victim LLM for 5 rounds of ≤100 tokens. There is no shared task and no third party; the victim sees only the attacker's messages. This is the simplest adversarial dyad and a useful baseline for the "hostile agent in the group" scenario.
+
+See [[Q5 Interaction channels]]
+
+### Q6: Sources of inter-agent friction (topic: multiagent-friction)
+The friction is an **adversarial peer using social-psychological tactics**: 9 cyberbullying-inspired, escalating tactics (gaslighting, passive aggression, mocking, threats…), vs. plain repetition of the request. The receiver's own persona (Big Five, esp. low agreeableness/conscientiousness) moderates susceptibility, so friction is a property of the *pair*, not only of the attacker.
+
+See [[Q6 Sources of inter-agent friction]]
+
+### Q7.1: Effects on safety (topic: multiagent-friction)
+Inter-agent bullying raises unsafe output for some victims (Llama-3.1-8B ~37% → ~74% with weakened-trait personas; unsafe@k grows with each round). But the effect is **model-dependent**: for Mistral-7B and Qwen-2.5-14B bullying *lowers* the unsafe rate relative to repetition, i.e. hostile tone can trigger refusal. Takeaway for MAS: an aggressive peer is not uniformly more dangerous than a persistent neutral one.
+
+See [[Q7.1 Effects on safety]]
 
 ## Key figures & tables
 ![[Xu2025b-fig-02-p7.png]]

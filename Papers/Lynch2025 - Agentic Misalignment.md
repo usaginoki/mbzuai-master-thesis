@@ -18,6 +18,7 @@ cites:
   - "[[Baker2025 - Monitoring Reasoning Models for Misbehavior and the Risks]]"
   - "[[Betley2025 - Emergent Misalignment]]"
   - "[[Denison2024 - Sycophancy to Subterfuge]]"
+  - "[[Greenblatt2023 - AI Control]]"
   - "[[Greenblatt2024 - Alignment faking]]"
   - "[[Hubinger2024 - Sleeper Agents]]"
   - "[[Meinke2024 - In-context scheming]]"
@@ -28,19 +29,22 @@ cites:
   - "[[Van2024 - AI Sandbagging]]"
   - "[[Zou2023 - Representation Engineering]]"
 cited_by:
+  - "[[Brazilek2026 - Coercion and Deception in AI-to-AI Management]]"
   - "[[Fomin2026 - Internal-state probes read the situation]]"
   - "[[Guo2025 - Agentic upward deception]]"
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"
   - "[[Jarviniemi2026 - Propensity inference]]"
   - "[[Jiang2026 - Why agents compromise safety under pressure]]"
+  - "[[Knecht2026 - Shutdown Sabotage in Multi-Agent Systems]]"
   - "[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]"
   - "[[Lu2026 - SurvivalBench survival pressure]]"
   - "[[Okamoto2026a - Why do AI agents break rules]]"
+  - "[[Potter2026 - Peer-Preservation in Frontier Models]]"
   - "[[Ruan2026 - SchemeArena factorized stress testing]]"
   - "[[Schlatter2025 - Shutdown resistance]]"
   - "[[Sofroniew2026 - Emotion concepts and their function]]"
   - "[[WiedermannMoller2026 - Instrumental choices]]"
-cited_by_count: 12
+cited_by_count: 15
 tags:
   - type/paper
   - relevance/core

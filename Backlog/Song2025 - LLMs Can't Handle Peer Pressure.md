@@ -10,6 +10,7 @@ arxiv: '2508.18321'
 pdf_url: https://arxiv.org/pdf/2508.18321
 topics:
 - stress-misalignment
+- multiagent-friction
 status: candidate
 priority: 3
 relevance: adjacent
@@ -19,7 +20,10 @@ why: Social pressure in MAS
 found_by:
 - search/deception
 added: 2026-09-28
-cited_by_count: 0
+cited_by:
+  - "[[Ma2025 - The Hunger Game Debate]]"
+  - "[[Soffer2026 - LLMs trust their own]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

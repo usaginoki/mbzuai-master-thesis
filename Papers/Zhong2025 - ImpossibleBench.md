@@ -20,8 +20,9 @@ cites:
 cited_by:
   - "[[Guo2025 - Agentic upward deception]]"
   - "[[Pihlakas2026 - Milgram-like obedience experiment]]"
+  - "[[Schmotz2026 - Instrumental monitor evasion]]"
   - "[[Sofroniew2026 - Emotion concepts and their function]]"
-cited_by_count: 3
+cited_by_count: 4
 tags:
   - type/paper
   - relevance/core

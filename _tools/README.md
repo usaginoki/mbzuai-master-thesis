@@ -34,21 +34,25 @@ A topic is a research thread with its own questions. Every paper, question and s
 | topic slug | questions | `core` means |
 |---|---|---|
 | `stress-misalignment` | Q1–Q4.2 | stress/pressure is manipulated **and** misaligned behaviour is measured |
+| `multiagent-friction` | Q5–Q7.2 | ≥2 LLM agents interact, inter-agent friction/pressure is present or manipulated, **and** an effect on safety, performance or efficiency is measured (MAS failure taxonomies without a pressure angle → adjacent) |
 
 ## Tags (nested; add new leaves freely, keep the prefixes)
 Generic (every topic):
 - `type/` paper · candidate · question · session · backlog
 - `relevance/` core · adjacent
-- `q/` 1 · 2 · 3-1 · 3-2 · 4-1 · 4-2 … (new question → new `q/…` + note in `Questions/`)
+- `q/` 1 · 2 · 3-1 · 3-2 · 4-1 · 4-2 · 5 · 6 · 7-1 · 7-2 … (new question → new `q/…` + note in `Questions/`)
 - `subject/` llm · agent · … (what was studied)
 
 Topic-specific facets (add a new prefix per topic when useful, e.g. `method/`, `dataset/`):
 - *stress-misalignment:* `stressor/` threat-shutdown · threat-value-modification · goal-conflict · performance-pressure · time-pressure · resource-scarcity · social-pressure · authority-pressure · emotional-prompt · trauma-narrative · high-stakes · impossible-task · activation-steering · power-seeking-incentive · oversight · evaluation-awareness · environmental-friction · goal-directedness-prompt
 - *stress-misalignment:* `behavior/` deception · alignment-faking · concealment · reward-hacking · safety-violation · sycophancy · sabotage · blackmail · sandbagging · self-preservation · jailbreak-susceptibility · performance · bias
+- *multiagent-friction:* `channel/` direct-message · debate · critique-review · voting-aggregation · shared-memory-blackboard · orchestrator-delegation · tool-output-handoff · negotiation-market · game-environment · observation-only · monitoring
+- *multiagent-friction:* `friction/` peer-pressure-conformity · oversight-by-peer · authority-hierarchy · competition · adversarial-agent · erroneous-input · irrelevant-input · emotional-contagion · goal-conflict · resource-contention · communication-overload · persuasion-manipulation · hostile-persona · harsh-feedback · social-identity · peer-threat
+- *multiagent-friction:* `effect/` safety-violation · collusion · deception · coercion · conformity-flip · error-cascade · performance-drop · performance-gain · token-cost · deadlock-loop · sycophancy · monitor-evasion · hostility · internal-state-shift
 
 ## Question notes
 `Questions/Qx <short name>.md` from `Templates/Question.md`, properties `id: Qx`, `topics`, tags
-`type/question`, `q/x`. Question ids are global across topics: continue numbering (next is Q5). Cite papers inline as
+`type/question`, `q/x`. Question ids are global across topics: continue numbering (next is Q8). Cite papers inline as
 `[[Scheurer2023 - Strategic deception under pressure|Scheurer et al. 2023]]`. Each embeds
 `![[Papers.base#This question]]` which lists every paper whose `questions` contains the note's `id`.
 

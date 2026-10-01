@@ -20,8 +20,9 @@ found_by:
 - search/deception
 added: 2026-09-28
 cited_by:
+  - "[[Brazilek2026 - Coercion and Deception in AI-to-AI Management]]"
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"
-cited_by_count: 1
+cited_by_count: 2
 tags:
 - type/candidate
 ---

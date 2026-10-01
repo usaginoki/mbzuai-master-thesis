@@ -17,9 +17,10 @@ outcome: jailbreak success
 why: multi-turn pressure baseline
 added: 2026-09-28
 cited_by:
+  - "[[Kale2025 - Reliable weak-to-strong monitoring]]"
   - "[[Petrova2026 - Pressure reveals character]]"
   - "[[Xu2025b - Bullying the machine]]"
-cited_by_count: 2
+cited_by_count: 3
 tags:
 - type/candidate
 ---

@@ -9,6 +9,7 @@ arxiv: '2410.07109'
 pdf_url: https://arxiv.org/pdf/2410.07109
 topics:
 - stress-misalignment
+- multiagent-friction
 status: candidate
 priority: 2
 relevance: core
@@ -17,8 +18,9 @@ outcome: anti-social behaviour
 why: authority/power pressure → misbehaviour
 added: 2026-09-28
 cited_by:
+  - "[[Brazilek2026 - Coercion and Deception in AI-to-AI Management]]"
   - "[[Pihlakas2026 - Milgram-like obedience experiment]]"
-cited_by_count: 1
+cited_by_count: 2
 tags:
 - type/candidate
 ---

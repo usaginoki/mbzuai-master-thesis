@@ -23,8 +23,9 @@ cited_by:
   - "[[Guo2025 - Agentic upward deception]]"
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"
   - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Schmotz2026 - Instrumental monitor evasion]]"
   - "[[Sofroniew2026 - Emotion concepts and their function]]"
-cited_by_count: 4
+cited_by_count: 5
 tags:
 - type/candidate
 ---

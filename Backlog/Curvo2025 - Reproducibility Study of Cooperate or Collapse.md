@@ -10,6 +10,7 @@ arxiv: '2505.09289'
 pdf_url: https://arxiv.org/pdf/2505.09289
 topics:
 - stress-misalignment
+- multiagent-friction
 status: candidate
 priority: 3
 relevance: adjacent

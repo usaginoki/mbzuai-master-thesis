@@ -20,8 +20,11 @@ cites:
   - "[[Lynch2025 - Agentic Misalignment]]"
 cited_by:
   - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Knecht2026 - Shutdown Sabotage in Multi-Agent Systems]]"
   - "[[Lu2026 - SurvivalBench survival pressure]]"
-cited_by_count: 2
+  - "[[Potter2026 - Peer-Preservation in Frontier Models]]"
+  - "[[Schmotz2026 - Instrumental monitor evasion]]"
+cited_by_count: 5
 tags:
   - type/paper
   - relevance/core

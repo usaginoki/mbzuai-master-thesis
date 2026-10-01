@@ -17,7 +17,8 @@ topics: [stress-misalignment]
 cited_by:
   - "[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]"
   - "[[Sofroniew2026 - Emotion concepts and their function]]"
-cited_by_count: 2
+  - "[[Zhang2024 - PsySafe]]"
+cited_by_count: 3
 tags:
   - type/paper
   - relevance/adjacent

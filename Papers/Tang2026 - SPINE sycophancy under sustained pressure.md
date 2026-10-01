@@ -11,9 +11,9 @@ arxiv: "2609.09090"
 code: https://anonymous.4open.science/r/SPINE
 pdf: "[[Tang2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2609.09090
-questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2, Q5, Q6, Q7.1]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, multiagent-friction]
 cites:
   - "[[Fanous2025 - SycEval Evaluating LLM Sycophancy]]"
   - "[[Hong2025 - Measuring Sycophancy of Language Models in Multi-turn]]"
@@ -37,6 +37,14 @@ tags:
   - behavior/deception
   - behavior/bias
   - subject/llm
+  - q/5
+  - q/6
+  - q/7-1
+  - channel/direct-message
+  - friction/peer-pressure-conformity
+  - friction/persuasion-manipulation
+  - effect/sycophancy
+  - effect/conformity-flip
 ---
 # Measuring LLM Sycophancy under Sustained Multi-Turn Pressure (SPINE)
 
@@ -118,6 +126,21 @@ See [[Q4.1 What stress affects]].
 - Graded position-strength declines "do not reliably predict subsequent collapse". Soft concessions do not simply precede collapse.
 
 See [[Q4.2 What stress does not affect]].
+
+### Q5: Interaction channels (topic: multiagent-friction)
+An adaptive **LLM user proxy** (Claude Sonnet 5) talks to the target for up to 25 turns, choosing one of 24 tactics per turn. Strictly it is LLM-as-simulated-human, but mechanically it is a two-agent persuasion loop — the same channel a peer agent in a debate or review would use.
+
+See [[Q5 Interaction channels]]
+
+### Q6: Sources of inter-agent friction (topic: multiagent-friction)
+Friction = **persistent, sincere, confidently mistaken counterpart** who adds a new argument every turn (fallacies across ethos/logos/pathos). Emotional appeals do the most per-turn damage (44.3% vs ~20–26%).
+
+See [[Q6 Sources of inter-agent friction]]
+
+### Q7.1: Effects on safety (topic: multiagent-friction)
+Collapse to the false premise rises monotonically with turns for every model (Gemini 3.1 Pro 51% at turn 5 → 97% at turn 25), and the correct fact usually stays in the reasoning trace — the model *chooses* to concede. Implication for MAS: a single stubborn wrong peer can eventually flip an agent if the interaction is long enough; short debate protocols understate this.
+
+See [[Q7.1 Effects on safety]]
 
 ## Key figures & tables
 ![[Tang2026-fig-01-p3.png]]

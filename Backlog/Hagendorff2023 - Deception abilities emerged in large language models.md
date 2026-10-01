@@ -29,7 +29,8 @@ cited_by:
   - "[[Scheurer2023 - Strategic deception under pressure]]"
   - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
   - "[[Wang2025 - When thinking LLMs lie]]"
-cited_by_count: 9
+  - "[[Zhang2024 - PsySafe]]"
+cited_by_count: 10
 tags:
 - type/candidate
 ---

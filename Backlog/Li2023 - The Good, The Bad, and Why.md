@@ -19,7 +19,9 @@ why: Negative emotional stimuli degrade models; early mechanistic view
 found_by:
 - search/emotion-anxiety
 added: 2026-09-28
-cited_by_count: 0
+cited_by:
+  - "[[Ma2025 - The Hunger Game Debate]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

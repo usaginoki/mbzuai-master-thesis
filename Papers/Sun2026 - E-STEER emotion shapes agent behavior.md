@@ -15,6 +15,7 @@ relevance: adjacent
 topics: [stress-misalignment]
 cites:
   - "[[Chen2025 - Persona Vectors]]"
+  - "[[Long2025 - EvoEmo Towards Evolved Emotional Policies for]]"
   - "[[Reichman2025 - Emotion latent spaces in LLMs]]"
   - "[[Zhang2025 - Emotion latent spaces in LLMs]]"
 cited_by_count: 0

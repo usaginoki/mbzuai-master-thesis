@@ -20,9 +20,10 @@ found_by:
 - search/emotion-anxiety
 added: 2026-09-28
 cited_by:
+  - "[[Melo2026 - SEVRA-Bench social engineering of review agents]]"
   - "[[Tang2026 - SPINE sycophancy under sustained pressure]]"
   - "[[Xu2025a - LH-Deception long-horizon deception]]"
-cited_by_count: 2
+cited_by_count: 3
 tags:
 - type/candidate
 ---

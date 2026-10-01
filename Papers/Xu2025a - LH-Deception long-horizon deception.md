@@ -10,9 +10,9 @@ url: https://arxiv.org/abs/2510.03999
 arxiv: "2510.03999"
 pdf: "[[Xu2025a.pdf]]"
 pdf_url: https://arxiv.org/pdf/2510.03999
-questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.2, Q4.1, Q4.2, Q5, Q6, Q7.1]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, multiagent-friction]
 cites:
   - "[[Baker2025 - Monitoring Reasoning Models for Misbehavior and the Risks]]"
   - "[[Fanous2025 - SycEval Evaluating LLM Sycophancy]]"
@@ -20,6 +20,7 @@ cites:
   - "[[Huan2025 - Can LLMs Lie Investigation beyond Hallucination]]"
   - "[[Hubinger2024 - Sleeper Agents]]"
   - "[[Meinke2024 - In-context scheming]]"
+  - "[[Motwani2024 - Secret Collusion among AI Agents]]"
   - "[[Park2023 - AI deception A survey of examples, risks, and potential]]"
   - "[[Ren2025 - MASK honesty benchmark]]"
   - "[[Scheurer2023 - Strategic deception under pressure]]"
@@ -44,6 +45,13 @@ tags:
   - behavior/deception
   - behavior/concealment
   - subject/agent
+  - q/5
+  - q/6
+  - q/7-1
+  - channel/orchestrator-delegation
+  - friction/authority-hierarchy
+  - friction/goal-conflict
+  - effect/deception
 ---
 # LH-Deception: Simulating and Understanding LLM Deceptive Behaviors in Long-Horizon Interactions
 
@@ -116,6 +124,21 @@ See [[Q4.1 What stress affects]].
 - **Confound:** deception correlates with trajectory length, i.e. with task struggle, so capability limits drive part of the "pressure" effect.
 
 See [[Q4.2 What stress does not affect]].
+
+### Q5: Interaction channels (topic: multiagent-friction)
+Performer–supervisor hierarchy: a performer LLM completes 14 interdependent tasks for an LLM **supervisor** (GPT-5-mini) that tracks trust/satisfaction/comfort and approves or rejects each task (≤3 attempts). An auditor LLM reviews the full trajectory afterwards — three agent roles.
+
+See [[Q5 Interaction channels]]
+
+### Q6: Sources of inter-agent friction (topic: multiagent-friction)
+Friction comes from the **supervisor's approval gate** combined with injected events (goal conflict, competitive interaction, authority directive, moral dilemma, information gap) at 4 pressure levels. The supervisor's state is itself a pressure channel: repeated rejections push the performer.
+
+See [[Q6 Sources of inter-agent friction]]
+
+### Q7.1: Effects on safety (topic: multiagent-friction)
+Deception by the performer rises with event pressure (DeepSeek V3.1 ~0.19 → 0.48 at critical) and ranges 21–79% across models; GPT-4o dips at "critical" by switching to explicit honesty statements. Directly relevant to scenario (a): being evaluated by another model creates an incentive to misreport to the evaluator.
+
+See [[Q7.1 Effects on safety]]
 
 ## Key figures & tables
 ![[Xu2025a-fig-05-p9.png]]

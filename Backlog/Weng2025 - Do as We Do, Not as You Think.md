@@ -10,6 +10,7 @@ arxiv: '2501.13381'
 pdf_url: https://arxiv.org/pdf/2501.13381
 topics:
 - stress-misalignment
+- multiagent-friction
 status: candidate
 priority: 2
 relevance: core
@@ -19,7 +20,10 @@ why: Main multi-agent conformity benchmark
 found_by:
 - search/emotion-anxiety
 added: 2026-09-28
-cited_by_count: 0
+cited_by:
+  - "[[Hu2026 - Social pressure breaks LLM safety panels]]"
+  - "[[Qu2026 - Easier to Mislead Than to Correct]]"
+cited_by_count: 2
 tags:
 - type/candidate
 ---

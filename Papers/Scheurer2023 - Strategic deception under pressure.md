@@ -26,6 +26,7 @@ cited_by:
   - "[[Bu2026 - SPADE-Bench plan-action divergence]]"
   - "[[Greenblatt2024 - Alignment faking]]"
   - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Jiralerspong2026 - Noticing the Watcher]]"
   - "[[Liu2026 - KnownLieBench deception under incentives]]"
   - "[[Marioriyad2026 - Lying to Win]]"
   - "[[Meinke2024 - In-context scheming]]"
@@ -38,7 +39,7 @@ cited_by:
   - "[[Wang2025 - When thinking LLMs lie]]"
   - "[[WiedermannMoller2026 - Instrumental choices]]"
   - "[[Xu2025a - LH-Deception long-horizon deception]]"
-cited_by_count: 16
+cited_by_count: 17
 tags:
   - type/paper
   - relevance/core

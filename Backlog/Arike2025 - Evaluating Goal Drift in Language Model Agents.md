@@ -16,7 +16,8 @@ added: 2026-09-28
 cited_by:
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"
   - "[[Jiang2026 - Why agents compromise safety under pressure]]"
-cited_by_count: 2
+  - "[[Knecht2026 - Shutdown Sabotage in Multi-Agent Systems]]"
+cited_by_count: 3
 tags:
 - type/candidate
 ---

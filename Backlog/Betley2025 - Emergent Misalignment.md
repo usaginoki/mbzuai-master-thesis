@@ -19,9 +19,10 @@ added: 2026-09-28
 cited_by:
   - "[[Fomin2026 - Internal-state probes read the situation]]"
   - "[[Jarviniemi2026 - Propensity inference]]"
+  - "[[Kale2025 - Reliable weak-to-strong monitoring]]"
   - "[[Lynch2025 - Agentic Misalignment]]"
   - "[[Sofroniew2026 - Emotion concepts and their function]]"
-cited_by_count: 4
+cited_by_count: 5
 tags:
 - type/candidate
 ---

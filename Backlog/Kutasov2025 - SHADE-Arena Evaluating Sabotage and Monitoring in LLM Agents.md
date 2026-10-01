@@ -10,6 +10,7 @@ arxiv: '2506.15740'
 pdf_url: https://arxiv.org/pdf/2506.15740
 topics:
 - stress-misalignment
+- multiagent-friction
 status: rejected
 reason: capability eval, no pressure manipulation
 relevance: adjacent
@@ -21,8 +22,12 @@ found_by:
 added: 2026-09-28
 cited_by:
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"
+  - "[[Jiralerspong2026 - Noticing the Watcher]]"
+  - "[[Kale2025 - Reliable weak-to-strong monitoring]]"
+  - "[[Potter2026 - Peer-Preservation in Frontier Models]]"
   - "[[Ruan2026 - SchemeArena factorized stress testing]]"
-cited_by_count: 2
+  - "[[Schmotz2026 - Instrumental monitor evasion]]"
+cited_by_count: 6
 tags:
 - type/candidate
 ---

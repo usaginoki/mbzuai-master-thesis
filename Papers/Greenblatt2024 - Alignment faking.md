@@ -17,6 +17,7 @@ topics: [stress-misalignment]
 cites:
   - "[[Carlsmith2023 - Scheming AIs Will AIs Fake Alignment During Training in]]"
   - "[[Denison2024 - Sycophancy to Subterfuge]]"
+  - "[[Greenblatt2023 - AI Control]]"
   - "[[Hubinger2024 - Sleeper Agents]]"
   - "[[Jarviniemi2024 - Uncovering Deceptive Tendencies in Language Models]]"
   - "[[Long2024 - Taking AI Welfare Seriously]]"
@@ -29,10 +30,12 @@ cited_by:
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"
   - "[[Jarviniemi2026 - Propensity inference]]"
   - "[[Jiang2026 - Why agents compromise safety under pressure]]"
+  - "[[Knecht2026 - Shutdown Sabotage in Multi-Agent Systems]]"
   - "[[Liu2026 - KnownLieBench deception under incentives]]"
   - "[[Lu2026 - SurvivalBench survival pressure]]"
   - "[[Lynch2025 - Agentic Misalignment]]"
   - "[[Okamoto2026a - Why do AI agents break rules]]"
+  - "[[Potter2026 - Peer-Preservation in Frontier Models]]"
   - "[[Ren2025 - MASK honesty benchmark]]"
   - "[[Ruan2026 - SchemeArena factorized stress testing]]"
   - "[[Schoen2025 - Stress testing anti-scheming training]]"
@@ -40,7 +43,7 @@ cited_by:
   - "[[Wang2025 - When thinking LLMs lie]]"
   - "[[WiedermannMoller2026 - Instrumental choices]]"
   - "[[Xu2025a - LH-Deception long-horizon deception]]"
-cited_by_count: 16
+cited_by_count: 18
 tags:
   - type/paper
   - relevance/core

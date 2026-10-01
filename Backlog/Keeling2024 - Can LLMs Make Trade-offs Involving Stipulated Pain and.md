@@ -17,8 +17,9 @@ outcome: goal vs pain trade-offs
 why: pain-induced trade-offs against task goals
 added: 2026-09-28
 cited_by:
+  - "[[Ma2025 - The Hunger Game Debate]]"
   - "[[Tagliabue2026 - The Pain Axis]]"
-cited_by_count: 1
+cited_by_count: 2
 tags:
 - type/candidate
 ---

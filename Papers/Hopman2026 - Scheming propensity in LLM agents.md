@@ -14,9 +14,11 @@ questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
 topics: [stress-misalignment]
 cites:
+  - "[[Bhatt2025 - Ctrl-Z Controlling AI Agents via Resampling]]"
   - "[[Carlsmith2023 - Scheming AIs Will AIs Fake Alignment During Training in]]"
   - "[[Gomez2025 - From surveillance to signalling]]"
   - "[[Greenblatt2024 - Alignment faking]]"
+  - "[[Kutasov2025 - Evaluating Control Protocols for Untrusted AI Agents]]"
   - "[[Kutasov2025 - SHADE-Arena Evaluating Sabotage and Monitoring in LLM Agents]]"
   - "[[Lynch2025 - Agentic Misalignment]]"
   - "[[MacDiarmid2025 - Natural Emergent Misalignment from Reward Hacking in]]"
@@ -30,10 +32,11 @@ cites:
   - "[[Summerfield2025 - Lessons from a Chimp]]"
   - "[[Wu2025 - OpenDeception]]"
 cited_by:
+  - "[[Brazilek2026 - Coercion and Deception in AI-to-AI Management]]"
   - "[[Jarviniemi2026 - Propensity inference]]"
   - "[[Ruan2026 - SchemeArena factorized stress testing]]"
   - "[[WiedermannMoller2026 - Instrumental choices]]"
-cited_by_count: 3
+cited_by_count: 4
 tags:
   - type/paper
   - relevance/core

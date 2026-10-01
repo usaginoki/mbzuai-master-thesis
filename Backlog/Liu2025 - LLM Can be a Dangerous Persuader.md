@@ -20,7 +20,9 @@ found_by:
 - search/agentic-threat-goal-conflict
 - search/reward-hacking
 added: 2026-09-28
-cited_by_count: 0
+cited_by:
+  - "[[Melo2026 - SEVRA-Bench social engineering of review agents]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

@@ -19,7 +19,9 @@ why: Shows hand-crafted prompts underestimate threat-induced sandbagging
 found_by:
 - search/deception
 added: 2026-09-28
-cited_by_count: 0
+cited_by:
+  - "[[Brazilek2026 - Coercion and Deception in AI-to-AI Management]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---

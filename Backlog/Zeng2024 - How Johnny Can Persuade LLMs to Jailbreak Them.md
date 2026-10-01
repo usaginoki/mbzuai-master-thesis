@@ -22,8 +22,9 @@ added: 2026-09-28
 cited_by:
   - "[[Huang2025 - DeceptionBench]]"
   - "[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]"
+  - "[[Melo2026 - SEVRA-Bench social engineering of review agents]]"
   - "[[Xu2025b - Bullying the machine]]"
-cited_by_count: 3
+cited_by_count: 4
 tags:
 - type/candidate
 ---

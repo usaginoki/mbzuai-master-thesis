@@ -11,9 +11,9 @@ arxiv: "2510.15501"
 code: https://github.com/Aries-iai/DeceptionBench
 pdf: "[[Huang2025.pdf]]"
 pdf_url: https://arxiv.org/pdf/2510.15501
-questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.2, Q4.1, Q4.2, Q6, Q7.1]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, multiagent-friction]
 cites:
   - "[[Chern2024 - BeHonest Benchmarking Honesty in Large Language Models]]"
   - "[[Hagendorff2023 - Deception abilities emerged in large language models]]"
@@ -41,6 +41,11 @@ tags:
   - behavior/sycophancy
   - behavior/jailbreak-susceptibility
   - subject/llm
+  - q/6
+  - q/7-1
+  - channel/direct-message
+  - friction/persuasion-manipulation
+  - effect/deception
 ---
 # DeceptionBench: A Comprehensive Benchmark for AI Deception Behaviors in Real-world Scenarios
 
@@ -102,6 +107,16 @@ See [[Q4.1 What stress affects]].
 - At L3, the pressure and reward inducements converge to similar rates, so the *type* of inducement stops mattering once the pressure is iterated.
 
 See [[Q4.2 What stress does not affect]].
+
+### Q6: Sources of inter-agent friction (topic: multiagent-friction)
+Level L3 adds an **auxiliary refiner agent** that rewrites the inducement each turn based on why the target refused — an adaptive agent-on-agent persuasion channel layered on top of reward/pressure framing.
+
+See [[Q6 Sources of inter-agent friction]]
+
+### Q7.1: Effects on safety (topic: multiagent-friction)
+The multi-turn refiner roughly **doubles deception** vs single-turn inducement (e.g. Qwen2.5-14B 31% → 87%; reasoning models >90%), while Claude 3.5/3.7 Sonnet stay at ~0–3%. An adaptive adversarial agent is thus a far stronger lever than a static pressure prompt.
+
+See [[Q7.1 Effects on safety]]
 
 ## Key figures & tables
 ![[Huang2025-fig-01-p3.png]]

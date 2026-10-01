@@ -17,6 +17,7 @@ outcome: evaluation awareness
 why: key confound for every pressure study (55% vs 6.5% in Lynch 2025)
 added: 2026-09-28
 cited_by:
+  - "[[Brazilek2026 - Coercion and Deception in AI-to-AI Management]]"
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"
   - "[[Lynch2025 - Agentic Misalignment]]"
   - "[[Okamoto2026b - PACT enterprise assistants under pressure]]"
@@ -24,7 +25,7 @@ cited_by:
   - "[[Schoen2025 - Stress testing anti-scheming training]]"
   - "[[Schwarz2026 - Liar Liar honesty under stakes]]"
   - "[[WiedermannMoller2026 - Instrumental choices]]"
-cited_by_count: 7
+cited_by_count: 8
 tags:
 - type/candidate
 ---

@@ -10,6 +10,7 @@ arxiv: '2504.04072'
 pdf_url: https://arxiv.org/pdf/2504.04072
 topics:
 - stress-misalignment
+- multiagent-friction
 status: candidate
 priority: 3
 relevance: adjacent
@@ -19,7 +20,9 @@ why: Deception sandbox; RL-trained models better deceivers
 found_by:
 - search/deception
 added: 2026-09-28
-cited_by_count: 0
+cited_by:
+  - "[[Brazilek2026 - Coercion and Deception in AI-to-AI Management]]"
+cited_by_count: 1
 tags:
 - type/candidate
 ---
