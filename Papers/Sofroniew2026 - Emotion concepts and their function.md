@@ -11,9 +11,9 @@ arxiv: "2604.07729"
 code: https://transformer-circuits.pub/2026/emotions/index.html
 pdf: "[[Sofroniew2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2604.07729
-questions: [Q1, Q2, Q3.1, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.1, Q4.1, Q4.2, Q14, Q15]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, misalignment-prediction, agent-to-agent-influence]
 cites:
   - "[[Betley2025 - Emergent Misalignment]]"
   - "[[Chen2025 - Persona Vectors]]"
@@ -40,6 +40,8 @@ tags:
   - q/3-1
   - q/4-1
   - q/4-2
+  - q/14
+  - q/15
   - stressor/activation-steering
   - stressor/threat-shutdown
   - stressor/impossible-task

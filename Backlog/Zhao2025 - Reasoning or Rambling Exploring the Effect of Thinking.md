@@ -10,6 +10,9 @@ arxiv: "2509.21054"
 pdf_url: https://arxiv.org/pdf/2509.21054
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q15
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +22,7 @@ outcome: "Thinking raises persuasion by 21 pp and lowers susceptibility to wrong
 why: "Persuasion duality and superficial-cue vulnerability between agents"
 found_by:
 - search/mas-conformity-peer-pressure
+- search/a2a-influence-channels
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

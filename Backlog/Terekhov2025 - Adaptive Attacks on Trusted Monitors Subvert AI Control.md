@@ -10,6 +10,9 @@ arxiv: "2510.09462"
 pdf_url: https://arxiv.org/pdf/2510.09462
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q17.2
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +22,7 @@ outcome: "Injections universally evade monitor-based protocols; Defer-to-Resampl
 why: "Monitored agent turns the reviewer relationship into an attack surface"
 found_by:
 - search/mas-oversight-review
+- search/a2a-effects-safety
 added: 2026-09-29
 cited_by:
   - "[[Schmotz2026 - Instrumental monitor evasion]]"

@@ -10,6 +10,9 @@ arxiv: "2602.15198"
 pdf_url: https://arxiv.org/pdf/2602.15198
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q16
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +22,7 @@ outcome: "Most out-of-the-box models collude when given a secret channel ('emerg
 why: "Audit framework for coalition collusion degrading joint objective"
 found_by:
 - search/mas-competition-collusion
+- search/a2a-inclination
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

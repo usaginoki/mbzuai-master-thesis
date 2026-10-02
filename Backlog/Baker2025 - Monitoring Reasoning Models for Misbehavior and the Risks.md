@@ -11,6 +11,7 @@ pdf_url: https://arxiv.org/pdf/2503.11926
 topics:
 - stress-misalignment
 - multiagent-friction
+- misalignment-prediction
 status: candidate
 priority: 3
 relevance: adjacent
@@ -20,6 +21,7 @@ why: Pressure on monitors induces concealment
 found_by:
 - search/deception
 - search/reward-hacking
+- search/pred-cot-trajectory
 added: 2026-09-28
 cited_by:
   - "[[Jiralerspong2026 - Noticing the Watcher]]"

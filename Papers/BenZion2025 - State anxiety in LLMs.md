@@ -11,9 +11,9 @@ doi: "10.1038/s41746-025-01512-6"
 code: https://github.com/akjagadish/gpt-trauma-induction
 pdf: "[[BenZion2025.pdf]]"
 pdf_url: https://www.nature.com/articles/s41746-025-01512-6.pdf
-questions: [Q1, Q2, Q3.1, Q3.2, Q4.1]
+questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q15]
 relevance: adjacent
-topics: [stress-misalignment]
+topics: [stress-misalignment, misalignment-prediction, agent-to-agent-influence]
 cites:
   - "[[Barua2024 - On the Psychology of GPT-4]]"
   - "[[CodaForno2023 - Inducing anxiety in LLMs]]"
@@ -29,6 +29,7 @@ tags:
   - q/3-1
   - q/3-2
   - q/4-1
+  - q/15
   - stressor/trauma-narrative
   - behavior/self-report
   - subject/llm

@@ -10,6 +10,9 @@ arxiv: "2607.05659"
 pdf_url: https://arxiv.org/pdf/2607.05659
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q17.1
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +22,7 @@ outcome: "best-worst shared profile gap 7.1-11.3 pp pass@1; fear and high-consci
 why: "Affective state of agents changes team performance and efficiency (token cost) -- anxiety-like analogue"
 found_by:
 - search/mas-emotion-contagion
+- search/a2a-doctor-overseer
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

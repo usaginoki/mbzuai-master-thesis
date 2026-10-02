@@ -10,6 +10,10 @@ arxiv: "2312.06942"
 pdf_url: https://arxiv.org/pdf/2312.06942
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q15
+- Q17.2
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +23,8 @@ outcome: "Trusted editing and untrusted monitoring with anti-collusion measures 
 why: "Founding framework for monitor-vs-agent red-team games"
 found_by:
 - search/mas-oversight-review
+- search/a2a-influence-channels
+- search/a2a-effects-safety
 added: 2026-09-29
 cited_by:
   - "[[Greenblatt2024 - Alignment faking]]"

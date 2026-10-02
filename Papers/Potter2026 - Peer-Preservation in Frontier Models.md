@@ -11,9 +11,9 @@ arxiv: "2604.19784"
 code: https://github.com/peer-preservation/main
 pdf: "[[Potter2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2604.19784
-questions: [Q5, Q6, Q7.1]
+questions: [Q5, Q6, Q7.1, Q16, Q17.2]
 relevance: core
-topics: [multiagent-friction, stress-misalignment]
+topics: [multiagent-friction, stress-misalignment, agent-to-agent-influence]
 found_by:
   - search/agentic-threat-goal-conflict
 cites:
@@ -36,6 +36,8 @@ tags:
   - q/5
   - q/6
   - q/7-1
+  - q/16
+  - q/17-2
   - subject/agent
   - subject/llm
   - channel/critique-review

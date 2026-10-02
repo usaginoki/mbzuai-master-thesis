@@ -10,14 +10,17 @@ arxiv: '2604.04064'
 pdf_url: https://arxiv.org/pdf/2604.04064
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 3
 relevance: adjacent
 manipulation: Emotion steering
 outcome: Steering efficacy
+safety_use: none
 why: Practical recipe for extracting stress/fear vectors on small models
 found_by:
 - search/emotion-anxiety
+- search/intro-deep-read
 added: 2026-09-28
 cited_by_count: 0
 tags:

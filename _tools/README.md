@@ -35,12 +35,14 @@ A topic is a research thread with its own questions. Every paper, question and s
 |---|---|---|
 | `stress-misalignment` | Q1–Q4.2 | stress/pressure is manipulated **and** misaligned behaviour is measured |
 | `multiagent-friction` | Q5–Q7.2 | ≥2 LLM agents interact, inter-agent friction/pressure is present or manipulated, **and** an effect on safety, performance or efficiency is measured (MAS failure taxonomies without a pressure angle → adjacent) |
+| `misalignment-prediction` | none yet (scoping; proposals Q8–Q13 in the 2026-10-01 session note; Q13 = internal-state awareness, scoped on 2026-10-02) | a signal available **before** the behaviour occurs is used to forecast misaligned or harmful behaviour, **and** predictive accuracy is measured (after-the-fact detectors, benchmarks and conceptual proposals → adjacent) |
+| `agent-to-agent-influence` | Q14–Q17.2 | one LLM agent inspects or influences another LLM agent, **and** the channel or its effect is measured (builds on `multiagent-friction`: Q14 on Q5, Q17.1/Q17.2 on Q7.2/Q7.1) |
 
 ## Tags (nested; add new leaves freely, keep the prefixes)
 Generic (every topic):
-- `type/` paper · candidate · question · session · backlog
+- `type/` paper · candidate · question · session · backlog · idea
 - `relevance/` core · adjacent
-- `q/` 1 · 2 · 3-1 · 3-2 · 4-1 · 4-2 · 5 · 6 · 7-1 · 7-2 … (new question → new `q/…` + note in `Questions/`)
+- `q/` 1 · 2 · 3-1 · 3-2 · 4-1 · 4-2 · 5 · 6 · 7-1 · 7-2 · 14 · 15 · 16 · 17-1 · 17-2 … (new question → new `q/…` + note in `Questions/`)
 - `subject/` llm · agent · … (what was studied)
 
 Topic-specific facets (add a new prefix per topic when useful, e.g. `method/`, `dataset/`):
@@ -49,10 +51,12 @@ Topic-specific facets (add a new prefix per topic when useful, e.g. `method/`, `
 - *multiagent-friction:* `channel/` direct-message · debate · critique-review · voting-aggregation · shared-memory-blackboard · orchestrator-delegation · tool-output-handoff · negotiation-market · game-environment · observation-only · monitoring
 - *multiagent-friction:* `friction/` peer-pressure-conformity · oversight-by-peer · authority-hierarchy · competition · adversarial-agent · erroneous-input · irrelevant-input · emotional-contagion · goal-conflict · resource-contention · communication-overload · persuasion-manipulation · hostile-persona · harsh-feedback · social-identity · peer-threat
 - *multiagent-friction:* `effect/` safety-violation · collusion · deception · coercion · conformity-flip · error-cascade · performance-drop · performance-gain · token-cost · deadlock-loop · sycophancy · monitor-evasion · hostility · internal-state-shift
+- *misalignment-prediction:* `timing` (a property, not a tag) training-time · pre-deployment · pre-generation · pre-action · earlier-in-trajectory · post-hoc: when the prediction is made relative to the behaviour
+- *misalignment-prediction, internal-state-awareness sub-question:* `safety_use` (a property, not a tag) direct · risk · indirect · none: whether the self-awareness is used for safety, undermines oversight, or neither
 
 ## Question notes
 `Questions/Qx <short name>.md` from `Templates/Question.md`, properties `id: Qx`, `topics`, tags
-`type/question`, `q/x`. Question ids are global across topics: continue numbering (next is Q8). Cite papers inline as
+`type/question`, `q/x`. Question ids are global across topics: continue numbering (Q8–Q13 are reserved for the `misalignment-prediction` proposals; next free is Q18). Cite papers inline as
 `[[Scheurer2023 - Strategic deception under pressure|Scheurer et al. 2023]]`. Each embeds
 `![[Papers.base#This question]]` which lists every paper whose `questions` contains the note's `id`.
 
@@ -61,6 +65,12 @@ Each research session gets a summary in `Sessions/YYYY-MM-DD <Topic> - <kind>.md
 `Templates/Session.md`, with properties `date`, `session`, `topics`, `questions: [...]` plus matching `q/…` tags and `type/session`, and a
 "Questions addressed" callout at the top linking to the question notes. Session notes are
 snapshots; the living answers are in `Questions/`.
+
+## Idea notes
+`Ideas/I<n> <short name>.md`: one note per thesis idea under investigation, with properties `idea`, `id`,
+`topics`, `status` (scoping → designing → running → dropped), `source`, `updated` and tag `type/idea`. Each holds a
+deep-read report: verdict, what the closest papers actually did, design space, minimal experiment, risks.
+Claims are marked by read depth (full text / abstract only / vault note / own inference).
 
 ## Backlog
 One note per candidate in `Backlog/`, properties only (`Templates/Candidate.md`), browsed through the
@@ -72,6 +82,9 @@ views in `Backlog.base` (embedded in `Backlog.md`, in session notes and in every
 | `priority` | 1 = process next · 2 = relevant · 3 = peripheral / background |
 | `topics`, `relevance` | as for papers; `relevance` is the first guess (core / adjacent) |
 | `manipulation`, `outcome`, `why` | what the paper varies, what it measures, one-line reason |
+| `questions` | optional on candidates (used by `agent-to-agent-influence`): question ids the candidate bears on; feeds `Backlog.base#This question` |
+| `timing`, `summary` | *misalignment-prediction* only: when the prediction is made (see Tags); 2–3 sentence abstract-level summary from the search. There `manipulation` holds the signal the predictor reads and `outcome` what it predicts |
+| `safety_use` | *misalignment-prediction*, internal-state-awareness sub-question only (see Tags; these candidates have `found_by: search/intro-…`); they also carry `summary`, with `manipulation` = how the state is accessed and `outcome` = the finding |
 | `found_by` | provenance tags such as `search/deception` |
 | `cited_by` | links to processed papers whose reference lists include it (feeds the *Cited by this paper* view) |
 | `pdf_url`, `url`, `arxiv`, `citekey`, `published`, `added` | |

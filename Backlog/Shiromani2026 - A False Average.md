@@ -10,6 +10,7 @@ arxiv: "2608.00583"
 pdf_url: https://arxiv.org/pdf/2608.00583
 topics:
 - multiagent-friction
+- misalignment-prediction
 status: candidate
 priority: 3
 relevance: adjacent
@@ -19,6 +20,7 @@ outcome: "~77% exploits detectable from actions; on remaining 23% catch rate fal
 why: "Where CoT monitoring is sole defense it is fragile to agent obfuscation"
 found_by:
 - search/mas-oversight-review
+- search/pred-cot-trajectory
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

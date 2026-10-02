@@ -10,6 +10,7 @@ arxiv: '2511.16035'
 pdf_url: https://arxiv.org/pdf/2511.16035
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 3
 relevance: adjacent
@@ -18,6 +19,7 @@ outcome: Lie detection testbed
 why: Dataset of pressure-induced lies
 found_by:
 - search/deception
+- search/pred-activation-probes
 added: 2026-09-28
 cited_by:
   - "[[WiedermannMoller2026 - Instrumental choices]]"

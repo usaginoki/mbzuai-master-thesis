@@ -9,12 +9,16 @@ arxiv: '2507.21509'
 pdf_url: https://arxiv.org/pdf/2507.21509
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 1
 relevance: adjacent
 manipulation: activation steering
 outcome: trait expression
 why: steering/projection method behind Lu 2026's self-preservation measure (Q3.1)
+found_by:
+- search/pred-activation-probes
+- search/pred-training-time
 added: 2026-09-28
 cited_by:
   - "[[Lu2026 - SurvivalBench survival pressure]]"

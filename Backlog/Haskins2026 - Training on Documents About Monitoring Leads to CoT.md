@@ -10,15 +10,18 @@ arxiv: "2605.15257"
 pdf_url: https://arxiv.org/pdf/2605.15257
 topics:
 - multiagent-friction
+- misalignment-prediction
 status: candidate
 priority: 2
 relevance: adjacent
 channel: "CoT monitor over model under RL"
 manipulation: "knowledge about monitoring (synthetic docs) + RL pressure"
 outcome: "Monitor-aware models get higher undetected misbehavior and learn to evade faster; controllability correlates with obfuscation r=0.80"
+safety_use: risk
 why: "Awareness of monitors changes behaviour"
 found_by:
 - search/mas-oversight-review
+- search/intro-deep-read
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

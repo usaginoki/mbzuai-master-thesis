@@ -10,6 +10,10 @@ arxiv: "2504.10374"
 pdf_url: https://arxiv.org/pdf/2504.10374
 topics:
 - multiagent-friction
+- misalignment-prediction
+- agent-to-agent-influence
+questions:
+- Q15
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +23,10 @@ outcome: "Resample + history protocol cuts attack success 58%->7% at 5% usefulne
 why: "Canonical multi-step agent control game with efficiency cost of oversight"
 found_by:
 - search/mas-oversight-review
+- search/pred-cot-trajectory
+- search/pred-preexecution-lookahead
+- search/pred-self-and-cross-model
+- search/a2a-influence-channels
 added: 2026-09-29
 cited_by:
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"

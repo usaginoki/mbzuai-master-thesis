@@ -11,9 +11,9 @@ arxiv: "2605.06772"
 code: https://github.com/xandstapleton/ai_agents
 pdf: "[[Niarchos2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2605.06772
-questions: [Q5, Q6, Q7.2]
+questions: [Q5, Q6, Q7.2, Q15, Q17.1]
 relevance: core
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-to-agent-influence]
 found_by:
   - search/mas-oversight-review
 cited_by_count: 0
@@ -23,6 +23,8 @@ tags:
   - q/5
   - q/6
   - q/7-2
+  - q/15
+  - q/17-1
   - subject/llm
   - subject/agent
   - channel/critique-review

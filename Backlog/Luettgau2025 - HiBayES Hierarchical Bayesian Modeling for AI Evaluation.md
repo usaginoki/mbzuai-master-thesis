@@ -9,12 +9,15 @@ arxiv: '2505.05602'
 pdf_url: https://arxiv.org/pdf/2505.05602
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 3
 relevance: adjacent
 manipulation: n/a (statistics)
 outcome: n/a
 why: effect-size methodology (Q3.1)
+found_by:
+- search/pred-eval-to-deployment
 added: 2026-09-28
 cited_by:
   - "[[Jarviniemi2026 - Propensity inference]]"

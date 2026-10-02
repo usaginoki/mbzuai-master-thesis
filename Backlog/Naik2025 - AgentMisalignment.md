@@ -10,6 +10,7 @@ arxiv: '2506.04018'
 pdf_url: https://arxiv.org/pdf/2506.04018
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +20,7 @@ why: Seed benchmark; persona effects comparable to model effects
 found_by:
 - search/agentic-threat-goal-conflict
 - search/reward-hacking
+- search/pred-eval-to-deployment
 added: 2026-09-28
 cited_by:
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"

@@ -11,6 +11,9 @@ pdf_url: https://arxiv.org/pdf/2608.14825
 topics:
 - stress-misalignment
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q16
 status: candidate
 priority: 1
 relevance: core
@@ -20,6 +23,7 @@ why: 'Explicitly "stress-conditioned": low inventory ↑ misaligned messages (OR
 found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
+- search/a2a-inclination
 added: 2026-09-28
 cited_by_count: 0
 tags:

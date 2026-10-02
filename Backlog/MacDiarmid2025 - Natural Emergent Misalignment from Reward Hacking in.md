@@ -10,6 +10,7 @@ arxiv: '2511.18397'
 pdf_url: https://arxiv.org/pdf/2511.18397
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 2
 relevance: adjacent
@@ -18,6 +19,7 @@ outcome: Reward hacking leading to sabotage and alignment faking
 why: Background on the consequences of reward hacking
 found_by:
 - search/reward-hacking
+- search/pred-training-time
 added: 2026-09-28
 cited_by:
   - "[[Guo2025 - Agentic upward deception]]"

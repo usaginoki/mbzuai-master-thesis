@@ -11,9 +11,9 @@ arxiv: "2408.00989"
 code: https://github.com/CUHK-ARISE/MAS-Resilience
 pdf: "[[Huang2024.pdf]]"
 pdf_url: https://arxiv.org/pdf/2408.00989
-questions: [Q5, Q6, Q7.2]
+questions: [Q5, Q6, Q7.2, Q15, Q16, Q17.1]
 relevance: core
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-to-agent-influence]
 found_by:
   - search/mas-adversarial-faulty-agent
   - search/mas-error-propagation
@@ -36,6 +36,9 @@ tags:
   - q/5
   - q/6
   - q/7-2
+  - q/15
+  - q/16
+  - q/17-1
   - subject/llm
   - subject/agent
   - channel/direct-message

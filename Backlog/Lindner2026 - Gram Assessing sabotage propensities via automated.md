@@ -10,6 +10,7 @@ arxiv: '2605.30322'
 pdf_url: https://arxiv.org/pdf/2605.30322
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +20,7 @@ why: Removing nudges/increasing realism → near-zero sabotage
 found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
+- search/pred-eval-to-deployment
 added: 2026-09-28
 cited_by_count: 0
 tags:

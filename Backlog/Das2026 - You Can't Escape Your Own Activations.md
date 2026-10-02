@@ -10,15 +10,25 @@ arxiv: "2609.03035"
 pdf_url: https://arxiv.org/pdf/2609.03035
 topics:
 - multiagent-friction
+- misalignment-prediction
+- agent-to-agent-influence
+questions:
+- Q14
+- Q17.2
 status: candidate
 priority: 2
 relevance: core
 channel: "activation monitor over colluding agents (blackjack, prisoners' dilemma)"
 manipulation: "agents told of monitor / given monitor feedback"
 outcome: "Probe detection stays accurate across baseline/aware/feedback conditions; colluding agents still coordinate"
+safety_use: direct
 why: "Tests whether telling agents they are monitored changes collusion and detectability"
 found_by:
 - search/mas-oversight-review
+- search/intro-instrumented-feedback
+- search/a2a-doctor-overseer
+- search/a2a-inspection-channels
+- search/a2a-effects-safety
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

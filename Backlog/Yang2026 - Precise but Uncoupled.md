@@ -10,6 +10,9 @@ arxiv: "2607.15388"
 pdf_url: https://arxiv.org/pdf/2607.15388
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q17.1
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +22,7 @@ outcome: "Reviewer precision 0.861 vs 0.644, yet broadcast discussion wins on ha
 why: "Reviewer feedback efficacy depends on uptake, not just critic quality"
 found_by:
 - search/mas-oversight-review
+- search/a2a-effects-performance
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

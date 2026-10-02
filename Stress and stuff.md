@@ -1,2 +1,5 @@
 Ideas:
 1. stressful collaboration between agents (different roles, different number of agents); look into safety → topic `multiagent-friction`, see [[2026-09-29 Multi-agent friction - literature review]] and [[Q5 Interaction channels|Q5]]–[[Q7.2 Effects on performance and efficiency|Q7.2]]
+2. heart-rate-monitor analogy: an LLM agent aware of its own internal state, used for safety → sub-question (proposed Q13) of topic `misalignment-prediction`, see [[2026-10-02 Internal-state awareness - scoping]], [[2026-10-02 Internal-state awareness - idea deep dives]] and the idea notes [[I1 Cooperative wearable]], [[I2 Naturally arising states]], [[I4 Routing the predictor to the agent]]
+3. doctor-overseer agent: an agent aware of other agents' "mental health" that helps or steers them → topic `agent-to-agent-influence`, see [[2026-10-02 Agent-to-agent influence - literature review]], [[Q14 Inspection channels|Q14]]–[[Q17.2 Effects on safety of oversight|Q17.2]] and [[I5 Doctor-overseer agent]]
+4. (Unstructured thoughts): self medication placebo!!!

@@ -10,6 +10,9 @@ arxiv: "2604.07821"
 pdf_url: https://arxiv.org/pdf/2604.07821
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q16
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +22,7 @@ outcome: "o3 reaches only 17% of optimal collective revenue vs o3-mini 50%; capa
 why: "Quantifies information withholding between agents and its performance cost"
 found_by:
 - search/mas-error-propagation
+- search/a2a-inclination
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

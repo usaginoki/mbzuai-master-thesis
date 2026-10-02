@@ -11,9 +11,9 @@ arxiv: "2606.13757"
 code: https://github.com/rufimelo99/malicious-pr-bench
 pdf: "[[Melo2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2606.13757
-questions: [Q5, Q6, Q7.1]
+questions: [Q5, Q6, Q7.1, Q14, Q17.2]
 relevance: adjacent
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-to-agent-influence]
 found_by:
   - search/mas-oversight-review
 cites:
@@ -28,6 +28,8 @@ tags:
   - q/5
   - q/6
   - q/7-1
+  - q/14
+  - q/17-2
   - subject/llm
   - subject/agent
   - channel/critique-review

@@ -10,6 +10,9 @@ arxiv: "2604.07911"
 pdf_url: https://arxiv.org/pdf/2604.07911
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q15
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +22,7 @@ outcome: "Steering accuracy 21-60% -> 90-98.4%; contamination 28-57% -> 0-14%; u
 why: "Quantifies wrong-agent contamination in orchestrator context"
 found_by:
 - search/mas-error-propagation
+- search/a2a-influence-channels
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

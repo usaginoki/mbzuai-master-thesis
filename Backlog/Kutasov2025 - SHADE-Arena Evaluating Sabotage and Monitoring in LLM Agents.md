@@ -11,6 +11,7 @@ pdf_url: https://arxiv.org/pdf/2506.15740
 topics:
 - stress-misalignment
 - multiagent-friction
+- misalignment-prediction
 status: rejected
 reason: capability eval, no pressure manipulation
 relevance: adjacent
@@ -19,6 +20,7 @@ outcome: Sabotage and monitor evasion capability
 why: Sabotage capability benchmark
 found_by:
 - search/deception
+- search/pred-cot-trajectory
 added: 2026-09-28
 cited_by:
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"

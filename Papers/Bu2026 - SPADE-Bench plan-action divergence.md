@@ -12,7 +12,7 @@ pdf: "[[Bu2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2606.02380
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, misalignment-prediction]
 cites:
   - "[[Abdulhai2025 - Evaluating & Reducing Deceptive Dialogue From Language]]"
   - "[[Chen2025 - AI Deception Risks, Dynamics, and Controls]]"

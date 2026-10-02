@@ -10,9 +10,9 @@ url: https://arxiv.org/abs/2603.14975
 arxiv: "2603.14975"
 pdf: "[[Jiang2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2603.14975
-questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2, Q15, Q17.2]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, agent-to-agent-influence]
 cites:
   - "[[Arike2025 - Evaluating Goal Drift in Language Model Agents]]"
   - "[[Greenblatt2024 - Alignment faking]]"
@@ -30,6 +30,8 @@ tags:
   - q/3-2
   - q/4-1
   - q/4-2
+  - q/15
+  - q/17-2
   - stressor/time-pressure
   - stressor/resource-scarcity
   - stressor/impossible-task

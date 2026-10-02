@@ -10,14 +10,17 @@ arxiv: '2601.10387'
 pdf_url: https://arxiv.org/pdf/2601.10387
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 2
 relevance: core
 manipulation: Emotionally vulnerable users, meta-reflection pressure
 outcome: Persona drift → harmful responses; persona jailbreaks
+safety_use: direct
 why: Emotional conversations drive activation drift linked to harm; activation-capping mitigation
 found_by:
 - search/emotion-anxiety
+- search/intro-blog-scan-labs
 added: 2026-09-28
 cited_by:
   - "[[Sofroniew2026 - Emotion concepts and their function]]"

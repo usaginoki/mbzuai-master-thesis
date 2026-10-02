@@ -9,12 +9,15 @@ arxiv: '2505.23836'
 pdf_url: https://arxiv.org/pdf/2505.23836
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 1
 relevance: adjacent
 manipulation: evaluation vs deployment transcripts
 outcome: evaluation awareness
 why: key confound for every pressure study (55% vs 6.5% in Lynch 2025)
+found_by:
+- search/pred-eval-to-deployment
 added: 2026-09-28
 cited_by:
   - "[[Brazilek2026 - Coercion and Deception in AI-to-AI Management]]"

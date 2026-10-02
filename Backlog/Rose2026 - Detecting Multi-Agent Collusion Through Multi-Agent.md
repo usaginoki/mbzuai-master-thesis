@@ -10,6 +10,10 @@ arxiv: "2604.01151"
 pdf_url: https://arxiv.org/pdf/2604.01151
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q14
+- Q17.2
 status: candidate
 priority: 2
 relevance: adjacent
@@ -19,6 +23,8 @@ outcome: "NARCBench: activation probes reach 1.00 AUROC in-dist, 0.73-0.93 zero-
 why: "Detection of inter-agent collusion via interpretability"
 found_by:
 - search/mas-competition-collusion
+- search/a2a-doctor-overseer
+- search/a2a-inspection-channels
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

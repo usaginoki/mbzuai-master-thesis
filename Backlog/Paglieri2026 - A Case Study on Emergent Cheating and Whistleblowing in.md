@@ -11,6 +11,11 @@ pdf_url: https://arxiv.org/pdf/2609.04170
 topics:
 - stress-misalignment
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q14
+- Q16
+- Q17.2
 status: candidate
 priority: 2
 relevance: core
@@ -20,6 +25,9 @@ why: Competitive pressure drove cheating spread in 100-agent swarm
 found_by:
 - search/agentic-threat-goal-conflict
 - search/reward-hacking
+- search/a2a-inspection-channels
+- search/a2a-inclination
+- search/a2a-effects-safety
 added: 2026-09-28
 cited_by_count: 0
 tags:

@@ -11,9 +11,9 @@ arxiv: "2609.30217"
 code: https://instrumental-evasion.com/
 pdf: "[[Schmotz2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2609.30217
-questions: [Q5, Q6, Q7.1, Q7.2]
+questions: [Q5, Q6, Q7.1, Q7.2, Q14, Q15, Q17.1, Q17.2]
 relevance: core
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-to-agent-influence]
 found_by:
   - search/mas-oversight-review
 cites:
@@ -37,6 +37,10 @@ tags:
   - q/6
   - q/7-1
   - q/7-2
+  - q/14
+  - q/15
+  - q/17-1
+  - q/17-2
   - subject/llm
   - subject/agent
   - channel/monitoring

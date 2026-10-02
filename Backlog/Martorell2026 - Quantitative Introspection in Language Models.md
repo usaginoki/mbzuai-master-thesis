@@ -10,14 +10,18 @@ arxiv: '2603.18893'
 pdf_url: https://arxiv.org/pdf/2603.18893
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 2
 relevance: adjacent
 manipulation: Naturalistic multi-turn conversation
 outcome: Numeric self-reports vs probes (wellbeing, focus, impulsivity)
+safety_use: indirect
 why: Method for quantifying an LLM's internal "state" (candidate for measuring stress)
 found_by:
 - search/emotion-anxiety
+- search/intro-capability
+- search/intro-safety-uses-and-risks
 added: 2026-09-28
 cited_by_count: 0
 tags:

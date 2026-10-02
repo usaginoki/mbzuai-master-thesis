@@ -10,15 +10,18 @@ arxiv: '2609.10724'
 pdf_url: https://arxiv.org/pdf/2609.10724
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 3
 relevance: adjacent
 manipulation: Accumulating operational challenges
 outcome: Communicating limits vs silent failure
+safety_use: indirect
 why: Stress accumulation eval
 found_by:
 - search/deception
 - search/emotion-anxiety
+- search/intro-deep-read
 added: 2026-09-28
 cited_by_count: 0
 tags:

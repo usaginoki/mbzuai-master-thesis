@@ -10,6 +10,10 @@ arxiv: "2605.09684"
 pdf_url: https://arxiv.org/pdf/2605.09684
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q14
+- Q17.2
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +23,8 @@ outcome: "2,644 trajectories drop Opus-4.5 monitor catch rate 94.9%->60.3%; moni
 why: "Shows agents can pressure/persuade their overseer model"
 found_by:
 - search/mas-oversight-review
+- search/a2a-inspection-channels
+- search/a2a-effects-safety
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

@@ -10,6 +10,9 @@ arxiv: "2506.23276"
 pdf_url: https://arxiv.org/pdf/2506.23276
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q16
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +22,7 @@ outcome: "Four behavioural regimes; reasoning models (o1 series) free-ride and f
 why: "Reasoning capability does not imply cooperation under social-dilemma pressure"
 found_by:
 - search/mas-competition-collusion
+- search/a2a-inclination
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

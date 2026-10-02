@@ -9,12 +9,15 @@ arxiv: '2502.17424'
 pdf_url: https://arxiv.org/pdf/2502.17424
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 3
 relevance: adjacent
 manipulation: narrow fine-tuning
 outcome: broad misalignment
 why: background on misalignment generalisation
+found_by:
+- search/pred-training-time
 added: 2026-09-28
 cited_by:
   - "[[Fomin2026 - Internal-state probes read the situation]]"

@@ -94,6 +94,44 @@ views:
       - relevance
       - why
   - type: table
+    name: Internal-state awareness
+    filters:
+      and:
+        - status == "candidate"
+        - or:
+            - safety_use == "direct"
+            - safety_use == "risk"
+            - safety_use == "indirect"
+            - safety_use == "none"
+    groupBy:
+      property: safety_use
+      direction: ASC
+    order:
+      - file.name
+      - priority
+      - published
+      - relevance
+      - why
+    sort:
+      - property: priority
+        direction: ASC
+  - type: table
+    name: This question
+    filters:
+      and:
+        - status == "candidate"
+        - questions.contains(this.id)
+    groupBy:
+      property: priority
+      direction: ASC
+    order:
+      - file.name
+      - published
+      - relevance
+      - manipulation
+      - outcome
+      - why
+  - type: table
     name: Cited by this paper
     filters:
       and:

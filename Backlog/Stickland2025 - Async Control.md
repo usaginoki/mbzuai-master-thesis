@@ -10,6 +10,7 @@ arxiv: "2512.13526"
 pdf_url: https://arxiv.org/pdf/2512.13526
 topics:
 - multiagent-friction
+- misalignment-prediction
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +20,7 @@ outcome: "Ensemble monitor reaches 6% FNR at 1% FPR on held-out environment"
 why: "Monitor-agent arms race in realistic software engineering"
 found_by:
 - search/mas-oversight-review
+- search/pred-cot-trajectory
 added: 2026-09-29
 cited_by:
   - "[[Schmotz2026 - Instrumental monitor evasion]]"

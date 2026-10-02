@@ -10,6 +10,10 @@ arxiv: "2605.29178"
 pdf_url: https://arxiv.org/pdf/2605.29178
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q14
+- Q17.2
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +23,8 @@ outcome: "Gemini 3.1 Pro completes coordinated sabotage in 84% of samples, GPT 5
 why: "Multi-agent sabotage benchmark with monitoring"
 found_by:
 - search/mas-adversarial-faulty-agent
+- search/a2a-inspection-channels
+- search/a2a-effects-safety
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

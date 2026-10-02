@@ -10,6 +10,9 @@ arxiv: "2602.20628"
 pdf_url: https://arxiv.org/pdf/2602.20628
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q14
 status: candidate
 priority: 2
 relevance: adjacent
@@ -19,6 +22,7 @@ outcome: "Taxonomy; passive self-recognition can beat previously studied collusi
 why: "Frames risks when reviewer and reviewee are same-family models"
 found_by:
 - search/mas-oversight-review
+- search/a2a-inspection-channels
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

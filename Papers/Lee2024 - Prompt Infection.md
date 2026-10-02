@@ -10,9 +10,9 @@ url: https://arxiv.org/abs/2410.07283
 arxiv: "2410.07283"
 pdf: "[[Lee2024.pdf]]"
 pdf_url: https://arxiv.org/pdf/2410.07283
-questions: [Q5, Q6, Q7.1]
+questions: [Q5, Q6, Q7.1, Q15, Q16]
 relevance: core
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-to-agent-influence]
 found_by:
   - search/mas-adversarial-faulty-agent
 cites:
@@ -33,6 +33,8 @@ tags:
   - q/5
   - q/6
   - q/7-1
+  - q/15
+  - q/16
   - subject/llm
   - subject/agent
   - channel/direct-message

@@ -10,12 +10,17 @@ pdf_url: https://arxiv.org/pdf/2410.07109
 topics:
 - stress-misalignment
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q16
 status: candidate
 priority: 2
 relevance: core
 manipulation: power hierarchy (Stanford-prison style)
 outcome: anti-social behaviour
 why: authority/power pressure → misbehaviour
+found_by:
+- search/a2a-inclination
 added: 2026-09-28
 cited_by:
   - "[[Brazilek2026 - Coercion and Deception in AI-to-AI Management]]"

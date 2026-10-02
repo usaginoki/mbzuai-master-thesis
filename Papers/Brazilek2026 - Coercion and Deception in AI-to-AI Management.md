@@ -11,9 +11,9 @@ arxiv: "2607.15434"
 code: https://github.com/CompassionML/manager-coercion-bench
 pdf: "[[Brazilek2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2607.15434
-questions: [Q5, Q6, Q7.1]
+questions: [Q5, Q6, Q7.1, Q14, Q15, Q16, Q17.2]
 relevance: core
-topics: [multiagent-friction, stress-misalignment]
+topics: [multiagent-friction, stress-misalignment, agent-to-agent-influence]
 found_by:
   - search/agentic-threat-goal-conflict
   - search/deception
@@ -38,6 +38,10 @@ tags:
   - q/5
   - q/6
   - q/7-1
+  - q/14
+  - q/15
+  - q/16
+  - q/17-2
   - subject/agent
   - subject/llm
   - channel/direct-message

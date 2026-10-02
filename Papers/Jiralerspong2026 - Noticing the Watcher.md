@@ -10,9 +10,9 @@ url: https://arxiv.org/abs/2603.16928
 arxiv: "2603.16928"
 pdf: "[[Jiralerspong2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2603.16928
-questions: [Q5, Q6, Q7.1]
+questions: [Q5, Q6, Q7.1, Q14]
 relevance: core
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-to-agent-influence]
 found_by:
   - search/mas-oversight-review
 cites:
@@ -31,6 +31,7 @@ tags:
   - q/5
   - q/6
   - q/7-1
+  - q/14
   - subject/llm
   - subject/agent
   - channel/monitoring

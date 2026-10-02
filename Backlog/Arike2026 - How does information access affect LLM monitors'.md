@@ -10,6 +10,9 @@ arxiv: "2601.21112"
 pdf_url: https://arxiv.org/pdf/2601.21112
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q14
 status: candidate
 priority: 2
 relevance: adjacent
@@ -19,6 +22,7 @@ outcome: "Extract-and-evaluate +16.8pp detection on BigCodeBench-Sabotage; less-
 why: "Design of the monitoring channel between agents"
 found_by:
 - search/mas-oversight-review
+- search/a2a-inspection-channels
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

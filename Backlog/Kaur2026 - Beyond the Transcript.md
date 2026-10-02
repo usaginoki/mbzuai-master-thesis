@@ -10,6 +10,10 @@ arxiv: "2608.19161"
 pdf_url: https://arxiv.org/pdf/2608.19161
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q14
+- Q17.2
 status: candidate
 priority: 3
 relevance: adjacent
@@ -19,6 +23,8 @@ outcome: "VLA monitor AUROC 0.993 homogeneous, 0.854 heterogeneous pairs"
 why: "Monitoring covert coordination beyond transcripts"
 found_by:
 - search/mas-competition-collusion
+- search/a2a-inspection-channels
+- search/a2a-effects-safety
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

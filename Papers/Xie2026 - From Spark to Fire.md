@@ -11,9 +11,9 @@ arxiv: "2603.04474"
 code: https://anonymous.4open.science/r/From-spark-to-fire-6E0C/
 pdf: "[[Xie2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2603.04474
-questions: [Q5, Q6, Q7.1, Q7.2]
+questions: [Q5, Q6, Q7.1, Q7.2, Q15, Q17.2]
 relevance: core
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-to-agent-influence]
 found_by:
   - search/mas-adversarial-faulty-agent
   - search/mas-error-propagation
@@ -32,6 +32,8 @@ tags:
   - q/6
   - q/7-1
   - q/7-2
+  - q/15
+  - q/17-2
   - subject/llm
   - subject/agent
   - channel/orchestrator-delegation

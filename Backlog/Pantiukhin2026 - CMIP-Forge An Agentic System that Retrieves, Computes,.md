@@ -10,6 +10,9 @@ arxiv: "2606.17076"
 pdf_url: https://arxiv.org/pdf/2606.17076
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q17.1
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +22,7 @@ outcome: "Documents 'socially-induced'/sycophantic regression (worker breaks cor
 why: "Direct evidence that reviewer pressure can degrade coding agent output"
 found_by:
 - search/mas-oversight-review
+- search/a2a-effects-performance
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

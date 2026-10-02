@@ -10,6 +10,11 @@ arxiv: "2511.02997"
 pdf_url: https://arxiv.org/pdf/2511.02997
 topics:
 - multiagent-friction
+- misalignment-prediction
+- agent-to-agent-influence
+questions:
+- Q14
+- Q17.2
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +24,9 @@ outcome: "Resampling for incrimination + deferring critical actions raise safety
 why: "Quantifies safety/usefulness trade-off of monitor pressure on agents"
 found_by:
 - search/mas-oversight-review
+- search/intro-deep-read
+- search/a2a-inspection-channels
+- search/a2a-effects-safety
 added: 2026-09-29
 cited_by:
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"

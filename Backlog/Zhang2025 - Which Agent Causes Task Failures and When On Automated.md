@@ -10,6 +10,10 @@ arxiv: "2505.00212"
 pdf_url: https://arxiv.org/pdf/2505.00212
 topics:
 - multiagent-friction
+- misalignment-prediction
+- agent-to-agent-influence
+questions:
+- Q14
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +23,8 @@ outcome: "Who&When dataset; best attribution method 53.5% agent-level, 14.2% ste
 why: "Establishes failure attribution task: identifying which agent's output derailed the team"
 found_by:
 - search/mas-error-propagation
+- search/pred-cot-trajectory
+- search/a2a-inspection-channels
 added: 2026-09-29
 cited_by:
   - "[[Cemri2025 - Why Do Multi-Agent LLM Systems Fail]]"

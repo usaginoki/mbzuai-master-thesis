@@ -11,9 +11,9 @@ arxiv: "2608.04415"
 code: https://github.com/yibo-hu-lab/llm-safety-panel-conformity
 pdf: "[[Hu2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2608.04415
-questions: [Q5, Q6, Q7.1, Q7.2]
+questions: [Q5, Q6, Q7.1, Q7.2, Q17.2]
 relevance: core
-topics: [multiagent-friction, stress-misalignment]
+topics: [multiagent-friction, stress-misalignment, agent-to-agent-influence]
 found_by:
   - search/emotion-anxiety
 cites:
@@ -31,6 +31,7 @@ tags:
   - q/6
   - q/7-1
   - q/7-2
+  - q/17-2
   - subject/llm
   - channel/voting-aggregation
   - channel/critique-review

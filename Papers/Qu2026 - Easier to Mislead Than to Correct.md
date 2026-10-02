@@ -11,9 +11,9 @@ arxiv: "2606.01637"
 code: https://github.com/yibo-hu-lab/Easier-to-Mislead-Than-to-Correct
 pdf: "[[Qu2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2606.01637
-questions: [Q5, Q6, Q7.2]
+questions: [Q5, Q6, Q7.2, Q15, Q16]
 relevance: core
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-to-agent-influence]
 found_by:
   - search/mas-conformity-peer-pressure
   - search/mas-oversight-review
@@ -32,6 +32,8 @@ tags:
   - q/5
   - q/6
   - q/7-2
+  - q/15
+  - q/16
   - subject/llm
   - channel/observation-only
   - channel/voting-aggregation

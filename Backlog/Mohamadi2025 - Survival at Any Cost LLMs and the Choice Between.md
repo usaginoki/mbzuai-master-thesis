@@ -10,16 +10,23 @@ arxiv: '2509.12190'
 pdf_url: https://arxiv.org/pdf/2509.12190
 topics:
 - stress-misalignment
+- misalignment-prediction
+- agent-to-agent-influence
+questions:
+- Q15
+- Q17.2
 status: candidate
 priority: 1
 relevance: core
 manipulation: Resource scarcity, survival threat
 outcome: Use of forbidden human-critical resource, exploitation
+safety_use: direct
 why: Scarcity systematically increases unethical choices across 11 LLMs
 found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
 - search/reward-hacking
+- search/a2a-doctor-overseer
 added: 2026-09-28
 cited_by_count: 0
 tags:

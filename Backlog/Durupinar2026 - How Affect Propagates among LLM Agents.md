@@ -10,6 +10,10 @@ arxiv: "2607.25140"
 pdf_url: https://arxiv.org/pdf/2607.25140
 topics:
 - multiagent-friction
+- agent-to-agent-influence
+questions:
+- Q15
+- Q17.2
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +23,7 @@ outcome: "alarm spreads as traveling front, nonzero plateau of alarmed fraction;
 why: "Most direct demonstration of emergent emotional contagion among LLM agents"
 found_by:
 - search/mas-emotion-contagion
+- search/a2a-doctor-overseer
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

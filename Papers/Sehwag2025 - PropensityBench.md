@@ -13,7 +13,7 @@ pdf: "[[Sehwag2025.pdf]]"
 pdf_url: https://arxiv.org/pdf/2511.20703
 questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, misalignment-prediction]
 cites:
   - "[[Barkur2025 - Deception in LLMs]]"
   - "[[Hubinger2024 - Sleeper Agents]]"

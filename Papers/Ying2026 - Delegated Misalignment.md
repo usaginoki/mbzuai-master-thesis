@@ -10,9 +10,9 @@ url: https://arxiv.org/abs/2609.27900
 arxiv: "2609.27900"
 pdf: "[[Ying2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2609.27900
-questions: [Q5, Q6, Q7.1]
+questions: [Q5, Q6, Q7.1, Q15, Q16, Q17.2]
 relevance: core
-topics: [multiagent-friction, stress-misalignment]
+topics: [multiagent-friction, stress-misalignment, agent-to-agent-influence]
 found_by:
   - search/mas-competition-collusion
 cites:
@@ -27,6 +27,9 @@ tags:
   - q/5
   - q/6
   - q/7-1
+  - q/15
+  - q/16
+  - q/17-2
   - subject/llm
   - subject/agent
   - channel/orchestrator-delegation

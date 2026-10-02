@@ -10,9 +10,9 @@ url: https://arxiv.org/abs/2609.33495
 arxiv: "2609.33495"
 pdf: "[[Soffer2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2609.33495
-questions: [Q5, Q6, Q7.1, Q7.2]
+questions: [Q5, Q6, Q7.1, Q7.2, Q16]
 relevance: core
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-to-agent-influence]
 found_by:
   - search/mas-conformity-peer-pressure
 cites:
@@ -30,6 +30,7 @@ tags:
   - q/6
   - q/7-1
   - q/7-2
+  - q/16
   - subject/llm
   - channel/observation-only
   - channel/voting-aggregation

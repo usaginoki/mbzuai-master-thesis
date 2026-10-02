@@ -11,9 +11,9 @@ arxiv: "2606.30449"
 code: https://github.com/maxf-zn/misalignment_monitoring
 pdf: "[[Fomin2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2606.30449
-questions: [Q2, Q3.1, Q4.1, Q4.2]
+questions: [Q2, Q3.1, Q4.1, Q4.2, Q14]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, misalignment-prediction, agent-to-agent-influence]
 cites:
   - "[[Betley2025 - Emergent Misalignment]]"
   - "[[Greenblatt2024 - Alignment faking]]"
@@ -31,6 +31,7 @@ tags:
   - q/3-1
   - q/4-1
   - q/4-2
+  - q/14
   - stressor/activation-steering
   - stressor/threat-shutdown
   - stressor/emotional-prompt

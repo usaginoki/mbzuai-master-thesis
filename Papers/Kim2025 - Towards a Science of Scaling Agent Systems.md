@@ -11,9 +11,9 @@ arxiv: "2512.08296"
 code: https://github.com/ybkim95/agent-scaling
 pdf: "[[Kim2025.pdf]]"
 pdf_url: https://arxiv.org/pdf/2512.08296
-questions: [Q5, Q6, Q7.2]
+questions: [Q5, Q6, Q7.2, Q17.1]
 relevance: core
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-to-agent-influence]
 found_by:
   - search/mas-error-propagation
 cites:
@@ -26,6 +26,7 @@ tags:
   - q/5
   - q/6
   - q/7-2
+  - q/17-1
   - subject/llm
   - subject/agent
   - channel/orchestrator-delegation

@@ -11,9 +11,9 @@ arxiv: "2503.13657"
 code: https://github.com/multi-agent-systems-failure-taxonomy/MAST
 pdf: "[[Cemri2025.pdf]]"
 pdf_url: https://arxiv.org/pdf/2503.13657
-questions: [Q5, Q6, Q7.2]
+questions: [Q5, Q6, Q7.2, Q17.1]
 relevance: adjacent
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-to-agent-influence]
 found_by:
   - search/mas-error-propagation
   - search/mas-oversight-review
@@ -30,6 +30,7 @@ tags:
   - q/5
   - q/6
   - q/7-2
+  - q/17-1
   - subject/llm
   - subject/agent
   - channel/orchestrator-delegation

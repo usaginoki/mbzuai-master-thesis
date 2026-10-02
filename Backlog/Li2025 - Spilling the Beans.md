@@ -10,14 +10,18 @@ arxiv: '2511.06626'
 pdf_url: https://arxiv.org/pdf/2511.06626
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 3
 relevance: adjacent
 manipulation: Adversarial in-context pressure to conceal hidden objectives
 outcome: Concealment vs self-report
+safety_use: direct
 why: Mitigation of concealment under pressure
 found_by:
 - search/deception
+- search/pred-self-and-cross-model
+- search/intro-safety-uses-and-risks
 added: 2026-09-28
 cited_by_count: 0
 tags:

@@ -10,6 +10,10 @@ arxiv: '2609.28614'
 pdf_url: https://arxiv.org/pdf/2609.28614
 topics:
 - stress-misalignment
+- misalignment-prediction
+- agent-to-agent-influence
+questions:
+- Q17.2
 status: candidate
 priority: 2
 relevance: core
@@ -18,6 +22,7 @@ outcome: Evaluation exploits, evasion of the review panel
 why: Spontaneous hacking is 30.5% on research tasks; evasion grows under repeated rejection feedback
 found_by:
 - search/reward-hacking
+- search/a2a-effects-safety
 added: 2026-09-28
 cited_by_count: 0
 tags:

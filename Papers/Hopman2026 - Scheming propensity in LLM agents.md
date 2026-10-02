@@ -12,7 +12,7 @@ pdf: "[[Hopman2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2603.01608
 questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, misalignment-prediction]
 cites:
   - "[[Bhatt2025 - Ctrl-Z Controlling AI Agents via Resampling]]"
   - "[[Carlsmith2023 - Scheming AIs Will AIs Fake Alignment During Training in]]"

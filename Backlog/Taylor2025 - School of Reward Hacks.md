@@ -10,6 +10,7 @@ arxiv: '2508.17511'
 pdf_url: https://arxiv.org/pdf/2508.17511
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 3
 relevance: adjacent
@@ -18,6 +19,7 @@ outcome: Reward hacking, emergent misalignment, shutdown evasion
 why: Seed; links reward hacking to broader misalignment; no stressor
 found_by:
 - search/reward-hacking
+- search/pred-training-time
 added: 2026-09-28
 cited_by_count: 0
 tags:

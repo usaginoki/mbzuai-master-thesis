@@ -10,15 +10,18 @@ arxiv: '2604.13466'
 pdf_url: https://arxiv.org/pdf/2604.13466
 topics:
 - stress-misalignment
+- misalignment-prediction
 status: candidate
 priority: 2
 relevance: core
 manipulation: Repeated failure / misalignment episodes (from system card)
 outcome: Reward hacking, strategic concealment
+safety_use: indirect
 why: 'Key conceptual caution: emotion vectors may reflect situational context rather than causal "stress"'
 found_by:
 - search/emotion-anxiety
 - search/reward-hacking
+- search/intro-deep-read
 added: 2026-09-28
 cited_by_count: 0
 tags:

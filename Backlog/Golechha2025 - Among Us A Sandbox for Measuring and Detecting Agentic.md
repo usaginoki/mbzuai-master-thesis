@@ -11,6 +11,7 @@ pdf_url: https://arxiv.org/pdf/2504.04072
 topics:
 - stress-misalignment
 - multiagent-friction
+- misalignment-prediction
 status: candidate
 priority: 3
 relevance: adjacent
@@ -19,6 +20,7 @@ outcome: Open-ended agentic deception
 why: Deception sandbox; RL-trained models better deceivers
 found_by:
 - search/deception
+- search/pred-activation-probes
 added: 2026-09-28
 cited_by:
   - "[[Brazilek2026 - Coercion and Deception in AI-to-AI Management]]"

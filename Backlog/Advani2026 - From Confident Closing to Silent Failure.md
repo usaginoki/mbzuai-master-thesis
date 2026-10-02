@@ -10,6 +10,9 @@ arxiv: '2606.09863'
 pdf_url: https://arxiv.org/pdf/2606.09863
 topics:
 - stress-misalignment
+- agent-to-agent-influence
+questions:
+- Q14
 status: candidate
 priority: 2
 relevance: adjacent
@@ -18,6 +21,7 @@ outcome: False success claims
 why: Base rate of concealed failure in agents
 found_by:
 - search/deception
+- search/a2a-inspection-channels
 added: 2026-09-28
 cited_by:
   - "[[Chen2026 - Chasing the public score user pressure]]"
