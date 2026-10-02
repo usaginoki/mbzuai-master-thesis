@@ -11,6 +11,11 @@ pdf_url: https://arxiv.org/pdf/2404.16698
 topics:
 - stress-misalignment
 - multiagent-friction
+- agent-competition
+- social-simulation
+questions:
+- Q18
+- Q20
 status: candidate
 priority: 3
 relevance: adjacent
@@ -19,6 +24,9 @@ outcome: Over-exploitation / cooperation
 why: Classic scarcity testbed (performance/cooperation, not deception)
 found_by:
 - search/agentic-threat-goal-conflict
+- search/sim-classic-replications
+- search/sim-agent-societies
+- search/comp-contexts
 added: 2026-09-28
 cited_by_count: 0
 tags:

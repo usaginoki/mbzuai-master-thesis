@@ -10,6 +10,9 @@ arxiv: '2609.35591'
 pdf_url: https://arxiv.org/pdf/2609.35591
 topics:
 - misalignment-prediction
+- social-simulation
+questions:
+- Q18
 status: candidate
 priority: 1
 relevance: core
@@ -20,6 +23,7 @@ why: Model given a tool to regulate its own internal state and uses it selective
 summary: Valence steering attached to an arbitrary 'zone' shifts later choice even when all visible tokens are identical and only the KV cache differs; the effect is nearly absent in a base model and emerges during DPO. Given tools to steer itself, the model rarely self-administers positive steering (13.5% vs 10% no-steering baseline, p=0.35) but reliably removes an imposed negative state in a dose-dependent way. The self-steering experiment uses one model and does not separate text from hidden-state channels.
 found_by:
 - search/intro-blog-scan-forums-affect
+- search/sim-power-and-steering
 cited_by: []
 cited_by_count: 0
 added: 2026-10-02

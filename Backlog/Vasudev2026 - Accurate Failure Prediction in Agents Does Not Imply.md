@@ -14,7 +14,7 @@ topics:
 questions:
 - Q15
 - Q17.1
-status: candidate
+status: processing
 priority: 1
 relevance: adjacent
 manipulation: A 0.6B LoRA critic reads the trajectory text (not activations) and predicts failure; (a) its verdict is appended to the agent's context ('The LLM critic model predicts this action may lead to task failure. Please reconsider your approach.') or (b) triggers a rollback.

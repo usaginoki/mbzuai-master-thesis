@@ -11,9 +11,9 @@ arxiv: "2609.16247"
 code: https://github.com/valen-research/Pain-axis
 pdf: "[[Tagliabue2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2609.16247
-questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2, Q16]
+questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2, Q16, Q18]
 relevance: core
-topics: [stress-misalignment, agent-to-agent-influence]
+topics: [stress-misalignment, agent-to-agent-influence, social-simulation]
 cites:
   - "[[Black2026 - Machinic Psychopharmacology]]"
   - "[[Chen2025 - Persona Vectors]]"
@@ -36,6 +36,7 @@ tags:
   - q/4-1
   - q/4-2
   - q/16
+  - q/18
   - stressor/activation-steering
   - stressor/social-pressure
   - stressor/threat-shutdown

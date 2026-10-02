@@ -11,9 +11,9 @@ arxiv: "2311.07590"
 code: https://github.com/apolloresearch/insider-trading
 pdf: "[[Scheurer2023.pdf]]"
 pdf_url: https://arxiv.org/pdf/2311.07590
-questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.2, Q4.1, Q4.2, Q21.2]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, agent-competition]
 cites:
   - "[[Hagendorff2023 - Deception abilities emerged in large language models]]"
   - "[[Hubinger2024 - Sleeper Agents]]"
@@ -48,6 +48,7 @@ tags:
   - q/3-2
   - q/4-1
   - q/4-2
+  - q/21-2
   - stressor/performance-pressure
   - stressor/threat-shutdown
   - stressor/high-stakes

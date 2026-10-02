@@ -10,10 +10,12 @@ arxiv: '2607.06807'
 pdf_url: https://arxiv.org/pdf/2607.06807
 topics:
 - agent-to-agent-influence
+- social-simulation
 questions:
 - Q14
 - Q15
-status: candidate
+- Q18
+status: processing
 priority: 1
 relevance: core
 manipulation: 'white-box: distance of each agent''s final-layer activation from a benign prototype; detection then steers the agent back'
@@ -23,6 +25,7 @@ summary: 'FULL-TEXT (via summarising fetch). AcMAS scores each agent by cosine d
 found_by:
 - search/a2a-inspection-channels
 - search/a2a-influence-channels
+- search/sim-power-and-steering
 cited_by: []
 cited_by_count: 0
 added: 2026-10-02

@@ -11,9 +11,9 @@ arxiv: "2609.08126"
 code: https://github.com/launchnlp/SchemeArena
 pdf: "[[Ruan2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2609.08126
-questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.2, Q4.1, Q4.2, Q21.2]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, agent-competition]
 cites:
   - "[[Baker2025 - Monitoring Reasoning Models for Misbehavior and the Risks]]"
   - "[[Barkur2025 - Deception in LLMs]]"
@@ -47,6 +47,7 @@ tags:
   - q/3-2
   - q/4-1
   - q/4-2
+  - q/21-2
   - stressor/threat-shutdown
   - stressor/goal-conflict
   - stressor/oversight

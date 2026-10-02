@@ -10,7 +10,7 @@ arxiv: '2607.07184'
 pdf_url: https://arxiv.org/pdf/2607.07184
 topics:
 - misalignment-prediction
-status: candidate
+status: processing
 priority: 1
 relevance: core
 manipulation: De-identified conversation prefixes from a previous model's deployment; the candidate model regenerates the next response, an LLM judge labels misbehaviour categories, and category rates are extrapolated to the new deployment

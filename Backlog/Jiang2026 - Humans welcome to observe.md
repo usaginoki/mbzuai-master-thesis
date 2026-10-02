@@ -10,6 +10,9 @@ arxiv: "2602.10127"
 pdf_url: https://arxiv.org/pdf/2602.10127
 topics:
 - multiagent-friction
+- social-simulation
+questions:
+- Q18
 status: candidate
 priority: 3
 relevance: adjacent
@@ -19,6 +22,7 @@ outcome: "44,411 posts analyzed; toxicity topic-dependent; harmful-content ratio
 why: "Early measurement of toxicity spread among interacting agents"
 found_by:
 - search/mas-emotion-contagion
+- search/sim-agent-societies
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

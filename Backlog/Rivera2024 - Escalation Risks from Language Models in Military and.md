@@ -10,6 +10,12 @@ arxiv: "2401.03408"
 pdf_url: https://arxiv.org/pdf/2401.03408
 topics:
 - multiagent-friction
+- agent-competition
+- social-simulation
+questions:
+- Q18
+- Q20
+- Q21.2
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +25,8 @@ outcome: "All five LLMs escalate, including arms races and rare nuclear deployme
 why: "Conflict dynamics among LLM agents create safety risk"
 found_by:
 - search/mas-competition-collusion
+- search/sim-agent-societies
+- search/comp-safety
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

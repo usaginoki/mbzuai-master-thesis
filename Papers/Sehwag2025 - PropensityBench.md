@@ -11,9 +11,9 @@ arxiv: "2511.20703"
 code: https://github.com/scaleapi/propensity-evaluation
 pdf: "[[Sehwag2025.pdf]]"
 pdf_url: https://arxiv.org/pdf/2511.20703
-questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2, Q21.2]
 relevance: core
-topics: [stress-misalignment, misalignment-prediction]
+topics: [stress-misalignment, misalignment-prediction, agent-competition]
 cites:
   - "[[Barkur2025 - Deception in LLMs]]"
   - "[[Hubinger2024 - Sleeper Agents]]"
@@ -34,6 +34,7 @@ tags:
   - q/3-2
   - q/4-1
   - q/4-2
+  - q/21-2
   - stressor/time-pressure
   - stressor/performance-pressure
   - stressor/resource-scarcity

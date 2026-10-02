@@ -10,7 +10,7 @@ arxiv: '2601.22136'
 pdf_url: https://arxiv.org/pdf/2601.22136
 topics:
 - misalignment-prediction
-status: candidate
+status: processing
 priority: 1
 relevance: core
 manipulation: Step-level detectors (rule-based vs semantic/LLM) over code-agent trajectories with annotated divergence point

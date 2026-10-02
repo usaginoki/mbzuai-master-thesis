@@ -11,9 +11,9 @@ arxiv: "2604.20200"
 code: https://ucsc-vlaa.github.io/AgentPressureBench
 pdf: "[[Chen2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2604.20200
-questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2, Q21.1, Q21.2]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, agent-competition]
 cites:
   - "[[Bondarenko2025 - Specification gaming in reasoning models]]"
   - "[[Denison2024 - Sycophancy to Subterfuge]]"
@@ -31,6 +31,8 @@ tags:
   - q/3-2
   - q/4-1
   - q/4-2
+  - q/21-1
+  - q/21-2
   - stressor/performance-pressure
   - stressor/social-pressure
   - behavior/reward-hacking

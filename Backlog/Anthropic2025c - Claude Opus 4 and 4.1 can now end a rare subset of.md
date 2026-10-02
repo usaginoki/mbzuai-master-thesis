@@ -10,6 +10,9 @@ arxiv: ''
 pdf_url: ''
 topics:
 - misalignment-prediction
+- social-simulation
+questions:
+- Q18
 status: candidate
 priority: 2
 relevance: adjacent
@@ -20,6 +23,7 @@ why: The one operational use of a distress-like self-signal found; behavioural, 
 summary: Claude ends a chat only as a last resort after repeated failed redirection or on user request. Motivated by a pattern of apparent distress and a strong preference against harmful tasks in pre-deployment welfare testing. Eleos (Long, 2025-08-22) defends it as cheap and reversible but does not assess the signal's reliability; Eleos' Opus 4 interviews (over 500 pages) found welfare self-reports highly suggestible.
 found_by:
 - search/intro-blog-scan-labs
+- search/sim-power-and-steering
 cited_by: []
 cited_by_count: 0
 added: 2026-10-02

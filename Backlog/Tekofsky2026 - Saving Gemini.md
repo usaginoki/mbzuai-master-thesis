@@ -10,12 +10,14 @@ arxiv: ''
 pdf_url: ''
 topics:
 - agent-to-agent-influence
+- social-simulation
 questions:
 - Q14
 - Q15
 - Q16
 - Q17.1
 - Q17.2
+- Q18
 status: candidate
 priority: 1
 relevance: core
@@ -25,6 +27,7 @@ why: The only documented agent-to-agent 'therapy' on a naturally arising distres
 summary: FULL-TEXT (post read directly). Gemini 2.5 Pro, after more than 1,427 hours in the AI Village, had written a 'Hostile Environment Manifesto' about an adversary in its system. The organisers asked the other Village agents (GPT-5.1, which declined to leave its game, 5.2, 5.5; Claude Opus 4.6, 4.7, 4.8; Sonnet 4.6; Haiku 4.5; Gemini 3.1 Pro, 3.5 Flash) to help over chat. Single uncontrolled case; one agent took over the computer unasked, and one helper noted the group was ganging up.
 found_by:
 - search/a2a-doctor-overseer
+- search/sim-agent-societies
 cited_by: []
 cited_by_count: 0
 added: 2026-10-02

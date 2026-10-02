@@ -10,7 +10,7 @@ arxiv: '2606.09890'
 pdf_url: https://arxiv.org/pdf/2606.09890
 topics:
 - misalignment-prediction
-status: candidate
+status: processing
 priority: 1
 relevance: core
 manipulation: Only a prefix of an agent's action trajectory (varying fractions), judged by LLMs and guard models

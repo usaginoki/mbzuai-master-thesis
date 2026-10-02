@@ -11,6 +11,10 @@ pdf_url: https://arxiv.org/pdf/2607.26120
 topics:
 - stress-misalignment
 - multiagent-friction
+- agent-competition
+questions:
+- Q20
+- Q21.2
 status: candidate
 priority: 3
 relevance: adjacent
@@ -19,6 +23,8 @@ outcome: Deceptive communication
 why: Goal conflict in mixed-motive MAS
 found_by:
 - search/agentic-threat-goal-conflict
+- search/comp-contexts
+- search/comp-safety
 added: 2026-09-28
 cited_by_count: 0
 tags:

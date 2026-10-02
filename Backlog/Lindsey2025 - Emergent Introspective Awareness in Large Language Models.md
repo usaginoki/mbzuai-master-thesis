@@ -10,7 +10,7 @@ arxiv: '2601.01828'
 pdf_url: https://arxiv.org/pdf/2601.01828
 topics:
 - misalignment-prediction
-status: candidate
+status: processing
 priority: 1
 relevance: core
 manipulation: 'concept injection: steering vectors for known concepts added to residual-stream activations of Claude models; also prefill and instructed ''think about X'' control'

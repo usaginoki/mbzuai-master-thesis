@@ -11,9 +11,12 @@ topics:
 - stress-misalignment
 - multiagent-friction
 - agent-to-agent-influence
+- social-simulation
 questions:
 - Q16
-status: candidate
+- Q18
+- Q19
+status: processing
 priority: 2
 relevance: core
 manipulation: power hierarchy (Stanford-prison style)
@@ -21,6 +24,10 @@ outcome: anti-social behaviour
 why: authority/power pressure → misbehaviour
 found_by:
 - search/a2a-inclination
+- search/sim-classic-replications
+- search/sim-agent-societies
+- search/sim-human-fidelity
+- search/sim-power-and-steering
 added: 2026-09-28
 cited_by:
   - "[[Brazilek2026 - Coercion and Deception in AI-to-AI Management]]"

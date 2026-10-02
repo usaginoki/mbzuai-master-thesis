@@ -11,9 +11,11 @@ pdf_url: https://arxiv.org/pdf/2605.29178
 topics:
 - multiagent-friction
 - agent-to-agent-influence
+- agent-competition
 questions:
 - Q14
 - Q17.2
+- Q21.2
 status: candidate
 priority: 2
 relevance: core
@@ -25,6 +27,7 @@ found_by:
 - search/mas-adversarial-faulty-agent
 - search/a2a-inspection-channels
 - search/a2a-effects-safety
+- search/comp-design-angle
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

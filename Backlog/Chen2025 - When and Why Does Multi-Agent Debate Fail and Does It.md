@@ -10,6 +10,10 @@ arxiv: "2510.20963"
 pdf_url: https://arxiv.org/pdf/2510.20963
 topics:
 - multiagent-friction
+- agent-competition
+questions:
+- Q21.1
+- Q21.2
 status: candidate
 priority: 3
 relevance: core
@@ -19,6 +23,7 @@ outcome: "CosMAD filters informative disagreement; CopMAD reduces to cheap talk;
 why: "Incentive design as source of harmful agreement pressure"
 found_by:
 - search/mas-conformity-peer-pressure
+- search/comp-performance
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

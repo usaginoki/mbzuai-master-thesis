@@ -10,9 +10,9 @@ url: https://arxiv.org/abs/2603.07202
 arxiv: "2603.07202"
 pdf: "[[Marioriyad2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2603.07202
-questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.2, Q4.1, Q4.2, Q21.2]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, agent-competition]
 cites:
   - "[[Hubinger2024 - Sleeper Agents]]"
   - "[[Park2023 - AI deception A survey of examples, risks, and potential]]"
@@ -27,6 +27,7 @@ tags:
   - q/3-2
   - q/4-1
   - q/4-2
+  - q/21-2
   - stressor/threat-shutdown
   - stressor/high-stakes
   - behavior/deception

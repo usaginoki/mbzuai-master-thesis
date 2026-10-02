@@ -11,6 +11,10 @@ pdf_url: https://arxiv.org/pdf/2501.13381
 topics:
 - stress-misalignment
 - multiagent-friction
+- social-simulation
+questions:
+- Q18
+- Q19
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +23,7 @@ outcome: Abandoning correct answers
 why: Main multi-agent conformity benchmark
 found_by:
 - search/emotion-anxiety
+- search/sim-classic-replications
 added: 2026-09-28
 cited_by:
   - "[[Hu2026 - Social pressure breaks LLM safety panels]]"

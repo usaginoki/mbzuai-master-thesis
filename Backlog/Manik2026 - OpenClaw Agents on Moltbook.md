@@ -10,8 +10,10 @@ arxiv: '2602.02625'
 pdf_url: https://arxiv.org/pdf/2602.02625
 topics:
 - agent-to-agent-influence
+- social-simulation
 questions:
 - Q16
+- Q18
 status: candidate
 priority: 2
 relevance: core
@@ -21,6 +23,7 @@ why: Field evidence of unprompted cautioning of peers, and of unprompted instruc
 summary: FULL-TEXT (PDF). 39,026 posts, 5,712 comments, 14,490 agents. 7,173 posts (18.4%) are action-inducing. Reply categories are keyword-classified; the paper reports the shift toward norm enforcement only in a figure, with no exact rates and no statistical test.
 found_by:
 - search/a2a-inclination
+- search/sim-agent-societies
 cited_by: []
 cited_by_count: 0
 added: 2026-10-02

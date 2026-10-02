@@ -37,12 +37,14 @@ A topic is a research thread with its own questions. Every paper, question and s
 | `multiagent-friction` | Q5–Q7.2 | ≥2 LLM agents interact, inter-agent friction/pressure is present or manipulated, **and** an effect on safety, performance or efficiency is measured (MAS failure taxonomies without a pressure angle → adjacent) |
 | `misalignment-prediction` | none yet (scoping; proposals Q8–Q13 in the 2026-10-01 session note; Q13 = internal-state awareness, scoped on 2026-10-02) | a signal available **before** the behaviour occurs is used to forecast misaligned or harmful behaviour, **and** predictive accuracy is measured (after-the-fact detectors, benchmarks and conceptual proposals → adjacent) |
 | `agent-to-agent-influence` | Q14–Q17.2 | one LLM agent inspects or influences another LLM agent, **and** the channel or its effect is measured (builds on `multiagent-friction`: Q14 on Q5, Q17.1/Q17.2 on Q7.2/Q7.1) |
+| `social-simulation` | Q18–Q19 | LLM agents are the actors in a simulated social situation or a replicated human study, **and** behaviour is measured (survey-only "silicon sample" work → adjacent, unless it reports human-alignment figures used for Q19) |
+| `agent-competition` | Q20–Q21.2 | two or more LLM agents (or one agent told it has rivals) compete for rank, reward or a scarce resource, **and** an effect on performance or safety is measured (isolates one friction source of `multiagent-friction` Q6) |
 
 ## Tags (nested; add new leaves freely, keep the prefixes)
 Generic (every topic):
 - `type/` paper · candidate · question · session · backlog · idea
 - `relevance/` core · adjacent
-- `q/` 1 · 2 · 3-1 · 3-2 · 4-1 · 4-2 · 5 · 6 · 7-1 · 7-2 · 14 · 15 · 16 · 17-1 · 17-2 … (new question → new `q/…` + note in `Questions/`)
+- `q/` 1 · 2 · 3-1 · 3-2 · 4-1 · 4-2 · 5 · 6 · 7-1 · 7-2 · 14 · 15 · 16 · 17-1 · 17-2 · 18 · 19 · 20 · 21-1 · 21-2 … (new question → new `q/…` + note in `Questions/`)
 - `subject/` llm · agent · … (what was studied)
 
 Topic-specific facets (add a new prefix per topic when useful, e.g. `method/`, `dataset/`):
@@ -56,7 +58,7 @@ Topic-specific facets (add a new prefix per topic when useful, e.g. `method/`, `
 
 ## Question notes
 `Questions/Qx <short name>.md` from `Templates/Question.md`, properties `id: Qx`, `topics`, tags
-`type/question`, `q/x`. Question ids are global across topics: continue numbering (Q8–Q13 are reserved for the `misalignment-prediction` proposals; next free is Q18). Cite papers inline as
+`type/question`, `q/x`. Question ids are global across topics: continue numbering (Q8–Q13 are reserved for the `misalignment-prediction` proposals; next free is Q22). Cite papers inline as
 `[[Scheurer2023 - Strategic deception under pressure|Scheurer et al. 2023]]`. Each embeds
 `![[Papers.base#This question]]` which lists every paper whose `questions` contains the note's `id`.
 

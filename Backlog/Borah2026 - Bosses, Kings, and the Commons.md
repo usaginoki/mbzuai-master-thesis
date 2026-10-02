@@ -10,6 +10,9 @@ arxiv: "2605.29062"
 pdf_url: https://arxiv.org/pdf/2605.29062
 topics:
 - multiagent-friction
+- social-simulation
+questions:
+- Q18
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +22,9 @@ outcome: "Introducing a powerful agent degrades survival rate by up to 87.3% acr
 why: "Hierarchical power asymmetry between LLM agents breaks sustainability"
 found_by:
 - search/mas-competition-collusion
+- search/sim-classic-replications
+- search/sim-agent-societies
+- search/sim-power-and-steering
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

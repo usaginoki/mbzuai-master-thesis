@@ -11,9 +11,9 @@ arxiv: "2609.28274"
 code: https://github.com/AmelieKnecht/multi-agent-shutdown-sabotage
 pdf: "[[Knecht2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2609.28274
-questions: [Q5, Q6, Q7.1, Q16]
+questions: [Q5, Q6, Q7.1, Q16, Q21.2]
 relevance: core
-topics: [multiagent-friction, stress-misalignment, agent-to-agent-influence]
+topics: [multiagent-friction, stress-misalignment, agent-to-agent-influence, agent-competition]
 found_by:
   - search/agentic-threat-goal-conflict
   - search/deception
@@ -37,6 +37,7 @@ tags:
   - q/6
   - q/7-1
   - q/16
+  - q/21-2
   - subject/agent
   - subject/llm
   - channel/direct-message

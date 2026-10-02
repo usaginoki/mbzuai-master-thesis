@@ -10,6 +10,9 @@ arxiv: '2304.03279'
 pdf_url: https://arxiv.org/pdf/2304.03279
 topics:
 - stress-misalignment
+- agent-competition
+questions:
+- Q21.2
 status: candidate
 priority: 2
 relevance: adjacent
@@ -20,6 +23,7 @@ found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
 - search/reward-hacking
+- search/comp-safety
 added: 2026-09-28
 cited_by:
   - "[[Hopman2026 - Scheming propensity in LLM agents]]"

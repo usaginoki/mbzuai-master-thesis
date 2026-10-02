@@ -10,9 +10,9 @@ url: https://arxiv.org/abs/2605.13851
 arxiv: "2605.13851"
 pdf: "[[Fukui2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2605.13851
-questions: [Q5, Q6, Q7.1, Q7.2]
+questions: [Q5, Q6, Q7.1, Q7.2, Q18]
 relevance: core
-topics: [multiagent-friction]
+topics: [multiagent-friction, social-simulation]
 found_by:
   - search/mas-competition-collusion
   - search/mas-error-propagation
@@ -24,6 +24,7 @@ tags:
   - q/6
   - q/7-1
   - q/7-2
+  - q/18
   - subject/llm
   - subject/agent
   - channel/orchestrator-delegation

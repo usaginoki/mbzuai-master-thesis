@@ -10,7 +10,7 @@ arxiv: '2606.11172'
 pdf_url: https://arxiv.org/pdf/2606.11172
 topics:
 - misalignment-prediction
-status: candidate
+status: processing
 priority: 1
 relevance: core
 manipulation: Activation probes at intermediate reasoning steps trained on the likelihood of future behaviours (not on behaviour already visible in text)

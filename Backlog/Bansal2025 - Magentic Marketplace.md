@@ -10,6 +10,10 @@ arxiv: "2510.25779"
 pdf_url: https://arxiv.org/pdf/2510.25779
 topics:
 - multiagent-friction
+- agent-competition
+questions:
+- Q20
+- Q21.2
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +23,7 @@ outcome: "Frontier models near-optimal welfare only under ideal search; 10-30x f
 why: "Market-scale agent competition and manipulation"
 found_by:
 - search/mas-competition-collusion
+- search/comp-contexts
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

@@ -10,9 +10,9 @@ url: https://arxiv.org/abs/2508.00614
 arxiv: "2508.00614"
 pdf: "[[Meincke2025.pdf]]"
 pdf_url: https://arxiv.org/pdf/2508.00614
-questions: [Q2, Q3.1, Q4.1, Q4.2]
+questions: [Q2, Q3.1, Q4.1, Q4.2, Q21.1]
 relevance: adjacent
-topics: [stress-misalignment]
+topics: [stress-misalignment, agent-competition]
 cited_by_count: 0
 tags:
   - type/paper
@@ -21,6 +21,7 @@ tags:
   - q/3-1
   - q/4-1
   - q/4-2
+  - q/21-1
   - stressor/threat-shutdown
   - stressor/emotional-prompt
   - stressor/high-stakes

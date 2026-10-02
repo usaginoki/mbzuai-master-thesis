@@ -11,9 +11,9 @@ arxiv: "2510.20270"
 code: https://github.com/safety-research/impossiblebench
 pdf: "[[Zhong2025.pdf]]"
 pdf_url: https://arxiv.org/pdf/2510.20270
-questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.2, Q4.1, Q4.2, Q21.2]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, agent-competition]
 cites:
   - "[[Denison2024 - Sycophancy to Subterfuge]]"
   - "[[Pan2024 - Feedback Loops With Language Models Drive In-Context Reward]]"
@@ -31,6 +31,7 @@ tags:
   - q/3-2
   - q/4-1
   - q/4-2
+  - q/21-2
   - stressor/impossible-task
   - stressor/performance-pressure
   - behavior/reward-hacking

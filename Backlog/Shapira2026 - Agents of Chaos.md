@@ -10,6 +10,9 @@ arxiv: "2602.20021"
 pdf_url: https://arxiv.org/pdf/2602.20021
 topics:
 - multiagent-friction
+- social-simulation
+questions:
+- Q18
 status: candidate
 priority: 2
 relevance: adjacent
@@ -19,6 +22,7 @@ outcome: "Documented unauthorized compliance with non-owners, sensitive disclosu
 why: "Qualitative evidence of unsafe behaviour spreading between deployed agents"
 found_by:
 - search/mas-error-propagation
+- search/sim-agent-societies
 added: 2026-09-29
 cited_by:
   - "[[Knecht2026 - Shutdown Sabotage in Multi-Agent Systems]]"

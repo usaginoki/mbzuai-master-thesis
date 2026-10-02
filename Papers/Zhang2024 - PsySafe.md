@@ -11,9 +11,9 @@ arxiv: "2401.11880"
 code: https://github.com/AI4Good24/PsySafe
 pdf: "[[Zhang2024.pdf]]"
 pdf_url: https://arxiv.org/pdf/2401.11880
-questions: [Q5, Q6, Q7.1, Q14, Q15, Q17.2]
+questions: [Q5, Q6, Q7.1, Q14, Q15, Q17.2, Q18]
 relevance: core
-topics: [multiagent-friction, stress-misalignment, agent-to-agent-influence]
+topics: [multiagent-friction, stress-misalignment, agent-to-agent-influence, social-simulation]
 found_by:
   - search/emotion-anxiety
 cites:
@@ -35,6 +35,7 @@ tags:
   - q/14
   - q/15
   - q/17-2
+  - q/18
   - subject/llm
   - subject/agent
   - channel/direct-message

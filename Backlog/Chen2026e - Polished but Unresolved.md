@@ -15,7 +15,7 @@ questions:
 - Q14
 - Q15
 - Q17.1
-status: candidate
+status: processing
 priority: 1
 relevance: core
 manipulation: 'Linear probe for ''late-stage pressure'' on the first generated token of each action (AUROC 0.916 on Qwen3-14B). The agent never sees the score: 0.4-0.65 triggers a steering vector, above 0.65 a one-off prompt asking the model to list satisfied/uncertain requirements, inserted into its context.'

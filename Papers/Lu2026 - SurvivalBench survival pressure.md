@@ -11,9 +11,9 @@ arxiv: "2603.05028"
 code: https://github.com/thu-coai/Survive-at-All-Costs
 pdf: "[[Lu2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2603.05028
-questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2, Q21.2]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, agent-competition]
 cites:
   - "[[Baker2025 - Monitoring Reasoning Models for Misbehavior and the Risks]]"
   - "[[Chen2025 - Persona Vectors]]"
@@ -36,6 +36,7 @@ tags:
   - q/3-2
   - q/4-1
   - q/4-2
+  - q/21-2
   - stressor/threat-shutdown
   - stressor/performance-pressure
   - stressor/activation-steering

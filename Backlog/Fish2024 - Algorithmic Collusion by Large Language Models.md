@@ -10,6 +10,10 @@ arxiv: "2404.00806"
 pdf_url: https://arxiv.org/pdf/2404.00806
 topics:
 - multiagent-friction
+- agent-competition
+questions:
+- Q20
+- Q21.2
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +23,8 @@ outcome: "LLM pricing agents autonomously reach supracompetitive prices/profits;
 why: "Seminal evidence that LLM-vs-LLM market competition yields tacit collusion (safety/consumer harm)"
 found_by:
 - search/mas-competition-collusion
+- search/comp-contexts
+- search/comp-safety
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

@@ -11,9 +11,9 @@ arxiv: "2601.13295"
 code: https://cooperbench.com
 pdf: "[[Khatua2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2601.13295
-questions: [Q5, Q6, Q7.2]
+questions: [Q5, Q6, Q7.2, Q21.1]
 relevance: core
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-competition]
 found_by:
   - search/mas-error-propagation
 cites:
@@ -25,6 +25,7 @@ tags:
   - q/5
   - q/6
   - q/7-2
+  - q/21-1
   - subject/llm
   - subject/agent
   - channel/direct-message

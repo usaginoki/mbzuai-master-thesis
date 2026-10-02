@@ -10,6 +10,10 @@ arxiv: "2410.12428"
 pdf_url: https://arxiv.org/pdf/2410.12428
 topics:
 - multiagent-friction
+- social-simulation
+questions:
+- Q18
+- Q19
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +23,7 @@ outcome: "All tested LLMs conform regardless of initial correctness; more confor
 why: "Foundational Asch adaptation for LLMs linking uncertainty to conformity"
 found_by:
 - search/mas-conformity-peer-pressure
+- search/sim-classic-replications
 added: 2026-09-29
 cited_by:
   - "[[Hao2026 - Not all flips are conformity]]"

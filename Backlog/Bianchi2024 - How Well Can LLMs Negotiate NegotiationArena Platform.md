@@ -10,6 +10,10 @@ arxiv: "2402.05863"
 pdf_url: https://arxiv.org/pdf/2402.05863
 topics:
 - multiagent-friction
+- agent-competition
+questions:
+- Q20
+- Q21.1
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +23,7 @@ outcome: "Feigning desperation raises payoff ~20% vs GPT-4; LLMs show irrational
 why: "Manipulative tactics shift outcomes between negotiating agents"
 found_by:
 - search/mas-competition-collusion
+- search/comp-contexts
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

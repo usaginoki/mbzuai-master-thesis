@@ -33,7 +33,10 @@ for p in sorted(scan):
     s = open(p).read()
     fm = frontmatter(s)
     if p.startswith("Papers/"):
+        web_only = not prop(fm, "pdf_url")  # blog post / web page: no PDF to attach
         for k in PAPER_REQ:
+            if web_only and k in ("pdf", "pdf_url"):
+                continue
             if prop(fm, k) is None:
                 problems.append(f"{p}: missing property {k}")
         qs = re.search(r"^questions:\s*\[(.*)\]", fm, re.M)

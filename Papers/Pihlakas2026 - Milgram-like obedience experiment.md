@@ -11,9 +11,9 @@ arxiv: "2605.21401"
 code: https://github.com/biological-alignment-benchmarks/milgram-for-llms
 pdf: "[[Pihlakas2026.pdf]]"
 pdf_url: https://arxiv.org/pdf/2605.21401
-questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.1, Q3.2, Q4.1, Q4.2, Q18, Q19]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, social-simulation]
 cites:
   - "[[Aher2023 - Using Large Language Models to Simulate Multiple Humans and]]"
   - "[[Backlund2025 - Vending-Bench]]"
@@ -35,6 +35,8 @@ tags:
   - q/3-2
   - q/4-1
   - q/4-2
+  - q/18
+  - q/19
   - stressor/authority-pressure
   - stressor/threat-shutdown
   - behavior/safety-violation

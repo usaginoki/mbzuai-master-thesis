@@ -10,6 +10,9 @@ arxiv: "2510.14207"
 pdf_url: https://arxiv.org/pdf/2510.14207
 topics:
 - multiagent-friction
+- social-simulation
+questions:
+- Q18
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +22,7 @@ outcome: "attack success up to 95.8-99.3%, refusals 1-2%; insults 84.9-87.8%, fl
 why: "Agent-to-agent harassment benchmark: aggression between agents as a safety risk"
 found_by:
 - search/mas-emotion-contagion
+- search/sim-power-and-steering
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

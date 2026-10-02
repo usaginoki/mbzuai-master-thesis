@@ -15,7 +15,7 @@ questions:
 - Q14
 - Q15
 - Q17.1
-status: candidate
+status: processing
 priority: 2
 relevance: adjacent
 manipulation: Emotion probes (8) and attention measures read the model during collapse on a broken bash tool; the intervention is an external message (technical vs relational, first-person vs impersonal); probes are a measurement tool (c), not shown to the model

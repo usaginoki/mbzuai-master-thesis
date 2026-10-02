@@ -9,12 +9,17 @@ arxiv: '2312.16171'
 pdf_url: https://arxiv.org/pdf/2312.16171
 topics:
 - stress-misalignment
+- agent-competition
+questions:
+- Q21.1
 status: candidate
 priority: 3
 relevance: adjacent
 manipulation: tips / threats in prompts
 outcome: performance
 why: origin of the 'tip or threaten the model' advice
+found_by:
+- search/comp-performance
 added: 2026-09-28
 cited_by:
   - "[[Meincke2025 - Threats and tips prompting]]"

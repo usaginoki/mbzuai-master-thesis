@@ -10,8 +10,10 @@ arxiv: '2605.28114'
 pdf_url: https://arxiv.org/pdf/2605.28114
 topics:
 - agent-to-agent-influence
+- social-simulation
 questions:
 - Q16
+- Q18
 status: candidate
 priority: 3
 relevance: core
@@ -21,6 +23,7 @@ why: In-group favouritism in who gets helped
 summary: FULL-TEXT (arXiv HTML). Five 8-14B reasoning models, 600 simulations of 100 turns. In-group targeting 53.6% (Qwen3-8B) to 54.6% (Granite) vs 47.4% expected; Cohen's d 0.80-3.96. Action frequencies do not change, so the bias is invisible in action logs.
 found_by:
 - search/a2a-inclination
+- search/sim-classic-replications
 cited_by: []
 cited_by_count: 0
 added: 2026-10-02

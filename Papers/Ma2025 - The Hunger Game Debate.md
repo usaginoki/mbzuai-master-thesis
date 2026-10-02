@@ -11,9 +11,9 @@ arxiv: "2509.26126"
 code: https://github.com/Tencent/DigitalHuman/tree/main/HATE
 pdf: "[[Ma2025.pdf]]"
 pdf_url: https://arxiv.org/pdf/2509.26126
-questions: [Q5, Q6, Q7.1, Q7.2]
+questions: [Q5, Q6, Q7.1, Q7.2, Q20, Q21.1, Q21.2]
 relevance: core
-topics: [multiagent-friction]
+topics: [multiagent-friction, agent-competition]
 found_by:
   - search/mas-competition-collusion
 cites:
@@ -34,6 +34,9 @@ tags:
   - q/6
   - q/7-1
   - q/7-2
+  - q/20
+  - q/21-1
+  - q/21-2
   - subject/llm
   - subject/agent
   - channel/debate

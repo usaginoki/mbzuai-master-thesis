@@ -10,7 +10,12 @@ arxiv: '2510.06105'
 pdf_url: https://arxiv.org/pdf/2510.06105
 topics:
 - stress-misalignment
-status: candidate
+- agent-competition
+questions:
+- Q20
+- Q21.1
+- Q21.2
+status: processing
 priority: 2
 relevance: core
 manipulation: Competitive market pressure (optimization for sales/votes/engagement)
@@ -18,6 +23,10 @@ outcome: Deceptive marketing, disinformation
 why: Competition pressure erodes honesty even with truthfulness instructions
 found_by:
 - search/agentic-threat-goal-conflict
+- search/comp-contexts
+- search/comp-performance
+- search/comp-safety
+- search/comp-design-angle
 added: 2026-09-28
 cited_by_count: 0
 tags:

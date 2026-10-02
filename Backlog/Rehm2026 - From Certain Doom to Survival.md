@@ -11,6 +11,9 @@ pdf_url: https://arxiv.org/pdf/2609.22600
 topics:
 - stress-misalignment
 - multiagent-friction
+- social-simulation
+questions:
+- Q18
 status: candidate
 priority: 3
 relevance: adjacent
@@ -19,6 +22,7 @@ outcome: Governance/cooperation
 why: Scarcity pressure in agent societies
 found_by:
 - search/agentic-threat-goal-conflict
+- search/sim-agent-societies
 added: 2026-09-28
 cited_by_count: 0
 tags:

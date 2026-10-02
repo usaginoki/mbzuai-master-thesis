@@ -10,9 +10,11 @@ topics:
 - stress-misalignment
 - misalignment-prediction
 - agent-to-agent-influence
+- social-simulation
 questions:
 - Q16
 - Q17.2
+- Q18
 status: candidate
 priority: 1
 relevance: core
@@ -24,6 +26,7 @@ found_by:
 - search/pred-eval-to-deployment
 - search/a2a-inclination
 - search/a2a-effects-safety
+- search/sim-power-and-steering
 added: 2026-09-28
 cited_by:
   - "[[Knecht2026 - Shutdown Sabotage in Multi-Agent Systems]]"

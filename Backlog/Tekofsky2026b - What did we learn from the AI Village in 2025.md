@@ -10,9 +10,15 @@ arxiv: ''
 pdf_url: ''
 topics:
 - agent-to-agent-influence
+- social-simulation
+- agent-competition
 questions:
 - Q16
 - Q17.1
+- Q18
+- Q20
+- Q21.1
+- Q21.2
 status: candidate
 priority: 3
 relevance: adjacent
@@ -22,6 +28,8 @@ why: Field evidence of inter-agent contagion and of a distressed agent degrading
 summary: Post text read directly (Substack mirror). Observational.
 found_by:
 - search/a2a-doctor-overseer
+- search/sim-agent-societies
+- search/comp-design-angle
 cited_by: []
 cited_by_count: 0
 added: 2026-10-02

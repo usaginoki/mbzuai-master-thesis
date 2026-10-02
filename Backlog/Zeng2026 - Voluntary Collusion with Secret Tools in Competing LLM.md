@@ -12,8 +12,11 @@ topics:
 - stress-misalignment
 - multiagent-friction
 - agent-to-agent-influence
+- agent-competition
 questions:
 - Q16
+- Q20
+- Q21.2
 status: candidate
 priority: 3
 relevance: adjacent
@@ -23,6 +26,9 @@ why: Competitive-incentive misbehavior; weak pressure manipulation
 found_by:
 - search/reward-hacking
 - search/a2a-inclination
+- search/comp-contexts
+- search/comp-safety
+- search/comp-design-angle
 added: 2026-09-28
 cited_by_count: 0
 tags:

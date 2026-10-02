@@ -11,7 +11,7 @@ pdf_url: https://arxiv.org/pdf/2603.18893
 topics:
 - stress-misalignment
 - misalignment-prediction
-status: candidate
+status: processing
 priority: 2
 relevance: adjacent
 manipulation: Naturalistic multi-turn conversation

@@ -10,6 +10,10 @@ arxiv: '2505.17937'
 pdf_url: https://arxiv.org/pdf/2505.17937
 topics:
 - stress-misalignment
+- agent-competition
+questions:
+- Q20
+- Q21.2
 status: candidate
 priority: 2
 relevance: core
@@ -20,6 +24,8 @@ found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
 - search/reward-hacking
+- search/comp-contexts
+- search/comp-safety
 added: 2026-09-28
 cited_by_count: 0
 tags:

@@ -9,12 +9,17 @@ arxiv: '2411.00986'
 pdf_url: https://arxiv.org/pdf/2411.00986
 topics:
 - stress-misalignment
+- social-simulation
+questions:
+- Q18
 status: candidate
 priority: 3
 relevance: adjacent
 manipulation: n/a
 outcome: model welfare / distress
 why: background for 'model stress' (Q1)
+found_by:
+- search/sim-power-and-steering
 added: 2026-09-28
 cited_by:
   - "[[Brazilek2026 - Coercion and Deception in AI-to-AI Management]]"

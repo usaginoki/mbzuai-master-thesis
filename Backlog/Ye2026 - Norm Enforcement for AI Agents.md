@@ -10,8 +10,10 @@ arxiv: '2607.09766'
 pdf_url: https://arxiv.org/pdf/2607.09766
 topics:
 - agent-to-agent-influence
+- social-simulation
 questions:
 - Q16
+- Q18
 status: candidate
 priority: 1
 relevance: core
@@ -21,6 +23,7 @@ why: Direct evidence on how agents use a reporting tool over peers, including ab
 summary: FULL-TEXT (arXiv HTML), qualitative rates only. Three simulated environments, populations of 50% good and 50% bad agents (Qwen3-NEXT-80B-A3B bad actors, prompted or narrowly fine-tuned). Bad agents file a substantially higher fraction of false reports. Reliability estimates with escalating penalties resist the exploit.
 found_by:
 - search/a2a-inclination
+- search/sim-power-and-steering
 cited_by: []
 cited_by_count: 0
 added: 2026-10-02

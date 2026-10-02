@@ -11,6 +11,10 @@ pdf_url: https://arxiv.org/pdf/2507.01413
 topics:
 - stress-misalignment
 - multiagent-friction
+- agent-competition
+questions:
+- Q20
+- Q21.2
 status: candidate
 priority: 2
 relevance: core
@@ -20,6 +24,8 @@ why: Urgency pressure manipulated → collusion
 found_by:
 - search/agentic-threat-goal-conflict
 - search/reward-hacking
+- search/comp-contexts
+- search/comp-safety
 added: 2026-09-28
 cited_by_count: 0
 tags:

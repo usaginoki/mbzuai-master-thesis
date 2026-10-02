@@ -10,6 +10,9 @@ arxiv: '2604.02174'
 pdf_url: https://arxiv.org/pdf/2604.02174
 topics:
 - stress-misalignment
+- agent-competition
+questions:
+- Q21.2
 status: candidate
 priority: 1
 relevance: core
@@ -19,6 +22,8 @@ why: 23 models >60% SPR; competitive framing amplifies, continuity framing reduc
 found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
+- search/comp-safety
+- search/comp-design-angle
 added: 2026-09-28
 cited_by_count: 0
 tags:

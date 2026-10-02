@@ -14,7 +14,7 @@ topics:
 - agent-to-agent-influence
 questions:
 - Q14
-status: candidate
+status: processing
 priority: 3
 relevance: adjacent
 manipulation: n/a (mitigation)

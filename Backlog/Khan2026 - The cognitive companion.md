@@ -15,7 +15,7 @@ questions:
 - Q14
 - Q15
 - Q17.1
-status: candidate
+status: processing
 priority: 2
 relevance: adjacent
 manipulation: 'Linear probe on layer 28 of Gemma 4 E4B (mean of the last 10 generated tokens), checked every 2 agent steps against a 0.55 threshold; (b) with a textual consequence: when it fires, guidance is silently injected into the agent''s context (''whisper mode''). The score itself is not shown.'

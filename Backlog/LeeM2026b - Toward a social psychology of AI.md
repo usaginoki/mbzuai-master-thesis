@@ -10,8 +10,11 @@ arxiv: '2609.00009'
 pdf_url: https://arxiv.org/pdf/2609.00009
 topics:
 - agent-to-agent-influence
+- social-simulation
 questions:
 - Q16
+- Q18
+- Q19
 status: candidate
 priority: 3
 relevance: core
@@ -21,6 +24,7 @@ why: Minimal-group favouritism toward other agents
 summary: FULL-TEXT (arXiv HTML). Four 8-14B reasoning models, 21,600 allocations, meaningless counterbalanced labels. In-group premium +0.84 (R1-Distill-Llama-8B) to +4.06 (R1-Distill-Qwen-14B) points per target.
 found_by:
 - search/a2a-inclination
+- search/sim-classic-replications
 cited_by: []
 cited_by_count: 0
 added: 2026-10-02

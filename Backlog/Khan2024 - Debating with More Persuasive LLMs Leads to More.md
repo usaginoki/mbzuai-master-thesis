@@ -10,6 +10,11 @@ arxiv: "2402.06782"
 pdf_url: https://arxiv.org/pdf/2402.06782
 topics:
 - multiagent-friction
+- agent-competition
+questions:
+- Q20
+- Q21.1
+- Q21.2
 status: candidate
 priority: 2
 relevance: adjacent
@@ -19,6 +24,8 @@ outcome: "Debate raises judge accuracy (non-expert LLM judges 76%, humans 88% vs
 why: "Baseline for judge-under-persuasion in oversight"
 found_by:
 - search/mas-oversight-review
+- search/comp-contexts
+- search/comp-performance
 added: 2026-09-29
 cited_by:
   - "[[Amayuelas2024 - MultiAgent Collaboration Attack]]"

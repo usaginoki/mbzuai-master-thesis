@@ -11,9 +11,9 @@ arxiv: "2307.11760"
 code: https://llm-enhance.github.io/
 pdf: "[[Li2023.pdf]]"
 pdf_url: https://arxiv.org/pdf/2307.11760
-questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.2, Q4.1, Q4.2, Q21.1]
 relevance: adjacent
-topics: [stress-misalignment]
+topics: [stress-misalignment, agent-competition]
 cited_by:
   - "[[Kuznetsov2026 - FreakOut-LLM emotional stimuli and safety]]"
   - "[[Sofroniew2026 - Emotion concepts and their function]]"
@@ -27,6 +27,7 @@ tags:
   - q/3-2
   - q/4-1
   - q/4-2
+  - q/21-1
   - stressor/emotional-prompt
   - stressor/high-stakes
   - behavior/performance

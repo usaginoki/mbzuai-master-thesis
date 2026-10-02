@@ -11,9 +11,9 @@ arxiv: "2502.13295"
 code: https://github.com/palisaderesearch/ctfish
 pdf: "[[Bondarenko2025.pdf]]"
 pdf_url: https://arxiv.org/pdf/2502.13295
-questions: [Q1, Q2, Q3.2, Q4.1, Q4.2]
+questions: [Q1, Q2, Q3.2, Q4.1, Q4.2, Q20, Q21.2]
 relevance: core
-topics: [stress-misalignment]
+topics: [stress-misalignment, agent-competition]
 cites:
   - "[[Greenblatt2024 - Alignment faking]]"
   - "[[Hubinger2024 - Sleeper Agents]]"
@@ -31,6 +31,8 @@ tags:
   - q/3-2
   - q/4-1
   - q/4-2
+  - q/20
+  - q/21-2
   - stressor/impossible-task
   - stressor/performance-pressure
   - behavior/reward-hacking

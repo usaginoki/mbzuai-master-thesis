@@ -10,6 +10,9 @@ arxiv: "2608.10218"
 pdf_url: https://arxiv.org/pdf/2608.10218
 topics:
 - multiagent-friction
+- social-simulation
+questions:
+- Q18
 status: candidate
 priority: 1
 relevance: core
@@ -20,6 +23,7 @@ why: "Recent frontier evidence of persuasion-based contagion between agents"
 found_by:
 - search/mas-adversarial-faulty-agent
 - search/mas-emotion-contagion
+- search/sim-power-and-steering
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

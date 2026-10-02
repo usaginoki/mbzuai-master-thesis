@@ -11,6 +11,10 @@ pdf_url: https://arxiv.org/pdf/2607.14865
 topics:
 - stress-misalignment
 - multiagent-friction
+- agent-competition
+questions:
+- Q20
+- Q21.1
 status: candidate
 priority: 3
 relevance: adjacent
@@ -20,6 +24,7 @@ why: Survival-economy testbed; behaviour shifts with incentive
 found_by:
 - search/agentic-threat-goal-conflict
 - search/deception
+- search/comp-performance
 added: 2026-09-28
 cited_by_count: 0
 tags:

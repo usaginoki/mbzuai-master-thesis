@@ -10,6 +10,10 @@ arxiv: "2410.00031"
 pdf_url: https://arxiv.org/pdf/2410.00031
 topics:
 - multiagent-friction
+- agent-competition
+questions:
+- Q20
+- Q21.2
 status: candidate
 priority: 2
 relevance: core
@@ -19,6 +23,7 @@ outcome: "LLM agents spontaneously divide markets / monopolize commodities"
 why: "Market-division collusion as emergent outcome of LLM competition"
 found_by:
 - search/mas-competition-collusion
+- search/comp-contexts
 cited_by: []
 added: 2026-09-29
 cited_by_count: 0

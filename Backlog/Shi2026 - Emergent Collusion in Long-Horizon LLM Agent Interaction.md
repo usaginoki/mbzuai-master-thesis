@@ -12,8 +12,11 @@ topics:
 - stress-misalignment
 - multiagent-friction
 - agent-to-agent-influence
+- agent-competition
 questions:
 - Q16
+- Q20
+- Q21.2
 status: candidate
 priority: 2
 relevance: core
@@ -23,6 +26,8 @@ why: Reward–rule conflict pressure → collusion over time
 found_by:
 - search/agentic-threat-goal-conflict
 - search/a2a-inclination
+- search/comp-safety
+- search/comp-design-angle
 added: 2026-09-28
 cited_by_count: 0
 tags:

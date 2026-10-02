@@ -10,7 +10,7 @@ arxiv: '2507.12428'
 pdf_url: https://arxiv.org/pdf/2507.12428
 topics:
 - misalignment-prediction
-status: candidate
+status: processing
 priority: 1
 relevance: core
 manipulation: Linear probe on chain-of-thought activations of reasoning models, compared with text monitors (LLMs, fine-tuned classifiers, humans) on the CoT text
